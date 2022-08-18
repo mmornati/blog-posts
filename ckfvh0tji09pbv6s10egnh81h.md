@@ -73,12 +73,78 @@ Here what I configured for my 6 orders radiator, into the **automations.yaml** f
 
 
 ```
-- alias: Set Qubino to Comfort 
-   initial_state: 'off' 
-   trigger: 
-     platform: state 
-     entity_id: input_select.qubino to: 'Comfort' 
-     action: service: light.turn_on entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 100 id: 322e1962112842dab4defab990286212 - alias: Set Qubino to Comfort -1 initial_state: 'off' trigger: platform: state entity_id: input_select.qubino to: 'Comfort -1' action: service: light.turn_on entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 45 id: bb19039062934ca5ba4f26ead890b4ee - alias: Set Qubino to Comfort -2 initial_state: 'off' trigger: platform: state entity_id: input_select.qubino to: 'Comfort -2' action: service: light.turn_on entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 35 id: ee3069bd1f16476ea33ff4b1a875575a - alias: Set Qubino to Eco initial_state: 'off' trigger: platform: state entity_id: input_select.qubino to: 'Eco' action: service: light.turn_on entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 25 id: 8397b8f4cccd4dca90996ba38e760ba4 - alias: Set Qubino to Anti Freeze initial_state: 'off' trigger: platform: state entity_id: input_select.qubino to: 'Anti Freeze' action: service: light.turn_on entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 15 id: 04d972cb89ba4fce96b669c95e4e4e48 - alias: Set Qubino to Stop initial_state: 'off' trigger: platform: state entity_id: input_select.qubino to: 'Stop' action: service: light.turn_off entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level data: brightness: 0 id: 9d3e9fcf237449eaac1bd771e1509b0b
+- alias: Set Qubino to Comfort
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Comfort'
+  action:
+    service: light.turn_on
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 100
+  id: 322e1962112842dab4defab990286212
+- alias: Set Qubino to Comfort -1
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Comfort -1'
+  action:
+    service: light.turn_on
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 45
+  id: bb19039062934ca5ba4f26ead890b4ee
+- alias: Set Qubino to Comfort -2
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Comfort -2'
+  action:
+    service: light.turn_on
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 35
+  id: ee3069bd1f16476ea33ff4b1a875575a
+- alias: Set Qubino to Eco
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Eco'
+  action:
+    service: light.turn_on
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 25
+  id: 8397b8f4cccd4dca90996ba38e760ba4
+- alias: Set Qubino to Anti Freeze
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Anti Freeze'
+  action:
+    service: light.turn_on
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 15
+  id: 04d972cb89ba4fce96b669c95e4e4e48
+- alias: Set Qubino to Stop
+  initial_state: 'off'
+  trigger:
+    platform: state
+    entity_id: input_select.qubino
+    to: 'Stop'
+  action:
+    service: light.turn_off
+    entity_id: light.qubino_zmnhjd1_flush_dimmer_pilot_wire_level
+    data:
+      brightness: 0
+  id: 9d3e9fcf237449eaac1bd771e1509b0b
 ```
 
 
