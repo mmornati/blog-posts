@@ -32,7 +32,7 @@ The wiring is really simple and you can follow what is proposed directly on the 
 
 We can modify a little bit the first schema and introduce our Smart Module:
 
-![schema_vmc_fgs224.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661199129037/WIu4tck8F.png align="left")
+![schema_vmc_fgs224.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661266682894/RUbSwuz3s.png align="left")
 
 NB: If you are choosing a different one, you have to check the documentation to be sure how to link it up.
 
