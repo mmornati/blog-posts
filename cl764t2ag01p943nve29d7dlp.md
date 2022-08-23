@@ -233,16 +233,17 @@ So, we can easily automate based on the humidity of rooms!!
     - platform: time_pattern
       minutes: "/30"
   condition:
-    - or:
-        - condition: numeric_state
-          entity_id: sensor.humidity_114
-          above: 70
-        - condition: numeric_state
-          entity_id: sensor.humidity_112
-          above: 70
-        - condition: numeric_state
-          entity_id: sensor.humidity_93
-          above: 70
+    - and:
+        - or:
+            - condition: numeric_state
+              entity_id: sensor.humidity_114
+              above: 70
+            - condition: numeric_state
+              entity_id: sensor.humidity_112
+              above: 70
+            - condition: numeric_state
+              entity_id: sensor.humidity_93
+              above: 70
         - condition: template
           value_template: "{{ not is_state('input_select.vmc', 'Vitesse 2') }}"
   action:
