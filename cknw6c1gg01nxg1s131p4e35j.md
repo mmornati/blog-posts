@@ -31,7 +31,6 @@ Assembling it, with the proper video is quite simple... even without it is not s
 
 ![IMG_20210422_200543.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1619292844381/KCVRrPEhz.jpeg)
 
-![IMG_20210422_201244.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1619
 ![IMG_20210422_204829.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1619292857797/FnqNlPbPg.jpeg)
 92850364/loLx7SZtB.jpeg)
 
