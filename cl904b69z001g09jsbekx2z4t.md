@@ -1,1 +1,33 @@
-IyMgUGVyc29uYWxpemUgeW91ciBiYXNoIHdpdGggR0lUL1NWTiBhbmQgY29sb3JzCgpJZiB5b3Ugd29yayBldmVyeWRheSBvbiBhIExpbnV4IHNoZWxsIGFuZCBuZWVkIHRvIG1hbmFnZSBwcm9qZWN0cyBvbiBHSVQgb3IgU1ZOIGNvZGUgY29udHJvbCBzeXN0ZW1zLCBjb3VsZCBiZSB1c2VmdWwgdG8gZ2V0IGluZm9ybWF0aW9ucyBhYm91dCB0aGVtIGRpcmVjdGx5IG9uIHlvdXIgYmFzaC4KCllvdSBjYW4gZWFzaWx5IGRvIHRoYXQgd2l0aCBzb21lIGNoYW5nZXMgaW50b8KgPHN0cm9uZz4vZXRjL2Jhc2hyYzwvc3Ryb25nPiBmaWxlIG9mIHlvdXIgTGludXguCkdvIHRvIHRoZSBlbmQgb2YgdGhhdCBmaWxlIGFuZCBhZGQgdGhlIGZvbGxvd2luZ3MgbGluZXM6CjxwcmU+PGNvZGU+IDxjb2RlPnBhcnNlX2dpdF9icmFuY2goKSB7CiAgZ2l0IGJyYW5jaCAyJmd0OyAvZGV2L251bGwgfCBzZWQgLWUgJy9eW14qXS9kJyAtZSAncy8qICguKikvKGdpdDo6MSkvJwp9CnBhcnNlX3N2bl9icmFuY2goKSB7CiAgcGFyc2Vfc3ZuX3VybCB8IHNlZCAtZSAncyNeJyIkKHBhcnNlX3N2bl9yZXBvc2l0b3J5X3Jvb3QpIicjI2cnIHwgYXdrIC1GIC8gJ3twcmludCAiKHN2bjo6IiQxICIvIiAkMiAiKSJ9Jwp9CnBhcnNlX3N2bl91cmwoKSB7CiAgc3ZuIGluZm8gMiZndDsvZGV2L251bGwgfCBncmVwIC1lICdeVVJMKicgfCBzZWQgLWUgJ3MjXlVSTDogKiguKikjMSNnICcKfQpwYXJzZV9zdm5fcmVwb3NpdG9yeV9yb290KCkgewogIHN2biBpbmZvIDImZ3Q7L2Rldi9udWxsIHwgZ3JlcCAtZSAnXlJlcG9zaXRvcnkgUm9vdDoqJyB8IHNlZCAtZSAncyNeUmVwb3NpdG9yeSBSb290OiAqKC4qKSMxLyNnICcKfQoKIyB2aW06dHM9NDpzdz00CiMgQ29sb3JzIGluIFRlcm1pbmFsCmlmIFsgJFVTRVIgPSByb290IF07IHRoZW4KICAgICAgICBQUzE9J1szM1sxOzMxbV1bdUBoIFddJFszM1swbV0gJwplbHNlCiAgICAgICAgI1BTMT0nWzMzWzAxOzMybV11QGhbMzNbMDBtXSBbMzNbMDE7MzRtXVdbMzNbMDBtXVszM1sxOzMybV0kWzMzW21dICcKICAgICAgICBQUzE9IlszM1swMTszMm1ddUBoWzMzWzAwbV0gWzMzWzAxOzM0bV1XWzMzWzAwbV1bMzNbMTszMm1dWzMzWzMxbV0kKHBhcnNlX2dpdF9icmFuY2gpJChwYXJzZV9zdm5fYnJhbmNoKVszM1swMG1dWzMzWzE7MzJtXSRbMzNbbV0gIjwvY29kZT48L3ByZT4KV2UgaGF2ZSBhZGRlZCBzb21lIEJhc2ggZnVuY3Rpb25zIHRvIGNhbGwgZ2l0IGFuZCBzdm4gY29tbWFuZHMgYW5kIHJldHJpZXZlIGluZm9ybWF0aW9ucyBhYm91dCB5b3VyIGNvZGUgY29udHJvbC4KVGhlbiB3ZSBvdmVycmlkZSB0aGXCoDxzdHJvbmc+UFMxPC9zdHJvbmc+IHZhcmlhYmxlLCB1c2VkIGJ5IEJhc2ggcHJvZ3JhbSB0byBwZXJzb25hbGl6ZSB0aGUgcHJvbXB0LCBhZGRpbmcgY29sb3JzIChyZWQgZm9yIHJvb3QgdXNlcikgYW5kIGNhbGxpbmcgZGVmaW5lZCBmdW5jdGlvbnMuClRoZSByZXN1bHQsIHdoZW4geW91IGVudGVyIGludG8gYSByZXBvc2l0b3J5IGZvbGRlciwgaXMgdGhlIGZvbGxvd2luZyAoZm9yIGEgZ2l0IHByb2plY3QpOgo8cHJlPjxjb2RlPiA8Y29kZT5tbW9ybmF0aUBkZXNrdG9wIHJhc2tpaWRvYyhnaXQ6Om1hc3RlcikkPC9jb2RlPjwvcHJlPgpJbmRpY2F0aW5nIHRoZSByZXBvc2l0b3J5IHR5cGUgKDxlbT5naXQ8L2VtPikgYW5kIHRoZSBuYW1lIG9mIHRoZSBjdXJyZW50IGJyYW5jaCAoPGVtPm1hc3RlcjwvZW0+KS4KCjxhIGhyZWY9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxMzkxNjQxMDMwL1NjaGVybWF0YS0yMDEzLTExLTExLWFsbGUtMjJfNTRfMDdfdW56Y2p2LnBuZyI+PGltZyBjbGFzcz0iYWxpZ25jZW50ZXIgc2l6ZS10aHVtYm5haWwgd3AtaW1hZ2UtOTI0IiBhbHQ9IlNjaGVybWF0YSAyMDEzLTExLTExIGFsbGUgMjIuNTQuMDciIHNyYz0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvY19jcm9wLGhfODMsd18xNTAseF8xMTAseV8wL3YxMzkxNjQxMDMwL1NjaGVybWF0YS0yMDEzLTExLTExLWFsbGUtMjJfNTRfMDdfdW56Y2p2LnBuZyIgd2lkdGg9IjE1MCIgaGVpZ2h0PSI4MyIgLz48L2E+IDxhIGhyZWY9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxMzkxNjQxMDI5L1NjaGVybWF0YS0yMDEzLTExLTExLWFsbGUtMjJfNTRfMzhfdXBoNGs1LnBuZyI+PGltZyBjbGFzcz0iYWxpZ25jZW50ZXIgc2l6ZS10aHVtYm5haWwgd3AtaW1hZ2UtOTI1IiBhbHQ9IlNjaGVybWF0YSAyMDEzLTExLTExIGFsbGUgMjIuNTQuMzgiIHNyYz0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvY19jcm9wLGhfODgsd18xNTAseF84Nyx5XzAvdjEzOTE2NDEwMjkvU2NoZXJtYXRhLTIwMTMtMTEtMTEtYWxsZS0yMl81NF8zOF91cGg0azUucG5nIiB3aWR0aD0iMTUwIiBoZWlnaHQ9Ijg4IiAvPjwvYT4=
+# Personalize your bash with GIT/SVN and colors
+
+If you work everyday on a Linux shell and need to manage projects on GIT or SVN code control systems, could be useful to get informations about them directly on your bash.
+
+You can easily do that with some changes into <strong>/etc/bashrc</strong> file of your Linux.
+Go to the end of that file and add the followings lines:
+<pre><code> <code>parse_git_branch() {
+  git branch 2&gt; /dev/null | sed -e '/^[^*]/d' -e 's/* (.*)/(git::1)/'
+}
+parse_svn_branch() {
+  parse_svn_url | sed -e 's#^'"$(parse_svn_repository_root)"'##g' | awk -F / '{print "(svn::"$1 "/" $2 ")"}'
+}
+parse_svn_url() {
+  svn info 2&gt;/dev/null | grep -e '^URL*' | sed -e 's#^URL: *(.*)#1#g '
+}
+parse_svn_repository_root() {
+  svn info 2&gt;/dev/null | grep -e '^Repository Root:*' | sed -e 's#^Repository Root: *(.*)#1/#g '
+}
+
+# vim:ts=4:sw=4
+# Colors in Terminal
+if [ $USER = root ]; then
+        PS1='[33[1;31m][u@h W]$[33[0m] '
+else
+        #PS1='[33[01;32m]u@h[33[00m] [33[01;34m]W[33[00m][33[1;32m]$[33[m] '
+        PS1="[33[01;32m]u@h[33[00m] [33[01;34m]W[33[00m][33[1;32m][33[31m]$(parse_git_branch)$(parse_svn_branch)[33[00m][33[1;32m]$[33[m] "</code></pre>
+We have added some Bash functions to call git and svn commands and retrieve informations about your code control.
+Then we override the <strong>PS1</strong> variable, used by Bash program to personalize the prompt, adding colors (red for root user) and calling defined functions.
+The result, when you enter into a repository folder, is the following (for a git project):
+<pre><code> <code>mmornati@desktop raskiidoc(git::master)$</code></pre>
+Indicating the repository type (<em>git</em>) and the name of the current branch (<em>master</em>).
+
+<a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641030/Schermata-2013-11-11-alle-22_54_07_unzcjv.png"><img class="aligncenter size-thumbnail wp-image-924" alt="Schermata 2013-11-11 alle 22.54.07" src="https://res.cloudinary.com/blog-mornati-net/image/upload/c_crop,h_83,w_150,x_110,y_0/v1391641030/Schermata-2013-11-11-alle-22_54_07_unzcjv.png" width="150" height="83" /></a> <a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641029/Schermata-2013-11-11-alle-22_54_38_uph4k5.png"><img class="aligncenter size-thumbnail wp-image-925" alt="Schermata 2013-11-11 alle 22.54.38" src="https://res.cloudinary.com/blog-mornati-net/image/upload/c_crop,h_88,w_150,x_87,y_0/v1391641029/Schermata-2013-11-11-alle-22_54_38_uph4k5.png" width="150" height="88" /></a>
