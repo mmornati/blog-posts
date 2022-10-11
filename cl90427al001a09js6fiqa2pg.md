@@ -1,1 +1,27 @@
-IyMgRmlraTogdGhlIGZpbGUgYmFzZWQgV2lraQoKSW4gdGhlIElUIHdvcmsgd2UgYWx3YXlzIG5lZWQgdG8ga2VlcCBhbmQgc2hhcmUgaW5mb3JtYXRpb24sIGJ1dCByaWdodCBub3csIGFueSB0aGluZyB3ZSB0ZXN0ZWQgZm9yIHRoaXMgd2FzIGFiYW5kb25lZCBhZnRlciBzb21lIHdlZWsgb2YgdXNhZ2UuClRoZSBwcm9ibGVtIGlzIG5vcm1hbGx5IHdlIGhhdmUgdG8gd29yayBvbiB0aGUgdGVjaG5pY2FsIHN0dWZmcywgdGhlbiB3cml0ZSB0aGUgY3VzdG9tZXIgZG9jdW1lbnRhdGlvbiBhbmQsIG5vcm1hbGx5LCBkdXJpbmcgdGhlc2UgcHJvY2Vzc2VzIHdlIGhhdmUgdG8gd3JpdGUgaW1wb3J0YW50IGluZm9ybWF0aW9uIG9uIHRoZSBpbnRlcm5hbCB3aWtpIChob3cgdG8gY29ubmVjdCB0byBjdXN0b21lciBzZXJ2ZXJzLCBjb21tb24gcHJvYmxlbXMsIC4uLikuCgpGb3IgdGhpcyByZWFzb24gYSA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbGxpY291ci8iIHRhcmdldD0iX2JsYW5rIj5jb2xsZWFndWUgb2YgbWluZTwvYT4gY3JlYXRlcyBhICJydWJ5IGJ1aWxkZXIiICg8ZW0+cmFrZTwvZW0+KSB0byBjb21waWxlIGFuIDxhIGhyZWY9Imh0dHA6Ly93d3cubWV0aG9kcy5jby5uei9hc2NpaWRvYy8iIHRhcmdldD0iX2JsYW5rIj5hc2NpaWRvYzwvYT4gZG9jdW1lbnQgaW50byBhIFBERiBkb2N1bWVudCwgaHRtbCBwYWdlIG9yIDxhIGhyZWY9Imh0dHA6Ly93d3cudzMub3JnL1RhbGtzL1Rvb2xzL1NsaWR5Mi8jKDEpIiB0YXJnZXQ9Il9ibGFuayI+c2xpZHk8L2E+IHBhZ2U6IDxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2xsaWNvdXIvcmFza2lpZG9jIiB0YXJnZXQ9Il9ibGFuayI+cmFza2lpZG9jPC9hPi48L3N0cm9uZz7CoEluIHRoaXMgd2F5IHdlIGNhbiBlYXNpbHkgY3JlYXRlIGEgc2luZ2xlIGRvY3VtZW50IGFuZCB0aGVuIHVzZSBpdCBhcyBjdXN0b21lciBkb2N1bWVudGF0aW9uLCBpbmZvcm1hdGlvbiBmb3IgaW50ZXJuYWwgd2lraSBhbmQsIGlmIG5lZWRlZCwgc2xpZGVzIGZvciBhIHRyYWluaW5nL3ByZXNlbnRhdGlvbi4gRm9sbG93aW5nIHRoZSAid3JpdGUgb25jZSB1c2UgbWFueSIgd2Ugc2hvdWxkIHJlYWNoIG91ciBnb2FsISAoYXQgbGVhc3QgSSBob3BlIHNvIDspKS4KCkFmdGVyIHRoaXMgdGhlIHByb2JsZW0gd2FzOiBob3cgd2UgY2FuIHB1Ymxpc2ggYWxsIGh0bWwgcGFnZXMgKHdpdGggYSBsaXR0bGUgYml0IG9mIHNlY3VyaXR5KSB3aXRob3V0IGhhdmluZyB0byAiY3V0ICZhbXA7IHBhc3RlIiBpbnRvIGEgd2lraSBvciBhbnkgb3RoZXIgbWFudWFsIG9wZXJhdGlvbi4gVGhhdCB0aGUgcmVhc29uIGZvciB0aGUgRmlLaSAoRmlsZSBCYXNlZCBXaWtpKS4KVGhlIHVzYWdlIGlzIHJlYWxseSBzaW1wbGUsIHlvdSBqdXN0IG5lZWQgdG8gY29uZmlndXJlIHRoZSBzZWN1cml0eSAoYWN0dWFsbHkgd2UgaGF2ZSBjcmVhdGVkIGxkYXAgYW5kIGZpbGUgYXV0aGVudGljYXRpb24pIGFuZCB0aGUgZGF0YSBkaXJlY3RvcnkgKHdoZXJlIHlvdSB3YW50IHRvIHN0b3JlIHRoZSBodG1sIGZpbGVzKSBhbmQgdGhlbiBGaUtpIHdpbGwgZGlzcGxheSBhbGwgYXZhaWxhYmxlIGNvbnRlbnRzLgpJbiB0aGUgZGF0YSBmb2xkZXIgeW91IHNob3VsZCBjcmVhdGUgYSBmb2xkZXIgZm9yIGFueSBhcmd1bWVudHMgeW91IHdhbnQgdG8gYWRkIHRvIHRoZSB3aWtpLCBhbmQgaW5zaWRlIHRoZSBhcmd1bWVudCBmb2xkZXIgeW91IGNhbiBwdXNoIGFsbCBodG1sL3BkZiBmaWxlcyBjcmVhdGVkIHVzaW5nIHJhc2tpaWRvYy4gRWFzeSwgaXNuJ3QgaXQ/IDopCgpUbyBjb21wbGV0ZSB0aGUgQ0lEIChDb250aW51b3MgSW50ZWdyYXRpb24gRG9jdW1lbnRhdGlvbikgd2UgY3JlYXRlZCBqb2JzIGluIDxhIGhyZWY9Imh0dHA6Ly9qZW5raW5zLWNpLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPmplbmtpbnM8L2E+wqB0byBhdXRvbWF0aWNhbGx5IGRvd25sb2FkIHRoZSBsYXRlc3QgZG9jIHZlcnNpb24gZnJvbSBvdXIgZ2l0IHJlcG9zaXRvcnksIGJ1aWxkIGl0IGFuZCBwdXNoIHRoZSByZXN1bHQgaW50byB0aGUgZmlraSBkYXRhIGZvbGRlciEKV2UganVzdCBuZWVkIHRvIG1vZGlmeSB0aGUgYXNjaWlkb2MsIHB1c2ggaXQgYW5kIGN1c3RvbWVyIGRvYyAocGRmKSBhbmQgd2lraSBwYWdlcyBhcmUgYXV0b21hdGljYWxseSB1cGRhdGVkLiBTTyB3ZSBhcmUgc3VyZSB0byByZWFkIGFsd2F5cyB0aGUgbGF0ZXN0IGluZm9ybWF0aW9uIG9uIHRoZSB3aWtpIQoKV2UgcmVhbGl6ZWQgdHdvIGxpdHRsZSB2aWRlb3MgdG8gc2hvd24gdGhlIGJhc2UgZnVuY3Rpb25zIG9mIEZpS2kKCmh0dHA6Ly95b3V0dS5iZS9vXy1LS3RDUXNzMAoKYW5kIGhvdyB5b3UgY2FuIGNyZWF0ZSBhbmQgY3VzdG9taXplIG5ldyBhcmd1bWVudHMKCmh0dHA6Ly95b3V0dS5iZS94V1kzSDRBN1AwZwoKJm5ic3A7CgombmJzcDsKCiZuYnNwOw==
+# Fiki: the file based Wiki
+
+In the IT work we always need to keep and share information, but right now, any thing we tested for this was abandoned after some week of usage.
+The problem is normally we have to work on the technical stuffs, then write the customer documentation and, normally, during these processes we have to write important information on the internal wiki (how to connect to customer servers, common problems, ...).
+
+For this reason a <a href="https://github.com/llicour/" target="_blank">colleague of mine</a> creates a "ruby builder" (<em>rake</em>) to compile an <a href="http://www.methods.co.nz/asciidoc/" target="_blank">asciidoc</a> document into a PDF document, html page or <a href="http://www.w3.org/Talks/Tools/Slidy2/#(1)" target="_blank">slidy</a> page: <strong><a href="https://github.com/llicour/raskiidoc" target="_blank">raskiidoc</a>.</strong> In this way we can easily create a single document and then use it as customer documentation, information for internal wiki and, if needed, slides for a training/presentation. Following the "write once use many" we should reach our goal! (at least I hope so ;)).
+
+After this the problem was: how we can publish all html pages (with a little bit of security) without having to "cut &amp; paste" into a wiki or any other manual operation. That the reason for the FiKi (File Based Wiki).
+The usage is really simple, you just need to configure the security (actually we have created ldap and file authentication) and the data directory (where you want to store the html files) and then FiKi will display all available contents.
+In the data folder you should create a folder for any arguments you want to add to the wiki, and inside the argument folder you can push all html/pdf files created using raskiidoc. Easy, isn't it? :)
+
+To complete the CID (Continuos Integration Documentation) we created jobs in <a href="http://jenkins-ci.org" target="_blank">jenkins</a> to automatically download the latest doc version from our git repository, build it and push the result into the fiki data folder!
+We just need to modify the asciidoc, push it and customer doc (pdf) and wiki pages are automatically updated. SO we are sure to read always the latest information on the wiki!
+
+We realized two little videos to shown the base functions of FiKi
+
+http://youtu.be/o_-KKtCQss0
+
+and how you can create and customize new arguments
+
+http://youtu.be/xWY3H4A7P0g
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
