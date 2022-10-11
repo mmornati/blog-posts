@@ -1,1 +1,9 @@
-IyMgZVBvbW9kb3JvOiB1c2VyIGd1aWRlCgpJIG5vdGljZWQgdGhhdCBzb21lIG9uZSBhcnJpdmVkIG9uIHRoaXMgYmxvZyB1c2luZyAiPGVtPmhvdyB0byB1c2UgZXBvbW9kb3JvIGVjbGlwc2UgcGx1Z2luPC9lbT4iIGFzIHNlYXJjaCB0ZXJtLiBTb21ldGltZXMgSSB0aGluayB0aGluZ3MgYWxsIGFsd2F5cyBzaW1wbGUsIGJ1dCwgZXZlbiBmb3Igc2ltcGxlIHRoaW5ncyBpdCdzIGJldHRlciB0byBoYXZlIGEgbGl0dGxlIGd1aWRlLgoKU28gaGVyZSB5b3UgYXJlIHNvbWUgaW5zdHJ1Y3Rpb25zIQoKPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21tb3JuYXRpL2Vwb21vZG9yby93aWtpL2VQb21vZG9yby1HdWlkZSI+aHR0cHM6Ly9naXRodWIuY29tL21tb3JuYXRpL2Vwb21vZG9yby93aWtpL2VQb21vZG9yby1HdWlkZTwvYT4KCiZuYnNwOw==
+# ePomodoro: user guide
+
+I noticed that some one arrived on this blog using "<em>how to use epomodoro eclipse plugin</em>" as search term. Sometimes I think things all always simple, but, even for simple things it's better to have a little guide.
+
+So here you are some instructions!
+
+<a href="https://github.com/mmornati/epomodoro/wiki/ePomodoro-Guide">https://github.com/mmornati/epomodoro/wiki/ePomodoro-Guide</a>
+
+&nbsp;
