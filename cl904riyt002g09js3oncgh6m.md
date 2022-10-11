@@ -1,1 +1,64 @@
-IyMgRXhlY3V0ZSBhIGR5bmFtaWMgTU9URCBzY3JpcHRzIG9uIENlbnRvczYKCkEgdGhpbmcgSSBmb3VuZCB1c2VmdWwgaW4gdGhlIGRlZmF1bHQgY29uZmlndXJhdGlvbiBvZiBEZWJpYW4gYW5kIFVidW50dSBTeXN0ZW1zLCBpcyB0aGUgTU9URCBtZXNzYWdlIChNZXNzYWdlIE9mIFRoZSBEYXkpIGRpc3BsYXksIGFueSB0aW1lIHlvdSBsb2dpbiBpbnRvIHN5c3RlbSwgaW5mb3JtYXRpb24gYWJvdXQgcGFja2FnZXMgdXBkYXRlcywgbG9hZCwgLi4uCgpUaGUgZm9sbG93aW5nIGd1aWRlIGRpc3BsYXkgaG93IHlvdSBjYW4gY29uZmlndXJlIGl0IG9uIGEgQ2VudG9zIFN5c3RlbSAob3Igd2UgY291bGQgc2F5IGFueSBSZWRIYXQgYmFzZWQgc3lzdGVtKS4KCkZpcnN0IG9mIGFsbCwgd2UgbmVlZCB0byBjb25maWd1cmUgYSBQQU0gY29ubmVjdGlvbiBtb2R1bGU6CjxwcmU+PGNvZGU+IDxjb2RlPnZpIC9ldGMvcGFtLmQvbG9naW48L2NvZGU+PC9wcmU+CkFkZGluZyB0aGlzIGxpbmUgYXQgdGhlIGVuZCBvZiB0aGUgZmlsZQo8cHJlPjxjb2RlPiA8Y29kZT5zZXNzaW9uICAgIG9wdGlvbmFsICAgICBwYW1fbW90ZC5zbzwvY29kZT48L3ByZT4KVGhlbiB3ZSBuZWVkIHRvIGNyZWF0ZSBvdXIgc2NyaXB0cyBhbmQgZXhlY3V0ZSBpdCBhbnl0aW1lIHdlIGxvZyBpbnRvIHN5c3RlbS4gRm9yIHRoZSBleGVjdXRpb24gcGFydCwgYXMgeW91IHN1cmVseSBrbm93LCBhbnkgYmFzaCBleGVjdXRpb24sIHJ1biBhIHNjcmlwdCBuYW1lZMKgPHN0cm9uZz4vZXRjL3Byb2ZpbGU8L3N0cm9uZz4gKHdpdGgsIGlmIHByZXNlbnRzLCBzb21lIHVzZXIgY3VzdG9taXphdGlvbnMpLiBTbyB3ZSBjYW4gc2ltcGx5IGFkZCBhIGNhbGwgdG8gb3VyIHNjcmlwdHMgYXQgdGhlIGVuZCBvZiB0aGlzIGZpbGUsIHNvbWV0aGluZyBsaWtlwqA8ZW0+L3Vzci9sb2NhbC9iaW4vZHlubW90ZDwvZW0+LgoKVGhlbiBjcmVhdGUsIGFuZCBtYWtlIGV4ZWN1dGFibGUsIHRoZSBzY3JpcHRzLCBwdXR0aW5nIGFsbCBpbmZvcm1hdGlvbiB5b3Ugd2FudCB0byBkaXNwbGF5IHRvIHRoZSB1c2Vycy4gVGhlIGZvbGxvd2luZyBpcywgZm9yIGV4YW1wbGUsIHRoZSBzY3JpcHQgSSdtIHVzaW5nIG9uIG15IGhvbWUgc2VydmVyLgo8cHJlPjxjb2RlPiA8Y29kZT5ibG9nL2NvcmUvYnVpbHQvc2NyaXB0cy9naG9zdC5qczogICAgICB1cGRhdGVTY3JvbGxQb3ModGhpcywgc1Bvcy5zY3JvbGxMZWZ0LCBzUG9zLnNjcm9sbFRvcCk7CiMhL2Jpbi9iYXNoCgpQUk9DQ09VTlQ9YHBzIC1BZmwgfCB3YyAtbGAKUFJPQ0NPVU5UPWBleHByICRQUk9DQ09VTlQgLSA1YApHUk9VUFo9YGdyb3Vwc2AKCmlmIFtbICRHUk9VUFogPT0gKmlyYyogXV07IHRoZW4KRU5EU0VTU0lPTj1gY2F0IC9ldGMvc2VjdXJpdHkvbGltaXRzLmNvbmYgfCBncmVwICJAaXJjIiB8IGdyZXAgbWF4bG9naW5zIHwgYXdrIHsncHJpbnQgJDQnfWAKUFJJVkxBR0VEPSJJUkMgQWNjb3VudCIKZWxzZQpFTkRTRVNTSU9OPSJVbmxpbWl0ZWQiClBSSVZMQUdFRD0iUmVndWxhciBVc2VyIgpmaQoKZWNobyAtZSAiXDAzM1sxOzMybQogXyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8gICAgICAgICAgICAgICAgICAgIAp8IHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfICAgKF8pICAgICAgICAgICAgICBfICAgIAp8IHwgXyAgIF9fXyAgX19fXyAgIF9fX18gICBfX19fICAgX19fICAgX19fXyBfX19fICAgX19fX3wgfF8gIF8gICBfX19fICAgX19fX3wgfF8gIAp8IHx8IFwgLyBfIFx8ICAgIFwgLyBfICApIHwgICAgXCAvIF8gXCAvIF9fXykgIF8gXCAvIF8gIHwgIF8pfCB8IHwgIF8gXCAvIF8gICkgIF8pIAp8IHwgfCB8IHxffCB8IHwgfCAoICgvIC8gX3wgfCB8IHwgfF98IHwgfCAgIHwgfCB8ICggKCB8IHwgfF9ffCB8X3wgfCB8ICggKC8gL3wgfF9fIAp8X3wgfF98XF9fXy98X3xffF98XF9fX198XylffF98X3xcX19fL3xffCAgIHxffCB8X3xcX3x8X3xcX19fKV8oXylffCB8X3xcX19fXylcX19fKQoKXDAzM1swOzM1bSsrKysrKysrKysrKysrKysrOiBcMDMzWzA7MzdtU3lzdGVtIERhdGFcMDMzWzA7MzVtIDorKysrKysrKysrKysrKysrKysrCisgIFwwMzNbMDszN21Ib3N0bmFtZSBcMDMzWzA7MzVtPSBcMDMzWzE7MzJtYGhvc3RuYW1lYApcMDMzWzA7MzVtKyAgIFwwMzNbMDszN21BZGRyZXNzIFwwMzNbMDszNW09IFwwMzNbMTszMm1gL3NiaW4vaWZjb25maWcgZXRoMCB8IGdyZXAgImluZXQgYWRkciIgfCBhd2sgLUY6ICd7cHJpbnQgJDJ9JyB8IGF3ayAne3ByaW50ICQxfSdgClwwMzNbMDszNW0rICAgIFwwMzNbMDszN21LZXJuZWwgXDAzM1swOzM1bT0gXDAzM1sxOzMybWB1bmFtZSAtcmAKXDAzM1swOzM1bSsgICAgXDAzM1swOzM3bVVwdGltZSBcMDMzWzA7MzVtPSBcMDMzWzE7MzJtYHVwdGltZSB8IHNlZCAncy8uKnVwIChbXixdKiksIC4qLzEvJ2AKXDAzM1swOzM1bSsgICAgICAgXDAzM1swOzM3bUNQVSBcMDMzWzA7MzVtPSBcMDMzWzE7MzJtYGNhdCAvcHJvYy9jcHVpbmZvIHwgZWdyZXAgLWkgJ15tb2RlbCBuYW1lJyB8IGhlYWQgLTEgfCBzZWQgLWUgJ3MvXi4qOiAvLydgClwwMzNbMDszNW0rICAgIFwwMzNbMDszN21NZW1vcnkgXDAzM1swOzM1bT0gXDAzM1sxOzMybWBjYXQgL3Byb2MvbWVtaW5mbyB8IGdyZXAgTWVtVG90YWwgfCBhd2sgeydwcmludCAkMid9YCBrQgpcMDMzWzA7MzVtKyAgIFwwMzNbMDszN21VcGRhdGVzIFwwMzNbMDszNW09IFwwMzNbMTszMm1gY2F0IC90bXAveXVtX3VwZGF0ZXMudHh0YApcMDMzWzA7MzVtKysrKysrKysrKysrKysrKysrOiBcMDMzWzA7MzdtVXNlciBEYXRhXDAzM1swOzM1bSA6KysrKysrKysrKysrKysrKysrKysKKyAgXDAzM1swOzM3bVVzZXJuYW1lIFwwMzNbMDszNW09IFwwMzNbMTszMm1gd2hvYW1pYApcMDMzWzA7MzVtKyBcMDMzWzA7MzdtUHJpdmxhZ2VzIFwwMzNbMDszNW09IFwwMzNbMTszMm0kUFJJVkxBR0VEClwwMzNbMDszNW0rICBcMDMzWzA7MzdtU2Vzc2lvbnMgXDAzM1swOzM1bT0gXDAzM1sxOzMybWB3aG8gfCBncmVwICRVU0VSIHwgd2MgLWxgIG9mICRFTkRTRVNTSU9OIE1BWApcMDMzWzA7MzVtKyBcMDMzWzA7MzdtUHJvY2Vzc2VzIFwwMzNbMDszNW09IFwwMzNbMTszMm0kUFJPQ0NPVU5UIG9mIGB1bGltaXQgLXVgIE1BWApcMDMzWzA7MzVtKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrPC9jb2RlPjwvcHJlPgpZb3UgY2FuIHB1dCB3aGF0IHlvdSB3YW50IG9uIHRoaXMgc2NyaXB0cywgYnV0IGlmIHlvdSBoYXZlIGNvbW1hbmRzIHRoYXQgdGFrZXMgbG9uZyB0aW1lIHRvIHJ1biwgbWVhbnMgeW91ciBsb2dpbiB0YWtlcyBsb25nIHRpbWUhIQpGb3IgZXhhbXBsZSwgeW91IGNhbiBzZWUgaW4gbXkgc2NyaXB0LCBJJ20gdXNpbmcgaW5mb3JtYXRpb25zIGNvbnRlbnRzIGludG8gYSBmaWxlIG5hbWVkwqA8ZW0+L3RtcC95dW1fdXBkYXRlcy50eHQ8L2VtPi4gVGhpcyBmaWxlIGp1c3QgaGFzIHRoZSBudW1iZXIgb2YgdXBkYXRlcyBhdmFpbGFibGUgZm9yIG15IHN5c3RlbSBhbmQgSSdtIHVzaW5nIGZpbGUgYmVjYXVzZSB0aGUgeXVtIGV4ZWN1dGlvbiBjb3VsZCB0YWtlIGxvbmcgdGltZSwgaWYgYSByZXBvc2l0b3J5IHVwZGF0ZXMgaXMgbmVlZGVkLiBUaGUgZmlsZSBpcyB1cGRhdGVkIGJ5IGFub3RoZXIgc2NyaXB0cyBJIHB1dCBvbiBteSBjcm9udGFiOgo8cHJlPjxjb2RlPiA8Y29kZT4wIDAgKiAqICogL3Vzci9sb2NhbC9iaW4vY2hlY2tfdXBkYXRlcyAmZ3Q7IC90bXAveXVtX3VwZGF0ZXMudHh0PC9jb2RlPjwvcHJlPgpUaGUgc2NyaXB0cyBjb250YWluczoKPHByZT48Y29kZT4gPGNvZGU+IyEvYmluL3NoCgpJRkFDRT1ldGgwCgppZiBbIC1uICIkKC9zYmluL2lmY29uZmlnICRJRkFDRSB8IC9iaW4vZ3JlcCBSVU5OSU5HKSIgXTsgdGhlbgogICAgICAgIC91c3IvYmluL3l1bSAtZCAwIGNoZWNrLXVwZGF0ZSAyJmd0Oy9kZXYvbnVsbCB8IGVjaG8gJCgoJCh3YyAtbCktMSkpCmZpCgpleGl0IDA8L2NvZGU+PC9wcmU+Ck1lYW5zLCBpZiBteSBzZXJ2ZXIgaXMgY29ubmVjdGVkICh3aXRoIGV0aDApIHRoZW4gZXhlY3V0ZSB0aGUgY29tbWFuZMKgPGVtPnl1bSBjaGVjay11cGRhdGU8L2VtPiBwdXR0aW5nIHRoZSByZXN1bHQgaW4gdGhlIHRleHQgZmlsZS4=
+# Execute a dynamic MOTD scripts on Centos6
+
+A thing I found useful in the default configuration of Debian and Ubuntu Systems, is the MOTD message (Message Of The Day) display, any time you login into system, information about packages updates, load, ...
+
+The following guide display how you can configure it on a Centos System (or we could say any RedHat based system).
+
+First of all, we need to configure a PAM connection module:
+<pre><code> <code>vi /etc/pam.d/login</code></pre>
+Adding this line at the end of the file
+<pre><code> <code>session    optional     pam_motd.so</code></pre>
+Then we need to create our scripts and execute it anytime we log into system. For the execution part, as you surely know, any bash execution, run a script named <strong>/etc/profile</strong> (with, if presents, some user customizations). So we can simply add a call to our scripts at the end of this file, something like <em>/usr/local/bin/dynmotd</em>.
+
+Then create, and make executable, the scripts, putting all information you want to display to the users. The following is, for example, the script I'm using on my home server.
+<pre><code> <code>blog/core/built/scripts/ghost.js:      updateScrollPos(this, sPos.scrollLeft, sPos.scrollTop);
+#!/bin/bash
+
+PROCCOUNT=`ps -Afl | wc -l`
+PROCCOUNT=`expr $PROCCOUNT - 5`
+GROUPZ=`groups`
+
+if [[ $GROUPZ == *irc* ]]; then
+ENDSESSION=`cat /etc/security/limits.conf | grep "@irc" | grep maxlogins | awk {'print $4'}`
+PRIVLAGED="IRC Account"
+else
+ENDSESSION="Unlimited"
+PRIVLAGED="Regular User"
+fi
+
+echo -e "\033[1;32m
+ _                                                            _                    
+| |                                                      _   (_)              _    
+| | _   ___  ____   ____   ____   ___   ____ ____   ____| |_  _   ____   ____| |_  
+| || \ / _ \|    \ / _  ) |    \ / _ \ / ___)  _ \ / _  |  _)| | |  _ \ / _  )  _) 
+| | | | |_| | | | ( (/ / _| | | | |_| | |   | | | ( ( | | |__| |_| | | ( (/ /| |__ 
+|_| |_|\___/|_|_|_|\____|_)_|_|_|\___/|_|   |_| |_|\_||_|\___)_(_)_| |_|\____)\___)
+
+\033[0;35m+++++++++++++++++: \033[0;37mSystem Data\033[0;35m :+++++++++++++++++++
++  \033[0;37mHostname \033[0;35m= \033[1;32m`hostname`
+\033[0;35m+   \033[0;37mAddress \033[0;35m= \033[1;32m`/sbin/ifconfig eth0 | grep "inet addr" | awk -F: '{print $2}' | awk '{print $1}'`
+\033[0;35m+    \033[0;37mKernel \033[0;35m= \033[1;32m`uname -r`
+\033[0;35m+    \033[0;37mUptime \033[0;35m= \033[1;32m`uptime | sed 's/.*up ([^,]*), .*/1/'`
+\033[0;35m+       \033[0;37mCPU \033[0;35m= \033[1;32m`cat /proc/cpuinfo | egrep -i '^model name' | head -1 | sed -e 's/^.*: //'`
+\033[0;35m+    \033[0;37mMemory \033[0;35m= \033[1;32m`cat /proc/meminfo | grep MemTotal | awk {'print $2'}` kB
+\033[0;35m+   \033[0;37mUpdates \033[0;35m= \033[1;32m`cat /tmp/yum_updates.txt`
+\033[0;35m++++++++++++++++++: \033[0;37mUser Data\033[0;35m :++++++++++++++++++++
++  \033[0;37mUsername \033[0;35m= \033[1;32m`whoami`
+\033[0;35m+ \033[0;37mPrivlages \033[0;35m= \033[1;32m$PRIVLAGED
+\033[0;35m+  \033[0;37mSessions \033[0;35m= \033[1;32m`who | grep $USER | wc -l` of $ENDSESSION MAX
+\033[0;35m+ \033[0;37mProcesses \033[0;35m= \033[1;32m$PROCCOUNT of `ulimit -u` MAX
+\033[0;35m+++++++++++++++++++++++++++++++++++++++++++++++++++</code></pre>
+You can put what you want on this scripts, but if you have commands that takes long time to run, means your login takes long time!!
+For example, you can see in my script, I'm using informations contents into a file named <em>/tmp/yum_updates.txt</em>. This file just has the number of updates available for my system and I'm using file because the yum execution could take long time, if a repository updates is needed. The file is updated by another scripts I put on my crontab:
+<pre><code> <code>0 0 * * * /usr/local/bin/check_updates &gt; /tmp/yum_updates.txt</code></pre>
+The scripts contains:
+<pre><code> <code>#!/bin/sh
+
+IFACE=eth0
+
+if [ -n "$(/sbin/ifconfig $IFACE | /bin/grep RUNNING)" ]; then
+        /usr/bin/yum -d 0 check-update 2&gt;/dev/null | echo $(($(wc -l)-1))
+fi
+
+exit 0</code></pre>
+Means, if my server is connected (with eth0) then execute the command <em>yum check-update</em> putting the result in the text file.
