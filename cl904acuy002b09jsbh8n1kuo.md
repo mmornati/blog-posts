@@ -1,1 +1,61 @@
-IyMgUHV0IHlvdXIgY3J5cHRlZCBiYWNrdXBzIG9uIHRoZSBjbG91ZAoKQmFja3VwcyBhcmUgaW1wb3J0YW50cyB0byBwcmV2ZW50IGZpbGUgbG9zZTogaW1hZ2UgaWYgdG9tb3Jyb3cgdGhlIGRpc2sgd2l0aCBhbGwgdGhlIHBob3RvcyBvZiB5b3VyIGZhbWlseSB3aWxsIGRpZS4gTm8gbW9yZSBwaG90b3Mgb2YgeW91ciBlYXJsaWVyIGxpZmUgd2lsbCBiZSBhdmFpbGFibGUuLi4gU28uLi7CoDxzdHJvbmc+QmFja3VwcyBhcmUgaW1wb3J0YW50PC9zdHJvbmc+LgpCdXQsIGl0J3MgaW1wb3J0YW50IHRvIGtlZXAgeW91ciBkYXRhIHNlY3JldC4gSWYgeW91IGRlY2lkZSB0byB1c2UgYW4gb25saW5lIHN0b3JhZ2UsIGFuZCB5b3UgbmVlZCB0byBwdXQgcHJpdmF0ZSBkYXRhIG9uIGl0IChpbXBvcnRhbnQgZG9jdW1lbnRzKSwgaXQncyBiZXR0ZXIgaWYgbm8gb25lIGNhbiByZWFkIHRoZW0hCgpGb3IgdGhpcyByZWFzb24gSSdkIGxpa2UgdG8gcHJvcG9zZSB5b3UgYSBzY3JpcHQgd2hpY2ggYmFja3VwcyB5b3VyIGRhdGEsIGNyeXB0IHRoZW0gdXNpbmcgdGhlIEdQRyBzeXN0ZW0gYW5kIHVwbG9hZCB0aGVuIG9uIERyb3Bib3gsIG9yIEh1YmljLCBvciBhbnl0aGluZyBlbHNlIHlvdSBwcmVmZXIuCkluIHRoaXMgZXhhbXBsZSBJIHNob3cgYSBjb25uZWN0aW9uIHRvIGEgcmVtb3RlIHN5c3RlbSB0byBiYWNrdXAgZmlsZXMgYW5kIGRhdGFiYXNlcyAobXkgV2ViU2VydmVyIHdpdGggdGhpcyBibG9nKS4KPHByZT48Y29kZT4gPGNvZGU+IyEvYmluL2Jhc2gKTE9HRklMRT0vdG1wL3Zwc19kYl9iYWNrdXAubG9nCkVYUEVDVEVEX0FSR1VNRU5UUz00CmV4ZWMgNiZndDsmYW1wOzEgICAgICAgICAgICMgTGluayBmaWxlIGRlc2NyaXB0b3IgIzYgd2l0aCB0aGUgc3RhbmRhcmQgb3V0cHV0CmV4ZWMgJmd0OyAkTE9HRklMRSAgICAgIyBzdGRvdXQgc2VudCB0byAkTE9HRklMRQoKI0NoZWNrIHNjcmlwdCBhcmd1bWVudHMKaWYgWyAkIyAtbmUgJEVYUEVDVEVEX0FSR1VNRU5UUyBdCnRoZW4KICAgIGV4ZWMgMSZndDsmYW1wOzYgNiZndDsmYW1wOy0KICAgIGVjaG8gIk5vIGFyZ3VtZW50cyBzdXBwbGllZC4iCiAgICBlY2hvICJTY3JpcHQgdXNhZ2U6IgogICAgZWNobyAiICQwIGRiX3VzZXJuYW1lIGRiX3Bhc3N3b3JkIHRhcmdldF9mb2xkZXIgZGVzdF9tYWlsIgogICAgZXhpdCAxCmZpClVTRVJOQU1FPSQxClBBU1NXT1JEPSQyCk9VVFBVVF9GT0xERVI9JDMKREVTVF9NQUlMPSQ0CkZJTEVfTkFNRT0idnBzX2RiX2JhY2t1cF8kKGRhdGUgKyIlZCVtJVkiKS5zcWwuZ3oiCmVjaG8gIlN0YXJ0aW5nIFZQUyBCYWNrdXA6ICQoZGF0ZSArIiVkLyVtLyVZICVIOiVNOiVTIikiCmVjaG8gIkJhY2t1cCBBbGwgVlBTIERCcyIKc3NoIC1DIHVzZXJAeW91cnNlcnZlci5uZXQgIm15c3FsZHVtcCAtLW9wdCAtLWNvbXByZXNzIC0tYWxsLWRhdGFiYXNlcyAtdSAkMSAtLXBhc3N3b3JkPSckMicgfCBnemlwIC05IC1jIiAmZ3Q7ICRGSUxFX05BTUUKZWNobyAiQ29weSBFbmNyeXBldGVkIGJhY2t1cCBmaWxlcyB0byBIdWJpYyIKZ3BnIC0tcGFzc3BocmFzZS1mZCAzIC0tcmVjaXBpZW50IGdwZy1lbWFpbC1hY2NvdW50IC0tZW5jcnlwdCAkRklMRV9OQU1FIDMmbHQ7Z3Bnc2VjcmV0CnN1ZG8gbXYgJEZJTEVfTkFNRS5ncGcgL21udC9odWJpYy9kZWZhdWx0L0JhY2t1cC9WUFMvZGJzCnN1ZG8gbXYgJEZJTEVfTkFNRSAkT1VUUFVUX0ZPTERFUgplY2hvICJCYWNrdXAgQ29tcGxldGVkOiAkKGRhdGUgKyIlZC8lbS8lWSAlSDolTTolUyIpISIKCm1haWwgLXMgIlZQUyBCYWNrdXAgUmVwb3J0IiAkREVTVF9NQUlMICZsdDsgJExPR0ZJTEUKCmV4ZWMgMSZndDsmYW1wOzYgNiZndDsmYW1wOy0gICAgICAjIFJlc3RvcmUgc3Rkb3V0IGFuZCBjbG9zZSBmaWxlIGRlc2NyaXB0b3IgIzYuCiNybSAtZiAkTE9HRklMRQplY2hvICJCYWNrdXAgQ29tcGxldGVkISIKZXhpdCAwPC9jb2RlPjwvcHJlPgpTb21lIGltcG9ydGFudCBub3RlcyBiZWZvcmUgeW91IGNhbiByZWFsbHkgZXhlY3V0ZSB0aGlzIHNjcmlwdC4KPHVsPgoJPGxpPllvdSBuZWVkIGEgR1BHIGtleSBvbiB5b3Ugc3lzdGVtIHRvIGNyeXB0IHRoZSBkYXRhLiBJZiB5b3UgYWxyZWFkeSBoYXZlIG9uZSB5b3UgY2FuIGltcG9ydGFudCBvbiB0aGUgc3lzdGVtIGlmIGl0J3Mgbm90IGFscmVhZHkgcHJlc2VudDoKPHByZT48Y29kZT4gPGNvZGU+Z3BnIC0taW1wb3J0IHlvdXJncGdrZXlmaWxlPC9jb2RlPjwvcHJlPgo8L2xpPgoJPGxpPllvdSBuZWVkIHRvIHNoYXJlIGEgcHVibGljIGtleSB3aXRoIHlvdXIgc2VydmVyIHRvIGFsbG93IHNzaCBhdXRvbWF0aWMgY29ubmVjdGlvbi4gVGhlIGVhc3kgd2F5IHRvIHRoaXMsIGFmdGVyIHRoZSBjcmVhdGlvbiBvZiB0aGUga2V5cwo8cHJlPjxjb2RlPiA8Y29kZT5zc2gtY29weS1pZCB1c2VyQHlvdXJzZXJ2ZXIubmV0PC9jb2RlPjwvcHJlPgo8L2xpPgoJPGxpPkNyZWF0ZSBhIGZpbGUgY29udGFpbmluZyB5b3VyIGdwZyBwYXNzd29yZC4gSGVyZSBmb3IgZXhhbXBsZSBuYW1lZMKgPGVtPmdwZ3NlY3JldC48L2VtPgo8cHJlPjxjb2RlPiA8Y29kZT5lY2hvICZndDsgZ3Bnc2VjcmV0ICZsdDsmbHQ7IEVPRgp5b3VyZ3BncHdkCkVPRgpjaG1vZCA0MDAgZ3Bnc2VjcmV0PC9jb2RlPjwvcHJlPgo8L2xpPgo8L3VsPgpOb3cgeW91IHNob3VsZCBiZSBhYmxlIHRvIGV4ZWN1dGUgdGhlIHNjcmlwdCB0aGF0IHdpbGwgY29ubmVjdCB0byB5b3VyIHJlbW90ZSBzZXJ2ZXIsIGV4ZWN1dGUgYSBiYWNrdXAgb2YgYWxsIGRhdGFiYXNlcywgY3J5cHQgYmFja3VwIHVzaW5nIGdwZywgbW92ZSBpdCB0byBIdWJpYyBmb2xkZXIgKHRoYXQgY291bGQgbmF0dXJhbGx5IGJlIHRoZSBEcm9wYm94IGZvbGRlcikgYW5kIHNlbmQgYW4gZW1haWwgd2l0aCB0aGUgbG9nLgo8cHJlPjxjb2RlPiA8Y29kZT4uL3lvdXJzY3JpcHQuc2ggbXlzcWxfdXNlciAnbXlzcWxfcHdkJyAvZGVzdGluYXRpb25fZm9sZGVyIGRlc3RpbmF0aW9uX2VtYWlsQHNlcnZlci5uZXQ8L2NvZGU+PC9wcmU+CkJhY2t1cDogZG9uZS4KU2VjdXJlZDogZG9uZS4=
+# Put your crypted backups on the cloud
+
+Backups are importants to prevent file lose: image if tomorrow the disk with all the photos of your family will die. No more photos of your earlier life will be available... So... <strong>Backups are important</strong>.
+But, it's important to keep your data secret. If you decide to use an online storage, and you need to put private data on it (important documents), it's better if no one can read them!
+
+For this reason I'd like to propose you a script which backups your data, crypt them using the GPG system and upload then on Dropbox, or Hubic, or anything else you prefer.
+In this example I show a connection to a remote system to backup files and databases (my WebServer with this blog).
+<pre><code> <code>#!/bin/bash
+LOGFILE=/tmp/vps_db_backup.log
+EXPECTED_ARGUMENTS=4
+exec 6&gt;&amp;1           # Link file descriptor #6 with the standard output
+exec &gt; $LOGFILE     # stdout sent to $LOGFILE
+
+#Check script arguments
+if [ $# -ne $EXPECTED_ARGUMENTS ]
+then
+    exec 1&gt;&amp;6 6&gt;&amp;-
+    echo "No arguments supplied."
+    echo "Script usage:"
+    echo " $0 db_username db_password target_folder dest_mail"
+    exit 1
+fi
+USERNAME=$1
+PASSWORD=$2
+OUTPUT_FOLDER=$3
+DEST_MAIL=$4
+FILE_NAME="vps_db_backup_$(date +"%d%m%Y").sql.gz"
+echo "Starting VPS Backup: $(date +"%d/%m/%Y %H:%M:%S")"
+echo "Backup All VPS DBs"
+ssh -C user@yourserver.net "mysqldump --opt --compress --all-databases -u $1 --password='$2' | gzip -9 -c" &gt; $FILE_NAME
+echo "Copy Encrypeted backup files to Hubic"
+gpg --passphrase-fd 3 --recipient gpg-email-account --encrypt $FILE_NAME 3&lt;gpgsecret
+sudo mv $FILE_NAME.gpg /mnt/hubic/default/Backup/VPS/dbs
+sudo mv $FILE_NAME $OUTPUT_FOLDER
+echo "Backup Completed: $(date +"%d/%m/%Y %H:%M:%S")!"
+
+mail -s "VPS Backup Report" $DEST_MAIL &lt; $LOGFILE
+
+exec 1&gt;&amp;6 6&gt;&amp;-      # Restore stdout and close file descriptor #6.
+#rm -f $LOGFILE
+echo "Backup Completed!"
+exit 0</code></pre>
+Some important notes before you can really execute this script.
+<ul>
+	<li>You need a GPG key on you system to crypt the data. If you already have one you can important on the system if it's not already present:
+<pre><code> <code>gpg --import yourgpgkeyfile</code></pre>
+</li>
+	<li>You need to share a public key with your server to allow ssh automatic connection. The easy way to this, after the creation of the keys
+<pre><code> <code>ssh-copy-id user@yourserver.net</code></pre>
+</li>
+	<li>Create a file containing your gpg password. Here for example named <em>gpgsecret.</em>
+<pre><code> <code>echo &gt; gpgsecret &lt;&lt; EOF
+yourgpgpwd
+EOF
+chmod 400 gpgsecret</code></pre>
+</li>
+</ul>
+Now you should be able to execute the script that will connect to your remote server, execute a backup of all databases, crypt backup using gpg, move it to Hubic folder (that could naturally be the Dropbox folder) and send an email with the log.
+<pre><code> <code>./yourscript.sh mysql_user 'mysql_pwd' /destination_folder destination_email@server.net</code></pre>
+Backup: done.
+Secured: done.
