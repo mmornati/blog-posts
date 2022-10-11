@@ -1,1 +1,186 @@
-IyMgTGltYS1WTTogZG9ja2VyLWRlc2t0b3AgYWx0ZXJuYXRpdmUgZm9yIE1hY09TWAoKT24gQXVndXN0IDMxc3QsIERvY2tlciBzdXJwcmlzZXMgdGhlIHdvcmxkIHdpdGggIFthIG5ld3NdKGh0dHBzOi8vd3d3LmRvY2tlci5jb20vYmxvZy91cGRhdGluZy1wcm9kdWN0LXN1YnNjcmlwdGlvbnMvKSAgYWJvdXQgdGhlIGRvY2tlci1kZXNrdG9wIGFwcGxpY2F0aW9uOiBpdCB3b24ndCBiZSBmcmVlIGFueW1vcmUuCkV2ZW4gaWYgaXQgaXMgYSBub3JtYWwgYW5kIGxlZ2l0IGRlY2lzaW9uLCB0aGlzIGNhbiBiZSBhIGhhcmQgZGVjaXNpb24gZm9yIGJpZyBjb21wYW5pZXMgYXMgdGhlIGZpbmFsIGludm9pY2UgY2FuIGhhdmUgY29uc2VxdWVuY2VzIG9uIHRoZSBJVCBidWRnZXQuCgpUaGUgc2FtZSBkYXkgSSBkaXNjb3ZlcmVkLCB0aGFua3MgdG8gIFtBa2loaXJvU3VkYSBNZWRpdW0gUG9zdF0oaHR0cHM6Ly9tZWRpdW0uY29tL250dGxhYnMvY29udGFpbmVyZC1hbmQtbGltYS0zOWUwYjY0ZDJhNTkpLCB0aGF0IGEgcG9zc2libGUgYWx0ZXJuYXRpdmUgZm9yIE1hY09TWCBleGlzdHMuLi4gYnV0IEkgbmVlZGVkIHRvIG1ha2Ugc29tZSBlbmhhbmNlbWVudHMgdG8gd2hhdCB3YXMgZGVzY3JpYmVkIGluIHRoZSBwb3N0IGFzIG15IHNwZWNpZmljIHVzZSBjYXNlcyByZXF1aXJlZCBtb3JlIHRoaW5ncy4KCiMjIEluc3RhbGxhdGlvbgpUaGUgbGltYSBpbnN0YWxsYXRpb24sIHRoYW5rcyB0byBob21lYnJldywgaXMgcmVhbGx5IHNpbXBsZSBhbmQgZXZlcnl0aGluZyBpcyBtYW5hZ2VkOgoKYGBgCmJyZXcgaW5zdGFsbCBsaW1hCmBgYAoKT25jZSBmaW5pc2hlZCB0aGVyZSBhcmUgMiBtYWluIGNvbW1hbmRzIGF2YWlsYWJsZSBvbiB5b3VyIFBDOiBgbGltYWAgdG8gYWNjZXNzIHRvIHRoZSB2aXJ0dWFsIG1hY2hpbmUgYW5kIGV4ZWN1dGUgImxpbnV4IiBjb21tYW5kczsgYGxpbWFjdHJsYCB0byBjb250cm9sIHRoZSBtYWNoaW5lLCBjcmVhdGUsIHN0YXJ0LCBzdG9wLCAuLi4KCkFzIExpbWEgaXMgYXV0b21hdGljYWxseSBmb3J3YXJkcyBhbGwgdGhlIFZNIHBvcnRzIHRvIHRoZSBob3N0IGFuZCBzaGFyZXMgdGhlIHZvbHVtZXMsIGV2ZXJ5dGhpbmcgaXMgYXMgZWFzeSBhcyB3aXRoIHRoZSBkb2NrZXItZGVza3RvcC4KVGhlIG1haW4gZGlmZmVyZW5jZSBpcyB0aGF0IGJ5IGRlZmF1bHQgaXQgaXMgbm90IHVzaW5nIHRoZSBgZG9ja2VyLWVuZ2luZWAgYnV0IHRoZSBgY29udGFpbmVyZGAgZGlyZWN0bHkgaW5zdGVhZC4gQnV0IGZvciBhIHN0YW5kYXJkIC8gc2ltcGxlIHVzYWdlIHRoaXMgaXMgZW5vdWdoLgoKIyMgUnVuIGFuZCBVc2UgY29udGFpbmVycwpUaGUgQ0xJIHRvIHVzZSB0byBpbnRlcmFjdCB3aXRoIHRoZSBkZWZhdWx0IGNvbnRhaW5lcmQgaXMgIFtuZXJkY3RsXShodHRwczovL2dpdGh1Yi5jb20vY29udGFpbmVyZC9uZXJkY3RsKS4uLiBidXQgaW4gdGhlIGVuZCB0aGUgYmlnIGRpZmZlcmVuY2UgaXMgb25seSBpbiB0aGUgc2NyaXB0IG5hbWUsIGJlY2F1c2UgYWxsIHRoZSBjb21tYW5kcyAoZXZlbiB0aGUgY29tcG9zZSBvbmUpIGFyZSB0aGVyZS4KClRvIHNpbXBsaWZ5IHRoZSB1c2FnZSwganVzdCBhZGQgYW4gYWxpYW4gb24geW91ciBNYWMgdG8gZGlyZWN0bHkgZXhlY3V0ZSB0aGUgcmlnaHQgY29tbWFuZDoKYGBgCmFsaWFzIGRvY2tlcj0ibGltYSBuZXJkY3RsIgpgYGAKCiMjIERvY2tlciBBUEkKQ29udGFpbmVyZCBpcyBub3QgZXhwb3NpbmcgYW4gQVBJIGxpa2UgdGhlIGRvY2tlciBvbmUsIHRoaXMgbWVhbnMgZm9yIHNvbWUgYXBwbGljYXRpb24gaXQgaXMgaW1wb3NzaWJsZSB0byBpbnRlcmFjdCBhbmQgY29udHJvbCBkb2NrZXIuIEZvciBleGFtcGxlLCBpbiBKYXZhIHVuaXQgdGVzdCB3aXRoICBbVGVzdGNvbnRhaW5lcnNdKGh0dHBzOi8vd3d3LnRlc3Rjb250YWluZXJzLm9yZy8pIHRoaXMgaW50ZXJhY3Rpb24gaXMgbWFuZGF0b3J5LgpCdXQgTGltYSBpcyBMaW51eCBhbmQgRG9ja2VyIGlzIE9TUy4uLiBzbyB5b3UgY2FuIGNvbmZpZ3VyZSBpdCB0byB1c2UgZG9ja2VyIGluc3RlYWQgb2YgY29udGFpbmVyZC4KQXMgQWtpaGlyb1N1ZGEgc3VnZ2VzdGVkIGluIGl0cyBwb3N0IGNvbW1lbnRzLCB0aGlzIGlzIHF1aXRlIHNpbXBsZToKYGBgCmN1cmwgLWZzU0wgaHR0cHM6Ly9nZXQuZG9ja2VyLmNvbSB8IGxpbWEKbGltYSBkb2NrZXJkLXJvb3RsZXNzLXNldHVwdG9vbC5zaCBpbnN0YWxsCmBgYApUaGVuIHlvdSBoYXZlIHRvIGFjY2VzcyB0byB0aGUgYGRvY2tlci5zb2NrYCBmcm9tIHlvdXIgTWFjLi4uIHRoaXMgY2FuIGJlIGRvbmUgd2l0aCB0aGUgZm9sbG93aW5nIGNvbW1hbmQ6CmBgYApzc2ggLXAgNjAwMjIgLWkgfi8ubGltYS9fY29uZmlnL3VzZXIgLW8gTm9Ib3N0QXV0aGVudGljYXRpb25Gb3JMb2NhbGhvc3Q9eWVzIC1MIH4vZG9ja2VyLnNvY2s6L3J1bi91c2VyLyQoaWQgLXUpL2RvY2tlci5zb2NrIDEyNy4wLjAuMQpgYGAKT25jZSBkb25lIHlvdSB3aWxsIGhhdmUgYSBgZG9ja2VyLnNvY2tgIGZpbGUgaW4geW91ciBob21lIGZvbGRlci4gCkp1c3QgY29uZmlndXJlIHRoZSBhcHBsaWNhdGlvbiByZXF1aXJpbmcgdGhlIERvY2tlciBBUEksIHRvIHVzZSB0aGUgc29ja2VkIHdpdGhpbiB5b3VyIGhvbWUgZm9sZGVyLgpUbyB0ZXN0IGlmIGV2ZXJ5dGhpbmcgaXMgd29ya2luZyB3ZWxsLCBmcm9tIHlvdXIgTWFjIHlvdSBjYW4gcnVuIHRoZSBmb2xsb3dpbmcgY29tbWFuZCB0aGF0IGlzIGVxdWl2YWxlbnQgdG8gcnVuIHRoZSBgZG9ja2VyIGltYWdlc2AgY29tbWFuZC4KYGBgCmN1cmwgLS11bml4LXNvY2tldCB+L2RvY2tlci5zb2NrIGh0dHA6Ly9sb2NhbGhvc3QvaW1hZ2VzL2pzb24KYGBgCgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MzA4NzcxMzM3MzQvdTYtVWpOMlU3LnBuZykKCkl0IGlzIHdvcmtpbmcgYnV0IGlzIHF1aXRlIGFubm95aW5nIGluIHRoZSBlbmQsIGFueXRpbWUgeW91IG5lZWQgdG8gaW50ZXJhY3Qgd2l0aCB0aGUgRG9ja2VyIEFQSSB5b3UgaGF2ZSB0byByZW1lbWJlciB0byBydW4gdGhpcyBjb21tYW5kLgoKKipXQVJOSU5HKio6IGJlZm9yZSB0byBydW4gdGhlIHNzaCBjb21tYW5kLCBjaGVjayBpZiB0aGUgYGRvY2tlci5zb2NrYCBmaWxlIGFscmVhZHkgZXhpc3RzIG9uIHlvdXIgTWFjLiBJZiBpdCB3YXMgbm90IGRlbGV0ZWQgYnkgYSBwcmV2aW91cyBleGVjdXRpb24sIHNzaCBjb3VsZG4ndCBjcmVhdGUgYSBuZXcgb25lIHdpdGggdGhlIHNhbWUgbmFtZS4gU28gbm90aGluZyB3aWxsIHdvcmsgaW4gdGhpcyBjYXNlLgoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjMwODc3MDU3MDU5L3p2OWpCb1lRRC5wbmcpCgojIyBQcml2YXRlIFJlZ2lzdHJ5CklmIHlvdSBuZWVkIHRvIHVzZSBhIHByaXZhdGUgcmVnaXN0cnksIHlvdSBuZWVkIHRvIGJlIHN1cmUgdG8gaGF2ZSBhbnl0aGluZyByZXF1aXJlZCB0byBsb2dpbiBpbnN0YWxsZWQgaW5zaWRlIHRoZSBWTS4KSW4gbXkgY2FzZSwgSSdtIGFsd2F5cyB1c2luZyBHQ1IvR0FSIFJlZ2lzdHJ5Li4uIHNvIEkgbmVlZGVkIHRvIGluc3RhbGwgdGhlIGdjbG91ZCBwYWNrYWdlIGluc2lkZSB0aGUgbGltYSBWTS4KCmBgYAplY2hvICJkZWIgW3NpZ25lZC1ieT0vdXNyL3NoYXJlL2tleXJpbmdzL2Nsb3VkLmdvb2dsZS5ncGddIGh0dHBzOi8vcGFja2FnZXMuY2xvdWQuZ29vZ2xlLmNvbS9hcHQgY2xvdWQtc2RrIG1haW4iIHwgc3VkbyB0ZWUgLWEgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvZ29vZ2xlLWNsb3VkLXNkay5saXN0CnN1ZG8gYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMgY2EtY2VydGlmaWNhdGVzIGdudXBnCmN1cmwgaHR0cHM6Ly9wYWNrYWdlcy5jbG91ZC5nb29nbGUuY29tL2FwdC9kb2MvYXB0LWtleS5ncGcgfCBzdWRvIGFwdC1rZXkgLS1rZXlyaW5nIC91c3Ivc2hhcmUva2V5cmluZ3MvY2xvdWQuZ29vZ2xlLmdwZyBhZGQgLQpzdWRvIGFwdC1nZXQgdXBkYXRlICYmIHN1ZG8gYXB0LWdldCBpbnN0YWxsIC15IGdvb2dsZS1jbG91ZC1zZGsKYGBgClRoZW4ganVzdCBjb25uZWN0IHRoZSBkb2NrZXIgdG8gdGhlIGRlc2lyZWQgZ2Nsb3VkIHJlZ2lzdHJ5OgpgYGAKZXhwb3J0IERPQ0tFUl9IT1NUPXVuaXg6Ly8vcnVuL3VzZXIvJChpZCAtdSkvZG9ja2VyLnNvY2sKZ2Nsb3VkIGF1dGggY29uZmlndXJlLWRvY2tlciAtLXF1aWV0CmRvY2tlciBsb2dpbiB4eHh4CmBgYAoqKk5PVEU6KiogeW91IHN1cmVseSBuZWVkIHRvIGxvZ2luIHRvIGdjbG91ZCB0byBiZSBhYmxlIHRvIHVzZSB0aGUgcHJpdmF0ZSBkb2NrZXIgcmVnaXN0cnkgKGBnY2xvdWQgYXV0aCBsb2dpbmApLgoKIyMgUGFja2FnZSBldmVyeXRoaW5nIGluIGEgY29uZmlndXJhdGlvbiBmaWxlCkluc3RlYWQgb2YgY29uZmlndXJpbmcgYWxsIHRoZSB0aGluZ3MgbWFudWFsbHkgZXZlcnl0aW1lLCB5b3UgY2FuIGJlbmVmaXQgZnJvbSB0aGUgbGltYS55YW1sIGZpbGUgYW5kIHBhY2thZ2UgZXZlcnl0aGluZyB5b3UgbmVlZC4KVGhlIGltcG9ydGFudCBwYXJ0IGlzIHRoYXQgYWxsIHRoZSBjb21tYW5kIG11c3QgYmUgKippZGVtcG90ZW50KiogYXMgdGhleSBhcmUgZXhlY3V0ZWQgYW55dGltZSB5b3UgcmVzdGFydCB0aGUgVk0uCkhlcmUgYW4gZXhhbXBsZSBvZiBteSBzY3JpcHQ6CmBgYApwcm92aXNpb246CiAgIyBgc3lzdGVtYCBpcyBleGVjdXRlZCB3aXRoIHRoZSByb290IHByaXZpbGVnZQogIC0gbW9kZTogc3lzdGVtCiAgICBzY3JpcHQ6IHwKICAgICAgIyEvYmluL2Jhc2gKICAgICAgc2V0IC1ldXggLW8gcGlwZWZhaWwKICAgICAgaWYgISBhcHQgbGlzdCAtLWluc3RhbGxlZCB8IGdyZXAgZG9ja2VyLWNlOyB0aGVuCiAgICAgICAgY3VybCAtZnNTTCBodHRwczovL2dldC5kb2NrZXIuY29tIHwgc2ggLQogICAgICAgIGVjaG8gJ2V4cG9ydCBET0NLRVJfSE9TVD11bml4Oi8vL3J1bi91c2VyLyQoaWQgLXUpL2RvY2tlci5zb2NrJyA+IC9ldGMvcHJvZmlsZS5kL2RvY2tlci5zaAogICAgICBlbHNlCiAgICAgICAgZWNobyAiRG9ja2VyIGFscmVhZHkgaW5zdGFsbGVkIgogICAgICBmaQoKICAgICAgaWYgISBhcHQgbGlzdCAtLWluc3RhbGxlZCB8IGdyZXAgZ29vZ2xlLWNsb3VkLXNkazsgdGhlbgogICAgICAgIGVjaG8gImRlYiBbc2lnbmVkLWJ5PS91c3Ivc2hhcmUva2V5cmluZ3MvY2xvdWQuZ29vZ2xlLmdwZ10gaHR0cHM6Ly9wYWNrYWdlcy5jbG91ZC5nb29nbGUuY29tL2FwdCBjbG91ZC1zZGsgbWFpbiIgfCB0ZWUgLWEgL2V0Yy9hcHQvc291cmNlcy5saXN0LmQvZ29vZ2xlLWNsb3VkLXNkay5saXN0CiAgICAgICAgYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMgY2EtY2VydGlmaWNhdGVzIGdudXBnCiAgICAgICAgY3VybCBodHRwczovL3BhY2thZ2VzLmNsb3VkLmdvb2dsZS5jb20vYXB0L2RvYy9hcHQta2V5LmdwZyB8IGFwdC1rZXkgLS1rZXlyaW5nIC91c3Ivc2hhcmUva2V5cmluZ3MvY2xvdWQuZ29vZ2xlLmdwZyBhZGQgLQogICAgICAgIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSBnb29nbGUtY2xvdWQtc2RrCiAgICAgIGVsc2UKICAgICAgICBlY2hvICJHb29nbGUgQ2xvdWQgYWxyZWFkeSBpbnN0YWxsZWQiCiAgICAgIGZpCgogICAgCiAgIyBgdXNlcmAgaXMgZXhlY3V0ZWQgd2l0aG91dCB0aGUgcm9vdCBwcml2aWxlZ2UKICAtIG1vZGU6IHVzZXIKICAgIHNjcmlwdDogfAogICAgICAjIS9iaW4vYmFzaAogICAgICBzZXQgLWV1eCAtbyBwaXBlZmFpbAogICAgICBkb2NrZXJkLXJvb3RsZXNzLXNldHVwdG9vbC5zaCBpbnN0YWxsCiAgICAgIGdjbG91ZCBhdXRoIGNvbmZpZ3VyZS1kb2NrZXIgLS1xdWlldApgYGAKKipXQVJOSU5HOioqIFRoZSBmaXJzdCBjcmVhdGlvbiB0YWtlcyBsb25nIHRpbWUgKHNldmVyYWwgbWludXRlcyBkZXBlbmRpbmcgb24gdGhlIE1hYyBwZXJmb3JtYW5jZXMpLiBXaGVuIHRoZSBsaW1hIGNyZWF0aW9uIHNlZW1zIGZpbmlzaGVkLCBpdCBpcyBub3QuIApZb3UgY2FuIGZvbGxvdyBhbGwgdGhlIGNyZWF0aW9uIGxvZ3Mgd2l0aCBhIGB0YWlsIC1mIH4vLmxpbWEvZGVmYXVsdC9zZXJpYWwubG9nYCBhbmQgZXZlcnl0aGluZyBpcyBmaW5pc2VkIHdoZW4geW91IGNhbiByZWFkCmBgYApbICBPSyAgXSBGaW5pc2hlZCBFeGVjdXRlIGNsb3VkIHVzZXIvZmluYWwgc2NyaXB0cy4KWyAgT0sgIF0gUmVhY2hlZCB0YXJnZXQgQ2xvdWQtaW5pdCB0YXJnZXQuCmBgYAoKTm93IHlvdSBjYW4gZXhlY3V0ZSBhbGwgdGhlIGRvY2tlciBjb21tYW5kcyB1c2luZzoKYGBgCmxpbWEgZG9ja2VyIHh4eHgKYGBgClNvIHlvdSBjYW4ganVzdCBhZGQgdGhlIGNvcnJlY3QgYWxpYXMgb24geW91ciBNYWMgbWFjaGluZToKYGBgCmFsaWFzIGRvY2tlcj0ibGltYSBkb2NrZXIiCmBgYAoqKldBUk5JTkc6KiogdGFrZSBjYXJlIGJlY2F1c2UgY29udGFpbmVyZCBhbmQgbmVyZGN0bCBhcmUgYWxzbyBpbnN0YWxsZWQgb24gdGhlIG1hY2hpbmUsIGJ1dCB0aGV5IGFyZSBub3Qgc2hhcmluZyB0aGluZ3Mgd2l0aCB0aGUgZG9ja2VyIGVuZ2luZS4gVGhpcyBtZWFucyBpZiB5b3UgcnVuIGEgY29udGFpbmVyIGluIGNvbnRhaW5lcmQsIHRoZSBkb3dubG9hZGVkIGltYWdlIGNhbm5vdCBiZSBzZWVuIGFuZCB1c2VkIGJ5IHRoZSBkb2NrZXItZW5naW5lOiB0aGUgZmlyc3QgdGltZSB5b3Ugc3RhcnQgdGhlIHNhbWUgbWFjaGluZSBpbiBkb2NrZXIsIGl0IG11c3QgZG93bmxvYWQgaXQuCgoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjMwODc2OTA5MzY0L05BM3RtRTVuWS5wbmcpCgoKIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjMwODc2OTYxMTA4L2pDbTBpTW14OS5wbmcpCgojIyBDcmVhdGUgdGhlIGZ1bGwgTGltYSBWTQpJZiB5b3Ugd2FudCB0byBwcm92aXNpb24gYSBMaW1hIFZNIGxpa2UgdGhlIG9uZSBJIGRlc2NyaWJlZCwgeW91IGNhbiB1c2UgbXkgIHNhbXBsZSBmaWxlLgoKJVtodHRwczovL2dpc3QuZ2l0aHViLmNvbS9tbW9ybmF0aS85ODhjY2E4MWM1MjYwNzA3YTQ1M2JlYjJkMzU3OGJkMF0KCkV4ZWN1dGluZyBpdCBpbiB0aGUgZm9sbG93aW5nIHdheToKYGBgCmxpbWFjdGwgc3RhcnQgZGVmYXVsdC55YW1sCmBgYAoKKipFRElUOiAwNy8wOS8yMDIxKioKU2NyaXB0IGlzIG5vdyB1cGRhdGVkIHdpdGggc29tZSBpbnRlcmVzdGluZyBlbmhhbmNlbWVudHM6CiogYHByb2Jlc2AgYXJlIGFkZGVkIHRvIHdhaXQgdW50aWwgdGhlIGZ1bGwgaW5zdGFsbGF0aW9uIGNvbXBsZXRpb24uIEl0IGlzIGRvbmUgd2l0aCAzIGFkZGVkIHN0ZXBzOiBkb2NrZXItY2UsIGdjbG91ZCBhbmQgdXNlciBjb25maWd1cmF0aW9uCgohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MzEwNDk2MTc1MjQvbjFfZ0lWQjZ5LnBuZykKKiBUaGUgcm9vdGxlc3MgZG9ja2VyIGNvbmZpZ3VyYXRpb24gaXMgbm93IGV4cG9zaW5nIHRoZSBkb2NrZXIgQVBJIG92ZXIgVENQIHRvbwoKYGBgCi0gbW9kZTogdXNlcgogICAgc2NyaXB0OiB8CiAgICAgICMhL2Jpbi9iYXNoCiAgICAgIHNldCAtZXV4IC1vIHBpcGVmYWlsCiAgICAgIGRvY2tlcmQtcm9vdGxlc3Mtc2V0dXB0b29sLnNoIGluc3RhbGwKICAgICAgaWYgISBncmVwIERPQ0tFUkRfUk9PVExFU1NfUk9PVExFU1NLSVRfRkxBR1Mgfi8uY29uZmlnL3N5c3RlbWQvdXNlci9kb2NrZXIuc2VydmljZTsgdGhlbgogICAgICAgIC91c3IvYmluL3NlZCAtaSAnL0Vudmlyb25tZW50PS4qL2EgRW52aXJvbm1lbnQ9RE9DS0VSRF9ST09UTEVTU19ST09UTEVTU0tJVF9GTEFHUz0iLXAgMC4wLjAuMDoyMzc1OjIzNzUvdGNwIicgfi8uY29uZmlnL3N5c3RlbWQvdXNlci9kb2NrZXIuc2VydmljZQogICAgICAgIC91c3IvYmluL3NlZCAtaSAncy9FeGVjU3RhcnQ9LiovRXhlY1N0YXJ0PVwvdXNyXC9iaW5cL2RvY2tlcmQtcm9vdGxlc3Muc2ggLUggdGNwOlwvXC8wLjAuMC4wOjIzNzUvZycgfi8uY29uZmlnL3N5c3RlbWQvdXNlci9kb2NrZXIuc2VydmljZQogICAgICBlbHNlIAogICAgICAgZWNobyAiRG9ja2VyIHNlcnZpY2UgYWxyZWFkeSBjb25maWd1cmVkIgogICAgICBmaQogICAgICAvdXNyL2Jpbi9zeXN0ZW1jdGwgLS11c2VyIGRhZW1vbi1yZWxvYWQKICAgICAgL3Vzci9iaW4vc3lzdGVtY3RsIC0tdXNlciByZXN0YXJ0IGRvY2tlci5zZXJ2aWNlCiAgICAgIGdjbG91ZCBhdXRoIGNvbmZpZ3VyZS1kb2NrZXIgLS1xdWlldApgYGAKCiogVGhlIEFQSSBwb3J0ICgyMzc1KSBpcyBhdXRvbWF0aWNhbGx5IGV4cG9zZWQgdG8gdGhlIGhvc3Qgc2VydmVyLiBZb3UgY2FuIG5vdyB1c2UgYW55IGRvY2tlciBkZXBlbmQgYXBwIGp1c3QgZXhlY3V0aW5nIGBleHBvcnQgRE9DS0VSX0hPU1Q9dGNwOi8vbG9jYWxob3N0OjIzNzVgCmBgYApwb3J0Rm9yd2FyZHM6CiAgLSBndWVzdFBvcnQ6IDIzNzUKICAgIGhvc3RJUDogIjEyNy4wLjAuMSIgCmBgYApUaGVyZSBpcyBubyBuZWVkIHRvIGNyZWF0ZSBhbiBTU0ggcG9ydCBmb3J3YXJkIHdpdGggdGhlIGBkb2NrZXIuc29ja2AgYW55bW9yZSAoYnV0IGl0IHdpbGwgYmUgYXZhaWxhYmxlIHRvbyBhcyB0aGUgcm9vdGxlc3MgZG9ja2VyIGlzIGV4cG9zaW5nIHRoZSBBUEkgd2l0aCBib3RoIHR3byBtZXRob2RzKS4KCioqRURJVDogMDgvMDkvMjAyMSoqClRoZSBsYXRlc3QgdmVyc2lvbiBvZiB0aGUgZ2lzdCBpcyB0ZXN0ZWQgYWdhaW5zdCBzZXZlcmFsIHByb2plY3Qgd2l0aCB0ZXN0Y29udGFpbmVyIHdpdGggc3VjY2VzcyByZXN1bHRzLgpPbiB0aGUgaG9zdCBtYWNoaW5lIHdlIGp1c3QgbmVlZCB0byBjb25maWd1cmUgdGhlIGB0ZXN0Y29udGFpbmVycy9yeXVrYCB0byB1c2UgdGhlIGNvcnJlY3Qgc29ja2V0LgpgYGAKIGV4cG9ydCBURVNUQ09OVEFJTkVSU19ET0NLRVJfU09DS0VUX09WRVJSSURFPS9ydW4vdXNlci81MDIvZG9ja2VyLnNvY2sKYGBgClRoZSBVSUQgKDUwMikgbWF5IGRpZmZlciBpbiB5b3VyIFZNLiBUbyBnZXQgdGhlIGNvcnJlY3Qgb25lIHlvdSBjYW4gcnVuCmBgYApsaW1hIGVjaG8gIi9ydW4vdXNlci8kKGlkIC11KS9kb2NrZXIuc29jayIKYGBgCkl0IHdvbid0IGV2ZXIgY2hhbmdlIGlmIHlvdSB3b24ndCBjcmVhdGUgeW91ciBWTSBhZ2FpbiBhbmQgeW91IGNhbiBhZGQgaW4geW91ciBob3N0IGAuenNocmNgIG9yIGAuYmFzaHJjYCBvciB3aGF0ZXZlciByYyBmaWxlLgoKSXQgc2hvdWxkIHByb3ZpZGUgYSBiZXR0ZXIgZG9ja2VyIGFuZCBwcm92aXNpb24gZXhwZXJpZW5jZS4=
+# Lima-VM: docker-desktop alternative for MacOSX
+
+On August 31st, Docker surprises the world with  [a news](https://www.docker.com/blog/updating-product-subscriptions/)  about the docker-desktop application: it won't be free anymore.
+Even if it is a normal and legit decision, this can be a hard decision for big companies as the final invoice can have consequences on the IT budget.
+
+The same day I discovered, thanks to  [AkihiroSuda Medium Post](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59), that a possible alternative for MacOSX exists... but I needed to make some enhancements to what was described in the post as my specific use cases required more things.
+
+## Installation
+The lima installation, thanks to homebrew, is really simple and everything is managed:
+
+```
+brew install lima
+```
+
+Once finished there are 2 main commands available on your PC: `lima` to access to the virtual machine and execute "linux" commands; `limactrl` to control the machine, create, start, stop, ...
+
+As Lima is automatically forwards all the VM ports to the host and shares the volumes, everything is as easy as with the docker-desktop.
+The main difference is that by default it is not using the `docker-engine` but the `containerd` directly instead. But for a standard / simple usage this is enough.
+
+## Run and Use containers
+The CLI to use to interact with the default containerd is  [nerdctl](https://github.com/containerd/nerdctl)... but in the end the big difference is only in the script name, because all the commands (even the compose one) are there.
+
+To simplify the usage, just add an alian on your Mac to directly execute the right command:
+```
+alias docker="lima nerdctl"
+```
+
+## Docker API
+Containerd is not exposing an API like the docker one, this means for some application it is impossible to interact and control docker. For example, in Java unit test with  [Testcontainers](https://www.testcontainers.org/) this interaction is mandatory.
+But Lima is Linux and Docker is OSS... so you can configure it to use docker instead of containerd.
+As AkihiroSuda suggested in its post comments, this is quite simple:
+```
+curl -fsSL https://get.docker.com | lima
+lima dockerd-rootless-setuptool.sh install
+```
+Then you have to access to the `docker.sock` from your Mac... this can be done with the following command:
+```
+ssh -p 60022 -i ~/.lima/_config/user -o NoHostAuthenticationForLocalhost=yes -L ~/docker.sock:/run/user/$(id -u)/docker.sock 127.0.0.1
+```
+Once done you will have a `docker.sock` file in your home folder. 
+Just configure the application requiring the Docker API, to use the socked within your home folder.
+To test if everything is working well, from your Mac you can run the following command that is equivalent to run the `docker images` command.
+```
+curl --unix-socket ~/docker.sock http://localhost/images/json
+```
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630877133734/u6-UjN2U7.png)
+
+It is working but is quite annoying in the end, anytime you need to interact with the Docker API you have to remember to run this command.
+
+**WARNING**: before to run the ssh command, check if the `docker.sock` file already exists on your Mac. If it was not deleted by a previous execution, ssh couldn't create a new one with the same name. So nothing will work in this case.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630877057059/zv9jBoYQD.png)
+
+## Private Registry
+If you need to use a private registry, you need to be sure to have anything required to login installed inside the VM.
+In my case, I'm always using GCR/GAR Registry... so I needed to install the gcloud package inside the lima VM.
+
+```
+echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+sudo apt-get install apt-transport-https ca-certificates gnupg
+curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+sudo apt-get update && sudo apt-get install -y google-cloud-sdk
+```
+Then just connect the docker to the desired gcloud registry:
+```
+export DOCKER_HOST=unix:///run/user/$(id -u)/docker.sock
+gcloud auth configure-docker --quiet
+docker login xxxx
+```
+**NOTE:** you surely need to login to gcloud to be able to use the private docker registry (`gcloud auth login`).
+
+## Package everything in a configuration file
+Instead of configuring all the things manually everytime, you can benefit from the lima.yaml file and package everything you need.
+The important part is that all the command must be **idempotent** as they are executed anytime you restart the VM.
+Here an example of my script:
+```
+provision:
+  # `system` is executed with the root privilege
+  - mode: system
+    script: |
+      #!/bin/bash
+      set -eux -o pipefail
+      if ! apt list --installed | grep docker-ce; then
+        curl -fsSL https://get.docker.com | sh -
+        echo 'export DOCKER_HOST=unix:///run/user/$(id -u)/docker.sock' > /etc/profile.d/docker.sh
+      else
+        echo "Docker already installed"
+      fi
+
+      if ! apt list --installed | grep google-cloud-sdk; then
+        echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+        apt-get install apt-transport-https ca-certificates gnupg
+        curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+        apt-get update && apt-get install -y google-cloud-sdk
+      else
+        echo "Google Cloud already installed"
+      fi
+
+    
+  # `user` is executed without the root privilege
+  - mode: user
+    script: |
+      #!/bin/bash
+      set -eux -o pipefail
+      dockerd-rootless-setuptool.sh install
+      gcloud auth configure-docker --quiet
+```
+**WARNING:** The first creation takes long time (several minutes depending on the Mac performances). When the lima creation seems finished, it is not. 
+You can follow all the creation logs with a `tail -f ~/.lima/default/serial.log` and everything is finised when you can read
+```
+[  OK  ] Finished Execute cloud user/final scripts.
+[  OK  ] Reached target Cloud-init target.
+```
+
+Now you can execute all the docker commands using:
+```
+lima docker xxxx
+```
+So you can just add the correct alias on your Mac machine:
+```
+alias docker="lima docker"
+```
+**WARNING:** take care because containerd and nerdctl are also installed on the machine, but they are not sharing things with the docker engine. This means if you run a container in containerd, the downloaded image cannot be seen and used by the docker-engine: the first time you start the same machine in docker, it must download it.
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630876909364/NA3tmE5nY.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630876961108/jCm0iMmx9.png)
+
+## Create the full Lima VM
+If you want to provision a Lima VM like the one I described, you can use my  sample file.
+
+%[https://gist.github.com/mmornati/988cca81c5260707a453beb2d3578bd0]
+
+Executing it in the following way:
+```
+limactl start default.yaml
+```
+
+**EDIT: 07/09/2021**
+Script is now updated with some interesting enhancements:
+* `probes` are added to wait until the full installation completion. It is done with 3 added steps: docker-ce, gcloud and user configuration
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631049617524/n1_gIVB6y.png)
+* The rootless docker configuration is now exposing the docker API over TCP too
+
+```
+- mode: user
+    script: |
+      #!/bin/bash
+      set -eux -o pipefail
+      dockerd-rootless-setuptool.sh install
+      if ! grep DOCKERD_ROOTLESS_ROOTLESSKIT_FLAGS ~/.config/systemd/user/docker.service; then
+        /usr/bin/sed -i '/Environment=.*/a Environment=DOCKERD_ROOTLESS_ROOTLESSKIT_FLAGS="-p 0.0.0.0:2375:2375/tcp"' ~/.config/systemd/user/docker.service
+        /usr/bin/sed -i 's/ExecStart=.*/ExecStart=\/usr\/bin\/dockerd-rootless.sh -H tcp:\/\/0.0.0.0:2375/g' ~/.config/systemd/user/docker.service
+      else 
+       echo "Docker service already configured"
+      fi
+      /usr/bin/systemctl --user daemon-reload
+      /usr/bin/systemctl --user restart docker.service
+      gcloud auth configure-docker --quiet
+```
+
+* The API port (2375) is automatically exposed to the host server. You can now use any docker depend app just executing `export DOCKER_HOST=tcp://localhost:2375`
+```
+portForwards:
+  - guestPort: 2375
+    hostIP: "127.0.0.1" 
+```
+There is no need to create an SSH port forward with the `docker.sock` anymore (but it will be available too as the rootless docker is exposing the API with both two methods).
+
+**EDIT: 08/09/2021**
+The latest version of the gist is tested against several project with testcontainer with success results.
+On the host machine we just need to configure the `testcontainers/ryuk` to use the correct socket.
+```
+ export TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE=/run/user/502/docker.sock
+```
+The UID (502) may differ in your VM. To get the correct one you can run
+```
+lima echo "/run/user/$(id -u)/docker.sock"
+```
+It won't ever change if you won't create your VM again and you can add in your host `.zshrc` or `.bashrc` or whatever rc file.
+
+It should provide a better docker and provision experience.
