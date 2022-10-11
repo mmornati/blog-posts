@@ -1,1 +1,19 @@
-IyMgTGludXggQWlycGxheSBzZXJ2ZXIgdXNpbmcgWEJNQyAxMQoKSSBmaW5hbGx5IGhhZCB0aW1lIHRvIHRlc3QgdGhlIGxhdGVzdCB2ZXJzaW9uIG9mIDxhIGhyZWY9Imh0dHA6Ly94Ym1jLm9yZy8iPlhCTUM8L2E+IG1lZGlhIGNlbnRlciAodmVyc2lvbiAxMSkgb24gbXkgRmVkb3JhIDE2LgpNeSBmaXJzdCB0ZXN0IHdhcyB1c2luZyBkaXJlY3RseSB0aGUgcnBtIHByb3ZpZGVkIG9uIHJhd2hpZGUgcmVwb3NpdG9yaWVzIChmZWRvcmEgYW5kIHJwbS1mdXNpb24tZnJlZSkgYnV0IGluIHRoaXMgd2F5IG1hbnkgb3RoZXJzIGNvbXBvbmVudHMgd2lsbCBiZSB1cGRhdGVkIChsaWtlIGdub21lIGZvciBleGFtcGxlKSBiZWNhdXNlIHRoZSBwYWNrYWdlIGlzIHByb2R1Y2VkIGZvciBGZWRvcmEgMTcuCgpTbywgZm9sbG93aW5nIHRoaXMgbGl0dGxlIDxhIGhyZWY9Imh0dHA6Ly9iZXRhLmhpc2NvcmVib2IubHUvMjAxMi8wMi9ob3ctdG8tY29tcGlsZS14Ym1jLTExLWluLWZlZG9yYS0xNi8iPmd1aWRlPC9hPiB0aGF0IHByb3ZpZGVzIGFsbCBuZWNlc3Nhcnkgc3RlcHMsIEkgYnVpbHQgWEJNQyBkaXJlY3RseSBvbiBteSBGZWRvcmEuClRoZSBvbmx5IHRoaW5ncyB0byBhZGQgYXQgdGhlIGVuZCwgaXMgdG8gZXhwb3J0IHRoZSBsaWIgZm9sZGVyIGZvciB0aGUgbm9ybWFsIHVzZXIgKGF0IGxlYXN0LCBvbiBteSBmZWRvcmEgeGJtYyBkaWRuJ3Qgd29yayB3aXRob3V0IHRoaXMgc3RlcCkuCgpTbywgZm9yIGV4YW1wbGUsIHlvdSBjYW4gZWRpdCB5b3VyIC5iYXNocmMgZmlsZToKPHByZT48Y29kZT4gbW1vcm5hdGlAZGVza3RvcCB+JCBwd2QKL2hvbWUvbW1vcm5hdGkKbW1vcm5hdGlAZGVza3RvcCB+JCB2aSAuYmFzaHJjPC9jb2RlPjwvcHJlPgpBZGRpbmcgdGhpcyBsaW5lIGF0IHRoZSBlbmQgb2YgdGhlIGZpbGUKPHByZT48Y29kZT4gZXhwb3J0IExEX0xJQlJBUllfUEFUSD0iL3Vzci9sb2NhbC9saWIiOiRMRF9MSUJSQVJZX1BBVEg8L2NvZGU+PC9wcmU+CkFuZCB0aGVuIHlvdSBjYW4gc3RhcnR1cCB5b3UgWEJNQyB3aXRob3V0IHByb2JsZW0gOkQKCkFzIHlvdSBjYW4gc2VlIGluIHRoZSBmb2xsb3dpbmcgcGljdHVyZSwgaXQncyByZWFsbHkgc2ltcGxlIHRvIHVzZSBYQk1DIGFzIEFpclBsYXkgc2VydmVyIChmb3IgdmlkZW9zLCBwaG90b3MgYW5kIG11c2ljKS4KCjxhIGhyZWY9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxMzkxNjQxMzU2L2ZvdG9fcm1sdmx2LnBuZyI+PGltZyBjbGFzcz0iYWxpZ25jZW50ZXIgc2l6ZS1tZWRpdW0gd3AtaW1hZ2UtNDM0IiB0aXRsZT0iZm90byIgc3JjPSJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC9oXzMwMCx3XzIwMC92MTM5MTY0MTM1Ni9mb3RvX3JtbHZsdi5wbmciIGFsdD0iIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjMwMCIgLz48L2E+
+# Linux Airplay server using XBMC 11
+
+I finally had time to test the latest version of <a href="http://xbmc.org/">XBMC</a> media center (version 11) on my Fedora 16.
+My first test was using directly the rpm provided on rawhide repositories (fedora and rpm-fusion-free) but in this way many others components will be updated (like gnome for example) because the package is produced for Fedora 17.
+
+So, following this little <a href="http://beta.hiscorebob.lu/2012/02/how-to-compile-xbmc-11-in-fedora-16/">guide</a> that provides all necessary steps, I built XBMC directly on my Fedora.
+The only things to add at the end, is to export the lib folder for the normal user (at least, on my fedora xbmc didn't work without this step).
+
+So, for example, you can edit your .bashrc file:
+<pre><code> mmornati@desktop ~$ pwd
+/home/mmornati
+mmornati@desktop ~$ vi .bashrc</code></pre>
+Adding this line at the end of the file
+<pre><code> export LD_LIBRARY_PATH="/usr/local/lib":$LD_LIBRARY_PATH</code></pre>
+And then you can startup you XBMC without problem :D
+
+As you can see in the following picture, it's really simple to use XBMC as AirPlay server (for videos, photos and music).
+
+<a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641356/foto_rmlvlv.png"><img class="aligncenter size-medium wp-image-434" title="foto" src="https://res.cloudinary.com/blog-mornati-net/image/upload/h_300,w_200/v1391641356/foto_rmlvlv.png" alt="" width="200" height="300" /></a>
