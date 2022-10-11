@@ -1,1 +1,14 @@
-IyMgS2VybUlUOiBOZXcgZmlsdGVycyBhbmQgRGFzaGJvYXJkCgo8YSBocmVmPSJodHRwOi8vd3d3Lmtlcm1pdC5mciI+S2VtSVQ8L2E+IGRldmVsb3BtZW50IGdvaW5nIGFoZWFkIGFkZGluZyBuZXcgZnVuY3Rpb25zIGV2ZXJ5ZGF5LiBUb2RheSB0d28gbmV3IHZpZGVvcyBzaG93aW5nIFRyZWUgRmlsdGVycyBhbmQgUGVyc2lzdGVudCBEYXNoQm9hcmQuCgpBIHByb2JsZW0gd2l0aCBiaWcgZGF0YWNlbnRlciBpbiB0aGUgcHJldmlvdXMgS2VybUlUIHZlcnNpb24gd2FzIGFsbCB3aWRnZXRzIHdpdGggY2xhc3NlZCBzZXJ2ZWQgaW5zaWRlIChmb3IgZXhhbXBsZSBwdXBwZXQgY2xhc3NlcyB3aWRnZXQpLiBJZiB5b3Ugd2FudCB0byByZWFjaCBhIHBhcnRpY3VsYXIgY2xhc3Mgb3Igc2VydmVyIHlvdSBzaG91bGQgbG9vayBmb3IgaXQgYnkgaGFuZCAoc2VhcmNoIGluIGFueSBmb2xkZXIgdG8gZmluZCB5b3VyIHNlcnZlcikuIE5vdyB5b3UgY2FuIHNpbXBseSBzZWFyY2ggdGhlIHJlc291cmNlIHlvdSBuZWVkIChmb2xkZXIgb3Igc2VydmVyIG5hbWUpIGFuZCB5b3Ugd2lsbCBiZSBwb2ludGVkIG91dCB0byBtYXRjaGluZyByZXNvdXJjZXMuCgpbdmlkZW8gc3JjPSJodHRwOi8vd3d3Lm1vcm5hdGkubmV0L3ZpZGVvX2tlcm1pdC92aWRlby9LZXJtSVQlMjAtJTIwRmlsdGVycyUyMGluJTIwdHJlZSUyMHZpZXdzLm1wNCIgd2lkdGg9IjEwMCUiXQoKRXZlbiBpZiB5b3UgY291bGQgbW92ZSBvciBjaGFuZ2UgZGFzaGJvYXJkIHdpZGdldHMsIGFsbCBtb2RzIHdhcyBub3QgcGVyc2lzdGVkIGluIHRoZSBwcmV2aW91cyBLZXJtSVQgdmVyc2lvbjsgYSBzaW1wbGUgcGFnZSByZWZyZXNoIHJlc3RvcmUgdG8gZGVmYXVsdCBzZXR0aW5ncy4KTm93IGFueSB1c2VyIGNhbiBwZXJzb25hbGl6ZSB0aGUgZGFzaGJvYXJkIGNoYW5naW5nIHdpZGdldCBwb3NpdGlvbiwgY29sb3JzLCB0aXRsZXMsIGV0Yy4gYW5kIGFsbCBtb2RzIHdpbGwgYmUgcGVyc2lzdGVkIChhbnkgdXNlciBoYXMgYSBkaWZmZXJlbnQgZGFzaGJvYXJkKS4gQ29va2llcyByZXF1aXJlZCB0byBhbGxvdyB0aGlzIG5ldyBmdW5jdGlvbi4KClt2aWRlbyBzcmM9Imh0dHA6Ly93d3cubW9ybmF0aS5uZXQvdmlkZW9fa2VybWl0L3ZpZGVvL0tlcm1JVCUyMC0lMjBQZXJzaXN0ZW50JTIwRGFzaGJvYXJkJTIwKHBlciUyMHVzZXIpLm1wNCIgd2lkdGg9IjEwMCUiXQoKU3RheSB0dW5lZCBiZWNhdXNlIHdlIGhhdmUgc29tZSBvdGhlciBpbnRlcmVzdGluZyBhbmQgdXNlZnVsIGZ1bmN0aW9ucy4uLiBEbyB5b3Ugd2FudCB0cCBjcmVhdGUgYSBuZXcgc2VydmVyIGluIGEgY2xpY2s/IFlvdSBzaG91bGQgdXNlIEtlcm1JVCA7KQ==
+# KermIT: New filters and Dashboard
+
+<a href="http://www.kermit.fr">KemIT</a> development going ahead adding new functions everyday. Today two new videos showing Tree Filters and Persistent DashBoard.
+
+A problem with big datacenter in the previous KermIT version was all widgets with classed served inside (for example puppet classes widget). If you want to reach a particular class or server you should look for it by hand (search in any folder to find your server). Now you can simply search the resource you need (folder or server name) and you will be pointed out to matching resources.
+
+[video src="http://www.mornati.net/video_kermit/video/KermIT%20-%20Filters%20in%20tree%20views.mp4" width="100%"]
+
+Even if you could move or change dashboard widgets, all mods was not persisted in the previous KermIT version; a simple page refresh restore to default settings.
+Now any user can personalize the dashboard changing widget position, colors, titles, etc. and all mods will be persisted (any user has a different dashboard). Cookies required to allow this new function.
+
+[video src="http://www.mornati.net/video_kermit/video/KermIT%20-%20Persistent%20Dashboard%20(per%20user).mp4" width="100%"]
+
+Stay tuned because we have some other interesting and useful functions... Do you want tp create a new server in a click? You should use KermIT ;)
