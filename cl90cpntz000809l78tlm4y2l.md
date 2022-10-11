@@ -1,1 +1,40 @@
-IyMgR29vZ2xlIENocm9tZSAzODogV3JvbmcgRGlzcGxheSBTY2FsaW5nIGFuZCBibHVycmVkCgpUb2RheSBJIGRpc2NvdmVyZWQgbXkgR29vZ2xlIENocm9tZSB3YXMgYXV0b21hdGljYWxseSB1cGRhdGVkIGZyb20gdmVyc2lvbiAzNyB0byB2ZXJzaW9uIDM4Li4uIGRvbid0IHdheSBhdXRvbWF0aWNhbGx5LCBJIGRvbid0IHRoaW5rIEkgZGVjaWRlZCBmb3IgdGhpcy4KQW55d2F5LCBhZnRlciB0aGlzIHVwZGF0ZWQgYWxsIHdlYnNpdGVzIEkgdmlzaXRlZCB3YXMgd3Jvbmcgc2NhbGVkIHdpdGggYSBzdHJhbmdlIGJsdXJyZWQgZWZmZWN0ZWQgb24gc29tZSBwYXJ0IG9mIHRoZSB0ZXh0LgpGb3IgZXhhbXBsZSwgaW4gR01haWwsIGFsbCB3YXMgYmlnZ2VyIHRoYW4gdXN1YWwsIGxpa2Ugd2hlbiB5b3Ugc2VsZWN0IDEyNSUgc2NhbGluZyBhbmQgd2hlbiBJIHRyeSB0byB3cml0ZSBpbnRvIHRoZSBIYW5nb3V0IHdpbmRvdywgdGhlIHRleHQgd2FzIGJsdXJyZWQgYW5kIGltcG9zc2libGUgdG8gcmVhZC4KSSBzcGVudCBoYWxmIG9mIG15IGRheSBqdXN0IHRyeWluZyB0byBmaXggdGhpcyBwcm9ibGVtIGFuZCwgYmVjYXVzZSBJJ3ZlIGFscmVhZHkgaGF2ZSBpdCBpbiBhIHByZXZpb3VzIHZlcnNpb24gSSB3YXMgdXNpbmcgaW4gTGludXgsIEkgYWxyZWFkeSBrbm93IGl0IHdhcyBhIENocm9tZSBwcm9ibGVtLgoKVG8gY2hlY2sgdGhlIHJlYWwgcHJvYmxlbSBJIGp1c3QgY2hlY2sgb24gYSBwYWdlIEkndmUgY3JlYXRlZCBzb21lIHllYXJzIGFnbyAoW2h0dHA6Ly9teWlwLm1vcm5hdGkubmV0XShodHRwOi8vbXlpcC5tb3JuYXRpLm5ldCkpLCB0byBnZXQgdGhlIHNjcmVlbiByZXNvbHV0aW9uIGZyb20gdGhlIGJyb3dzZXIuCgpOT1RFOiBPbiBteSBsYXB0b3AgSSd2ZSBhICoqMTkyMHgxMDgwKiogc2NyZWVuLgoKKipDaHJvbWUgMzgqKgohW0Nocm9tZSAzOF0oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0MTMwNjA4ODYvbmNtODVjY3FrY21sa2piZG9vbnYucG5nKQoKV2hhdD8/PyAqKjE1MzZ4ODY0KiogQnV0Li4uIFdIWT8/CgpJIHRoZW4gdGVzdGVkIHNvbWUgb3RoZXJzIGJyb3dzZXIgKHNvbWUgPSB0aGUgYnJvd3NlcnMgeW91IGNhbiBpbWFnaW5lKQoKKipJRSAoeWVzIElFIHRvbykqKgohW0lFXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQxMzA2MDg4Ni9pM2RvdGlpYmVmYXBrd3EzM2lzOS5wbmcpCgpPay4uLiBpdCdzIGEgc3RyYW5nZSBudW1iZXIuLi4gYnV0IGl0J3MgSUUuIEFueXdheSwgdGhlIHNjcmVlbiByZXNvbHV0aW9uIGlzIG1vcmUgc2ltaWxhciB0byB0aGUgbm9ybWFsIG9uZSBJIGhhZCBiZWZvcmUuCgoqKkZpcmVmb3gqKgohW0ZpcmVmb3hdKGh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxNDEzMDYwODg2L3d5ZWlpNG1ndmZleHg2azN5b3Y0LnBuZykKCkZpcmVmb3ggaGFzIHRoZSBzYW1lIHByb2JsZW0gdGhhbiBDaHJvbWUuLi4gYnV0LCBhdCBsZWFzdCwgYWxsIGlzIGNvcnJlY3RseSBkaXNwbGF5ZWQgYXQgdGhpcyByZXNvbHV0aW9uLiBZb3UgZG9uJ3QgaGF2ZSBibHVyIGVmZmVjdCB3aGljaCBtYWtlIGltcG9zc2libGUgdG8gdXNlIGl0LgoKSSBtYWRlIGEgdGVzdCB0byB0aGUgQ2hyb21lJ3MgYmV0YSB2ZXJzaW9uOyBqdXN0IGJlY2F1c2UgSSBkaWRuJ3Qgd2FudCB0byBnZXQgYmFjayB0byB0aGUgcHJldmlvdXMgb25lIGlmIEkgY2Fubm90IGNvbnRyb2wgdGhlIGF1dG9tYXRpYyB1cGRhdGUuCgoqKkNocm9tZSAzOSoqCiFbQ2hyb21lMzldKGh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxNDEzMDYwODg2L2E4cWJ5dWhvbm9xMnBsZm9wcGNtLnBuZykKClllcy4uLiB0aGF0IGlzIGdvb2QgYW5kIGl0IGlzIHRoZSB2YWx1ZSBJIGhhZCB3aXRoIHRoZSBwcmV2aW91cyB2ZXJzaW9uLgoKSSBzcGVudCBhIGRheSB0byBnZXQgYmFjayB0byBhIGNvcnJlY3Qgc2NyZWVuIHJlc29sdXRpb24gaW4gbXkgYnJvd3NlciBhbmQgdG8gcHJldmVudCBibHVyIGVmZmVjdCB0byBiZSBhYmxlIHRvIHVzZSBpdCEhCgpXaHkgYW55dGltZSBHb29nbGUgcmVsZWFzZXMgYSBuZXcgQ2hyb21lJ3Mgc3RhYmxlIHZlcnNpb24gdGhlcmUncyBhbnl0aGluZyB0aGF0IHdhc24ndCBjb3JyZWN0bHkgdGVzdGVkPwoKSWYgeW91IHdhbnQgdG8gZml4IHRoaXMgcHJvYmxlbS4uLiBqdXN0IGNoYW5nZSB0aGUgY2hyb21lIHZlcnNpb24gd2l0aG91dCBsb3NlIHlvdXIgdGltZS4=
+# Google Chrome 38: Wrong Display Scaling and blurred
+
+Today I discovered my Google Chrome was automatically updated from version 37 to version 38... don't way automatically, I don't think I decided for this.
+Anyway, after this updated all websites I visited was wrong scaled with a strange blurred effected on some part of the text.
+For example, in GMail, all was bigger than usual, like when you select 125% scaling and when I try to write into the Hangout window, the text was blurred and impossible to read.
+I spent half of my day just trying to fix this problem and, because I've already have it in a previous version I was using in Linux, I already know it was a Chrome problem.
+
+To check the real problem I just check on a page I've created some years ago ([http://myip.mornati.net](http://myip.mornati.net)), to get the screen resolution from the browser.
+
+NOTE: On my laptop I've a **1920x1080** screen.
+
+**Chrome 38**
+![Chrome 38](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413060886/ncm85ccqkcmlkjbdoonv.png)
+
+What??? **1536x864** But... WHY??
+
+I then tested some others browser (some = the browsers you can imagine)
+
+**IE (yes IE too)**
+![IE](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413060886/i3dotiibefapkwq33is9.png)
+
+Ok... it's a strange number... but it's IE. Anyway, the screen resolution is more similar to the normal one I had before.
+
+**Firefox**
+![Firefox](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413060886/wyeii4mgvfexx6k3yov4.png)
+
+Firefox has the same problem than Chrome... but, at least, all is correctly displayed at this resolution. You don't have blur effect which make impossible to use it.
+
+I made a test to the Chrome's beta version; just because I didn't want to get back to the previous one if I cannot control the automatic update.
+
+**Chrome 39**
+![Chrome39](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413060886/a8qbyuhonoq2plfoppcm.png)
+
+Yes... that is good and it is the value I had with the previous version.
+
+I spent a day to get back to a correct screen resolution in my browser and to prevent blur effect to be able to use it!!
+
+Why anytime Google releases a new Chrome's stable version there's anything that wasn't correctly tested?
+
+If you want to fix this problem... just change the chrome version without lose your time.
