@@ -1,1 +1,136 @@
-IyMgRG9ja2VyOiBSUE0gQnVpbGRlciBDb250YWluZXIKCkkgc3BlbnQgdGhlIGxhc3QgbW9udGhzIHBsYXlpbmcgYXJvdW5kIFtEb2NrZXJdKGh0dHBzOi8vd3d3LmRvY2tlci5jb20pLiBFdmVuIGlmIEkndmUgc29tZSBkb3VidCBhYm91dCB1c2luZyBpdCBpbiBwcm9kdWN0aW9uIGVudmlyb25tZW50IGFuZCB0aGUgd2F5IHlvdSBuZWVkIHRvIHVzZSBpdCBvbiBXaW5kb3dzIGFuZCBPU3ggKHdpdGggYSBMaW51eCBWaXJ0dWFsQm94IFZNKSwgaXQgaXMgcmVhbGx5IGltcHJlc3NpdmUgd2hhdCB5b3UgY2FuIGRvIGFuZCBob3cgeW91IGNhbiBzaW1wbGlmeSB5b3VyIHdheSB0byB3b3JrLgoKQnV0IEkgZG9uJ3Qgd2FudCB0byB0YWxrIGFib3V0IGFsbCB0aGUgcHJvcyBhbmQgY29ucyBhYm91dCBkb2NrZXIsIEkganVzdCB3YW50IHRvIHNob3cgeW91IGhvdyBJICJmaXgiIGEgcmVjZW50IHByb2JsZW0gSSBoYWQgdXNpbmcgaXQhCgoqKlByb2JsZW06KiogTXkgcHJvZHVjdGlvbiBzZXJ2ZXIgcnVucyBFTDcgKENlbnRPUzcpIGFuZCBJIG5lZWQgdGhlIGxhdGVzdCAqZ2l0KiBwYWNrYWdlIGluc3RhbGxlZC4gTm8gd2F5IHRvIGZpbmQgYW4gZXhpc3RlbnQgUlBNIHRvIGluc3RhbGwgYW5kIEkgZG9uJ3QgaGF2ZSBhbnkgb3RoZXIgcmVhZHkgc2VydmVyIHRvIHVzZSB0byBidWlsZCB0aGUgUlBNLgoKKipTb2x1dGlvbiAocXVpY2sgYW5kIGRpcnR5KToqKiBEb3dubG9hZCB0aGUgc291cmNlcyBvZiBnaXQgZGlyZWN0bHkgb24gdGhlIHByb2R1Y3Rpb24gc2VydmVyOyBpbnN0YWxsIGFsbCByZXF1aXJlZCBwYWNrYWdlcyB0byBidWlsZCBpdDsgKm1ha2UgJiYgbWFrZSBpbnN0YWxsKi4KSW4gY2FzZSBvZiBwcm9ibGVtLi4uIHlvdSBrbm93Li4uIGl0J3MgdGhlIHByb2R1Y3Rpb24gc2VydmVyISEKCioqRG9ja2VyIFNvbHV0aW9uOioqIENvbmZpZ3VyZSBhIENlbnRPUzcgZG9ja2VyIGNvbnRhaW5lciBhbmQgdXNlIGl0IHRvIGJ1aWxkIHRoZSBSUE0gKGFuZCBpdCdzIHRoZSB0aGluZyBJIGRpZCA7KSBbZG9ja2VyLWdpdHJwbS1jZW50b3M3XShodHRwczovL2dpdGh1Yi5jb20vbW1vcm5hdGkvZG9ja2VyLWdpdHJwbS1jZW50b3M3KSkuCgpBZnRlciB0aGlzIEkgdHJ5IHRvIGNyZWF0ZSBhIHNvcnQgb2YgKmR5bmFtaWMqIGRvY2tlciBjb250YWluZXIgSSBjYW4gcmV1c2UgdG8gYnVpbGQgYW55IHNvcnQgb2YgUlBNcyBmb3IgYW55IHNvcnQgb2YgUmVkSGF0IGJhc2VkIHBsYXRmb3JtLgpUaGUgcmVzdWx0IG9mIHRoaXMgd29yayBpcyB0aGUgW2RvY2tlci1tb2NrLXJwbWJ1aWxkZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9tbW9ybmF0aS9kb2NrZXItbW9jay1ycG1idWlsZGVyKS4KCllvdSBqdXN0IG5lZWQgc291cmNlcytzcGVjIGZpbGUgb3IgZGlyZWN0bHkgdGhlIFNvdXJjZVJQTSBwYWNrYWdlLCBydW4gdGhlIGRvY2tlciBzZWxlY3RpbmcgeW91ciB0YXJnZXQgcGxhdGZvcm0sIGFuZCB3YWl0IGZvciB0aGUgUlBNLgoKVGhlIGJ1aWxkIHByb2Nlc3MgaXMgYmFzZWQgb24gW01vY2tdKGh0dHA6Ly9mZWRvcmFwcm9qZWN0Lm9yZy93aWtpL1Byb2plY3RzL01vY2spIGFuZCBteSBjdXJyZW50IGltcGxlbWVudGF0aW9uIGFsbG93cyB0byBidWlsZCBwYWNrYWdlcyBmb3Igd2hpY2ggYWxsIGRlcGVuZGVuY2llcyBhcmUgYXZhaWxhYmxlIG9uIHRoZSBvbi1saW5lIHJlcG9zaXRvcmllcyAob2ZmaWNpYWwgKyBFUEVMKS4uLiBJIHdpbGwgdHJ5IGFueXRoaW5nIGNvbXBsZXggaW4gdGhlIGZ1dHVyZSA7KQoKSGVyZSB5b3UgYXJlIGEgbGl0dGxlIGRvYyB0byB1c2UgbXkgcHJvamVjdCAoeW91IGNhbiBmaW5kIGl0IG9uIHRoZSBnaXRodWIgUmVhZG1lIGZpbGUgdG9vKS4KCi0tLQpGaXJzdCBvZmYgYWxsIHlvdSBuZWVkIHRvIGJ1aWxkIHRoZSBkb2NrZXIgY29udGFpbmVyOgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCBjb21tYW5kLWxpbmUiIGRhdGEtdXNlcj0icm9vdCIgZGF0YS1ob3N0PSJzZXJ2ZXIiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj5naXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL21tb3JuYXRpL2RvY2tlci1tb2NrLXJwbWJ1aWxkZXIuZ2l0CmNkIGRvY2tlci1tb2NrLXJwbWJ1aWxkZXIKZG9ja2VyIGJ1aWxkIC10IG1tb3JuYXRpL21vY2tycG1idWlsZGVyIC48L2NvZGU+PC9wcmU+CgojIyMjIyBDcmVhdGUgd29ya2luZyBkaXJlY3RvcnkKClRvIGFsbG93IHRoZSBpbXBvcnQvZXhwb3J0IG9mIGNyZWF0ZWQgUlBNcyB5b3UgbmVlZCB0byBjcmVhdGUgYSBkb2NrZXIgdm9sdW1lIGFuZCBhbGxvdyB0aGUgcmVhZC93cml0ZSByaWdodHMgKG9yIGFkZCBvd25lcikgdG8gdGhlIHVzZXIgYnVpbGRlcih1aWQ6MTAwMCkuCgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InNlcnZlciI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPm1rZGlyIC90bXAvcnBtYnVpbGQKY2hvd24gLVIgMTAwMDoxMDAwIC90bXAvcnBtYnVpbGQ8L2NvZGU+PC9wcmU+CkluIHRoaXMgZm9sZGVyIHlvdSBjYW4gcHV0IHRoZSBzcmMucnBtcyB0byByZWJ1aWxkLgoKIyMjIyMgRXhlY3V0ZSB0aGUgY29udGFpbmVyIHRvIGJ1aWxkIFJQTXMKClRvIGV4ZWN1dGUgdGhlIGRvY2tlciBjb250YWluZXIgYW5kIHJlYnVpbGQgUlBNcyBmb3VyIFNSUE1zIHlvdSBjYW4gcnVuIGl0IGluIHRoaXMgd2F5OgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCBjb21tYW5kLWxpbmUiIGRhdGEtdXNlcj0icm9vdCIgZGF0YS1ob3N0PSJzZXJ2ZXIiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj5kb2NrZXIgcnVuIC1kIC1lIE1PQ0tfQ09ORklHPWVwZWwtNi1pMzg2IC1lIFNPVVJDRV9SUE09Z2l0LTIuMy4wLTEuZWw3LmNlbnRvcy5zcmMucnBtIC12IC90bXAvcnBtYnVpbGQ6L3JwbWJ1aWxkIC0tcHJpdmlsZWdlZD10cnVlIG1tb3JuYXRpL21vY2tycG1idWlsZGVyPC9jb2RlPjwvcHJlPgoKSWYgeW91IGRvbid0IGhhdmUgdGhlIHNvdXJjZSBSUE1zIHlldCwgYnV0IHlvdSBnZXQgc3BlYyBmaWxlICsgc291cmNlcywgdG8gYnVpbGQgUlBNcyB5b3UgbmVlZCB0byBzdGFydCB0aGUgZG9ja2VyIGNvbnRhaW5lciBpbiB0aGlzIHdheToKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9InJvb3QiIGRhdGEtaG9zdD0ic2VydmVyIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+ZG9ja2VyIHJ1biAtZCAtZSBNT0NLX0NPTkZJRz1lcGVsLTYtaTM4NiAtZSBTT1VSQ0VTPVNPVVJDRVMvZ2l0LTIuMy4wLnRhci5neiAtZSBTUEVDX0ZJTEU9U1BFQ1MvZ2l0LnNwZWMgLXYgL3RtcC9ycG1idWlsZDovcnBtYnVpbGQgLS1wcml2aWxlZ2VkPXRydWUgbW1vcm5hdGkvbW9ja3JwbWJ1aWxkZXI8L2NvZGU+PC9wcmU+CgpJdCBpcyBpbXBvcnRhbnQgdG8ga25vdzoKCiogV2l0aCBzcGVjIGZpbGUgdGhlIGJ1aWxkIHByb2Nlc3MgY291bGQgYmUgbG9uZ2VyLiBUaGUgcmVhc29uIGlzIG1vY2sgaXQgaXMgaW52b2tlZCAyIHRpbWVzOiB0aGUgZmlyc3QgdG8gYnVpbGQgU1JQTSB0aGUgc2Vjb25kIHRvIGJ1aWxkIGFsbCBvdGhlciBSUE1TLgoqIFRoZSBmb2xkZXJzIHNwZWNpZmllZCBmb3IgU1BFQ19GSUxFLCBTT1VSQ0VTIGFuZCBTT1VSQ0VfUlBNIGVudiB2YXJpYWJsZXMgYXJlIHJlbGF0aXZlIHRvIHlvdXIgbW91bnQgcG9pbnQuIFRoaXMgbWVhbnMgaWYgZmlsZXMgYXJlIGF0IHRoZSByb290IG9mIG1vdW50IHBvaW50IHlvdSBuZWVkIHRvIHNwZWNpZnkgb25seSB0aGUgZmlsZSBuYW1lLCBvdGhlcndpc2UgdGhlIHN1YmZvbGRlciBzaG91bGQgYmUgYWRkZWQgdG9vLiAoU09VUkNFUyBpbiBteSBleGFtcGxlKQoKCgo+IE5COiBJdCdzIGltcG9ydGFudCB0byBydW4gdGhlIGNvbnRhaW5lciB3aXRoIHByaXZpbGVnZWQgcmlnaHRzIGJlY2F1c2UgbW9jayBuZWVkcyB0aGUgInVuc2hhcmUiIHN5c3RlbSBjYWxsIHRvIGNyZWF0ZSBhCj4gbmV3IG1vdW50cG9pbnQgaW5zaWRlIHRoZSBwcm9jZXNzLgo+IFdpdGhvdXQgdGhpcyB5b3Ugd2lsbCBnZXQgdGhpcyBlcnJvcjoKPgo+ICBFUlJPUjogTmFtZXNwYWNlIHVuc2hhcmUgZmFpbGVkLgo+Cj4gQSBkaWZmZXJlbnQgc29sdXRpb24gKHdoaWNoIGRpZG4ndCB3b3JrZWQgZm9yIG1lIHJpZ2h0IG5vdykgc2hvdWxkIGJlIHRvIGNoYW5nZSB0aGUgbHhjLWNvbmZpZ3VyYXRpb24gdG8gYWxsb3cgZG9ja2VyIHRoZSByaWdodCBhZG1pbiBqdXN0IGZvciB0aGlzIG9wZXJhdGlvbi4KPiBXaXRoIHRoaXMgY29tbWFuZDogc2V0Y2FwIGNhcF9zeXNfYWRtaW4rZXAKPiBCdXQgSSBkaWRuJ3QgZmluZCB0aGUgcmlnaHQgd2F5IHRvIGV4ZWN1dGUgaXQgKGFueSBoaW50IGlzIHdlbGNvbWUpIDopCgojIyMjIyBBbGxvd2VkIGNvbmZpZ3VyYXRpb25zCgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InNlcnZlciI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPmRlZmF1bHQgICAgICAgIGVwZWwtNy14ODZfNjQgICAgIGZlZG9yYS0xOS14ODZfNjQgIGZlZG9yYS0yMC14ODZfNjQgICBmZWRvcmEtMjEtczM5MHggICAgICAgICBmZWRvcmEtcmF3aGlkZS1zMzkwCmVwZWwtNS1pMzg2ICAgIGZlZG9yYS0xOS1hcm1oZnAgIGZlZG9yYS0yMC1hcm1oZnAgIGZlZG9yYS0yMS1hYXJjaDY0ICBmZWRvcmEtMjEteDg2XzY0ICAgICAgICBmZWRvcmEtcmF3aGlkZS1zMzkweAplcGVsLTUtcHBjICAgICBmZWRvcmEtMTktaTM4NiAgICBmZWRvcmEtMjAtaTM4NiAgICBmZWRvcmEtMjEtYXJtaGZwICAgZmVkb3JhLXJhd2hpZGUtYWFyY2g2NCAgZmVkb3JhLXJhd2hpZGUtc3BhcmMKZXBlbC01LXg4Nl82NCAgZmVkb3JhLTE5LXBwYzY0ICAgZmVkb3JhLTIwLXBwYzY0ICAgZmVkb3JhLTIxLWkzODYgICAgIGZlZG9yYS1yYXdoaWRlLWFybWhmcCAgIGZlZG9yYS1yYXdoaWRlLXg4Nl82NAplcGVsLTYtaTM4NiAgICBmZWRvcmEtMTktcHBjICAgICBmZWRvcmEtMjAtcHBjICAgICBmZWRvcmEtMjEtcHBjNjQgICAgZmVkb3JhLXJhd2hpZGUtaTM4NiAgICAgCmVwZWwtNi1wcGM2NCAgIGZlZG9yYS0xOS1zMzkwICAgIGZlZG9yYS0yMC1zMzkwICAgIGZlZG9yYS0yMS1wcGM2NGxlICBmZWRvcmEtcmF3aGlkZS1wcGM2NCAgICAKZXBlbC02LXg4Nl82NCAgZmVkb3JhLTE5LXMzOTB4ICAgZmVkb3JhLTIwLXMzOTB4ICAgZmVkb3JhLTIxLXMzOTAgICAgIGZlZG9yYS1yYXdoaWRlLXBwYzY0bGU8L2NvZGU+CjwvcHJlPgoKIyMjIyMgQ2hlY2sgYnVpbGQgc3RhdGUKClRvIGNoZWNrIHRoZSBycG1idWlsZCBwcm9ncmVzcyAoYW5kL29yIGVycm9ycykgeW91IGNhbiBzaW1wbHkgY2hlY2sgZG9ja2VyIGxvZ3MuCgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InNlcnZlciIgZGF0YS1vdXRwdXQ9IjItMyw1LTI4Ij48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+ZG9ja2VyIHBzCkNPTlRBSU5FUiBJRCAgICAgICAgSU1BR0UgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ09NTUFORCAgICAgICAgICAgICBDUkVBVEVEICAgICAgICAgICAgIFNUQVRVUyAgICAgICAgICAgICAgUE9SVFMgICAgICAgICAgICAgICBOQU1FUwpmOGQxNjFlNzI4MzIgICAgICAgIG1tb3JuYXRpL21vY2tycG1idWlsZGVyOmxhdGVzdCAgICIvYnVpbGQtcnBtLnNoIiAgICAgMiBzZWNvbmRzIGFnbyAgICAgICBVcCAxIHNlY29uZHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZXN0X2JhcmRlZW4KZG9ja2VyIGxvZ3MgLWYgZjhkMTYxZTcyODMyCj0+IEJ1aWxkaW5nIHBhcmFtZXRlcnM6CiAgICAgIE1PQ0tfQ09ORklHOiAgICBlcGVsLTYtaTM4NgogICAgICBTT1VSQ0VfUlBNOiAgICAgZ2l0LTIuMy4wLTEuZWw3LmNlbnRvcy5zcmMucnBtCklORk86IG1vY2sucHkgdmVyc2lvbiAxLjIuNiBzdGFydGluZyAocHl0aG9uIHZlcnNpb24gPSAyLjcuNSkuLi4KU3RhcnQ6IGluaXQgcGx1Z2lucwpJTkZPOiBzZWxpbnV4IGRpc2FibGVkCkZpbmlzaDogaW5pdCBwbHVnaW5zClN0YXJ0OiBydW4KSU5GTzogU3RhcnQoL3JwbWJ1aWxkL2dpdC0yLjMuMC0xLmVsNy5jZW50b3Muc3JjLnJwbSkgIENvbmZpZyhlcGVsLTYtaTM4NikKU3RhcnQ6IGNsZWFuIGNocm9vdApGaW5pc2g6IGNsZWFuIGNocm9vdApTdGFydDogY2hyb290IGluaXQKSU5GTzogY2FsbGluZyBwcmVpbml0IGhvb2tzCklORk86IGVuYWJsZWQgcm9vdCBjYWNoZQpJTkZPOiBlbmFibGVkIHl1bSBjYWNoZQpTdGFydDogY2xlYW5pbmcgeXVtIG1ldGFkYXRhCkZpbmlzaDogY2xlYW5pbmcgeXVtIG1ldGFkYXRhCklORk86IGVuYWJsZWQgY2NhY2hlCk1vY2sgVmVyc2lvbjogMS4yLjYKSU5GTzogTW9jayBWZXJzaW9uOiAxLjIuNgpTdGFydDogeXVtIGluc3RhbGwKWy4uLi5dCjwvY29kZT48L3ByZT4KCkFuZCB1c2UgTW9jayBsb2cgZmlsZXMsIHRoYXQgYXJlIGNyZWF0ZWQgaW4gdGhlIG91dHB1dCBkaXI6Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InNlcnZlciIgZGF0YS1vdXRwdXQ9IjItNSI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPmxsIC90bXAvcnBtYnVpbGQvb3V0cHV0Lwp0b3RhbGUgMTg4Ci1ydy1ydy1yLS0uIDEgMTAwMCAxMDAwICA0MDc5NSAyMSBmZWIgMTA6MzcgYnVpbGQubG9nCi1ydy1ydy1yLS0uIDEgMTAwMCAxMDAwIDE0NDk5NCAyMSBmZWIgMTA6MzQgcm9vdC5sb2cKLXJ3LXJ3LXItLS4gMSAxMDAwIDEwMDAgICAgOTYyIDIxIGZlYiAxMDozNCBzdGF0ZS5sb2c8L2NvZGU+PC9wcmU+CgojIyMjIyBPdXRwdXQKCklmIGFsbCB3b3JrZWQgd2VsbCwgeW91IHNob3VsZCBoYXZlIGFsbCB0aGUgUlBNcyAoc291cmNlICsgYmluYXJpZXMpIGF2YWlsYWJsZXMgaW4gdGhlIGNvbmZpZ3VyZWQgb3V0cHV0IGZvbGRlcjoKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9InJvb3QiIGRhdGEtaG9zdD0ic2VydmVyIiBkYXRhLW91dHB1dD0iMi0xNyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPmxsIC90bXAvcnBtYnVpbGQvb3V0cHV0Lwp0b3RhbGUgMjgwNzYKLXJ3LXJ3LXItLS4gMSAxMDAwIDEwMDAgICAxMTcwMTAgMjEgZmViIDEwOjQwIGJ1aWxkLmxvZwotcnctcnctci0tLiAxIDEwMDAgbW9jayAgNzk0MTA5MiAyMSBmZWIgMTA6MzkgZ2l0LTIuMy4wLTEuZWw2Lmk2ODYucnBtCi1ydy1ydy1yLS0uIDEgMTAwMCBtb2NrICA1MTkzNzIyIDIxIGZlYiAxMDozMyBnaXQtMi4zLjAtMS5lbDYuc3JjLnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgICAgNTQ3MiAyMSBmZWIgMTA6MzkgZ2l0LWFsbC0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgICAyNDU0MCAyMSBmZWIgMTA6MzkgZ2l0LWFyY2gtMi4zLjAtMS5lbDYuaTY4Ni5ycG0KLXJ3LXJ3LXItLS4gMSAxMDAwIG1vY2sgICAgOTA2NjggMjEgZmViIDEwOjM5IGdpdC1jdnMtMi4zLjAtMS5lbDYuaTY4Ni5ycG0KLXJ3LXJ3LXItLS4gMSAxMDAwIG1vY2sgMTQxMjM0NjggMjEgZmViIDEwOjQwIGdpdC1kZWJ1Z2luZm8tMi4zLjAtMS5lbDYuaTY4Ni5ycG0KLXJ3LXJ3LXItLS4gMSAxMDAwIG1vY2sgICAgMzc2MDAgMjEgZmViIDEwOjM5IGdpdC1lbWFpbC0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgIDI0MDQwMCAyMSBmZWIgMTA6MzkgZ2l0LWd1aS0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgIDE0ODk0MCAyMSBmZWIgMTA6MzkgZ2l0ay0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgIDQzNzE0OCAyMSBmZWIgMTA6MzkgZ2l0LXN2bi0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgbW9jayAgIDE0NTk5NiAyMSBmZWIgMTA6MzkgZ2l0d2ViLTIuMy4wLTEuZWw2Lmk2ODYucnBtCi1ydy1ydy1yLS0uIDEgMTAwMCBtb2NrICAgIDY3MjU2IDIxIGZlYiAxMDozOSBwZXJsLUdpdC0yLjMuMC0xLmVsNi5pNjg2LnJwbQotcnctcnctci0tLiAxIDEwMDAgMTAwMCAgIDE0NzI2NyAyMSBmZWIgMTA6NDAgcm9vdC5sb2cKLXJ3LXJ3LXItLS4gMSAxMDAwIDEwMDAgICAgIDEyNDggMjEgZmViIDEwOjQwIHN0YXRlLmxvZzwvY29kZT48L3ByZT4=
+# Docker: RPM Builder Container
+
+I spent the last months playing around [Docker](https://www.docker.com). Even if I've some doubt about using it in production environment and the way you need to use it on Windows and OSx (with a Linux VirtualBox VM), it is really impressive what you can do and how you can simplify your way to work.
+
+But I don't want to talk about all the pros and cons about docker, I just want to show you how I "fix" a recent problem I had using it!
+
+**Problem:** My production server runs EL7 (CentOS7) and I need the latest *git* package installed. No way to find an existent RPM to install and I don't have any other ready server to use to build the RPM.
+
+**Solution (quick and dirty):** Download the sources of git directly on the production server; install all required packages to build it; *make && make install*.
+In case of problem... you know... it's the production server!!
+
+**Docker Solution:** Configure a CentOS7 docker container and use it to build the RPM (and it's the thing I did ;) [docker-gitrpm-centos7](https://github.com/mmornati/docker-gitrpm-centos7)).
+
+After this I try to create a sort of *dynamic* docker container I can reuse to build any sort of RPMs for any sort of RedHat based platform.
+The result of this work is the [docker-mock-rpmbuilder](https://github.com/mmornati/docker-mock-rpmbuilder).
+
+You just need sources+spec file or directly the SourceRPM package, run the docker selecting your target platform, and wait for the RPM.
+
+The build process is based on [Mock](http://fedoraproject.org/wiki/Projects/Mock) and my current implementation allows to build packages for which all dependencies are available on the on-line repositories (official + EPEL)... I will try anything complex in the future ;)
+
+Here you are a little doc to use my project (you can find it on the github Readme file too).
+
+---
+First off all you need to build the docker container:
+
+<pre class="language-bash command-line" data-user="root" data-host="server"><code class="language-bash">git clone https://github.com/mmornati/docker-mock-rpmbuilder.git
+cd docker-mock-rpmbuilder
+docker build -t mmornati/mockrpmbuilder .</code></pre>
+
+##### Create working directory
+
+To allow the import/export of created RPMs you need to create a docker volume and allow the read/write rights (or add owner) to the user builder(uid:1000).
+
+<pre class="language-bash command-line" data-user="root" data-host="server"><code class="language-bash">mkdir /tmp/rpmbuild
+chown -R 1000:1000 /tmp/rpmbuild</code></pre>
+In this folder you can put the src.rpms to rebuild.
+
+##### Execute the container to build RPMs
+
+To execute the docker container and rebuild RPMs four SRPMs you can run it in this way:
+
+<pre class="language-bash command-line" data-user="root" data-host="server"><code class="language-bash">docker run -d -e MOCK_CONFIG=epel-6-i386 -e SOURCE_RPM=git-2.3.0-1.el7.centos.src.rpm -v /tmp/rpmbuild:/rpmbuild --privileged=true mmornati/mockrpmbuilder</code></pre>
+
+If you don't have the source RPMs yet, but you get spec file + sources, to build RPMs you need to start the docker container in this way:
+
+<pre class="language-bash command-line" data-user="root" data-host="server"><code class="language-bash">docker run -d -e MOCK_CONFIG=epel-6-i386 -e SOURCES=SOURCES/git-2.3.0.tar.gz -e SPEC_FILE=SPECS/git.spec -v /tmp/rpmbuild:/rpmbuild --privileged=true mmornati/mockrpmbuilder</code></pre>
+
+It is important to know:
+
+* With spec file the build process could be longer. The reason is mock it is invoked 2 times: the first to build SRPM the second to build all other RPMS.
+* The folders specified for SPEC_FILE, SOURCES and SOURCE_RPM env variables are relative to your mount point. This means if files are at the root of mount point you need to specify only the file name, otherwise the subfolder should be added too. (SOURCES in my example)
+
+
+
+> NB: It's important to run the container with privileged rights because mock needs the "unshare" system call to create a
+> new mountpoint inside the process.
+> Without this you will get this error:
+>
+>  ERROR: Namespace unshare failed.
+>
+> A different solution (which didn't worked for me right now) should be to change the lxc-configuration to allow docker the right admin just for this operation.
+> With this command: setcap cap_sys_admin+ep
+> But I didn't find the right way to execute it (any hint is welcome) :)
+
+##### Allowed configurations
+
+<pre class="language-bash command-line" data-user="root" data-host="server"><code class="language-bash">default        epel-7-x86_64     fedora-19-x86_64  fedora-20-x86_64   fedora-21-s390x         fedora-rawhide-s390
+epel-5-i386    fedora-19-armhfp  fedora-20-armhfp  fedora-21-aarch64  fedora-21-x86_64        fedora-rawhide-s390x
+epel-5-ppc     fedora-19-i386    fedora-20-i386    fedora-21-armhfp   fedora-rawhide-aarch64  fedora-rawhide-sparc
+epel-5-x86_64  fedora-19-ppc64   fedora-20-ppc64   fedora-21-i386     fedora-rawhide-armhfp   fedora-rawhide-x86_64
+epel-6-i386    fedora-19-ppc     fedora-20-ppc     fedora-21-ppc64    fedora-rawhide-i386     
+epel-6-ppc64   fedora-19-s390    fedora-20-s390    fedora-21-ppc64le  fedora-rawhide-ppc64    
+epel-6-x86_64  fedora-19-s390x   fedora-20-s390x   fedora-21-s390     fedora-rawhide-ppc64le</code>
+</pre>
+
+##### Check build state
+
+To check the rpmbuild progress (and/or errors) you can simply check docker logs.
+
+<pre class="language-bash command-line" data-user="root" data-host="server" data-output="2-3,5-28"><code class="language-bash">docker ps
+CONTAINER ID        IMAGE                            COMMAND             CREATED             STATUS              PORTS               NAMES
+f8d161e72832        mmornati/mockrpmbuilder:latest   "/build-rpm.sh"     2 seconds ago       Up 1 seconds                            modest_bardeen
+docker logs -f f8d161e72832
+=> Building parameters:
+      MOCK_CONFIG:    epel-6-i386
+      SOURCE_RPM:     git-2.3.0-1.el7.centos.src.rpm
+INFO: mock.py version 1.2.6 starting (python version = 2.7.5)...
+Start: init plugins
+INFO: selinux disabled
+Finish: init plugins
+Start: run
+INFO: Start(/rpmbuild/git-2.3.0-1.el7.centos.src.rpm)  Config(epel-6-i386)
+Start: clean chroot
+Finish: clean chroot
+Start: chroot init
+INFO: calling preinit hooks
+INFO: enabled root cache
+INFO: enabled yum cache
+Start: cleaning yum metadata
+Finish: cleaning yum metadata
+INFO: enabled ccache
+Mock Version: 1.2.6
+INFO: Mock Version: 1.2.6
+Start: yum install
+[....]
+</code></pre>
+
+And use Mock log files, that are created in the output dir:
+
+<pre class="language-bash command-line" data-user="root" data-host="server" data-output="2-5"><code class="language-bash">ll /tmp/rpmbuild/output/
+totale 188
+-rw-rw-r--. 1 1000 1000  40795 21 feb 10:37 build.log
+-rw-rw-r--. 1 1000 1000 144994 21 feb 10:34 root.log
+-rw-rw-r--. 1 1000 1000    962 21 feb 10:34 state.log</code></pre>
+
+##### Output
+
+If all worked well, you should have all the RPMs (source + binaries) availables in the configured output folder:
+
+<pre class="language-bash command-line" data-user="root" data-host="server" data-output="2-17"><code class="language-bash">ll /tmp/rpmbuild/output/
+totale 28076
+-rw-rw-r--. 1 1000 1000   117010 21 feb 10:40 build.log
+-rw-rw-r--. 1 1000 mock  7941092 21 feb 10:39 git-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock  5193722 21 feb 10:33 git-2.3.0-1.el6.src.rpm
+-rw-rw-r--. 1 1000 mock     5472 21 feb 10:39 git-all-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock    24540 21 feb 10:39 git-arch-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock    90668 21 feb 10:39 git-cvs-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock 14123468 21 feb 10:40 git-debuginfo-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock    37600 21 feb 10:39 git-email-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock   240400 21 feb 10:39 git-gui-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock   148940 21 feb 10:39 gitk-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock   437148 21 feb 10:39 git-svn-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock   145996 21 feb 10:39 gitweb-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 mock    67256 21 feb 10:39 perl-Git-2.3.0-1.el6.i686.rpm
+-rw-rw-r--. 1 1000 1000   147267 21 feb 10:40 root.log
+-rw-rw-r--. 1 1000 1000     1248 21 feb 10:40 state.log</code></pre>
