@@ -1,1 +1,8 @@
-IyMgQ2Fubm90IHNodXRkb3duIE1hY09TWDogdHJ5IGNoYW5naW5nIFRpbWVNYWNoaW5lIHNldHRpbmdzCgpJZiB5b3UgaGF2ZSBzaHV0ZG93biBwcm9ibGVtcyBvbiB5b3VyIE1hYzogaXQgbmV2ZXIgc2h1dGRvd24gYW5kIGlzIHN0YWNrIGF0IG9uIHRoZSBncmV5IGNpcmN1bGFyIGljb24uIFRoZSBwcm9ibGVtIGNvdWxkIGJlIHlvdXIgVGltZU1hY2hpbmUgc2V0dGluZy4KCkkganVzdCBkaXNjb3ZlcmVkIHRoYXQgbXkgTWFjQm9vayBoYWQgcHJvYmxlbXMgY29ubmVjdGluZyB0byB0aGUgbmV0d29yayB0aW1lbWFjaGluZSBkaXNrIChpdCdzIG5vdCB0aGUgdGltZSBjYXBzdWxlIGJ1dMKgIGEgQnVmZmFsbyBOQVMpLi4uIE5vIGJhY2t1cCB3ZXJlIGV4ZWN1dGVkLCBzb21ldGltZXMgdGhlIHN5c3RlbSB3YXMgdW51c2FibGUgYW5kIGNhbm5vdCBzaHV0ZG93biBvciByZXN0YXJ0IChuZWVkIHRvIGZvcmNlIHRoZSBzaHV0ZG93biB3aXRoIHRoZSBwb3dlciBidXR0b24pLgpXZWxsIGkgZG9uJ3QgZXhhY3RseSBrbm93IHRoZSByZWFzb25zIGFyb3VuZCB0aGUgbWlzc2luZyBjb25uZWN0aW9uIHRvIHRoZSBkaXNrLCBidXQgYWZ0ZXIgYSByZXNldCBvZiBteSB0aW1lIG1hY2hpbmUgc2V0dGluZ3MsIGFsbCBiYWNrIHRvIG5vcm1hbC4KClNvIGlmIHlvdSBoYXZlIHNvbWUgc3RyYW5nZSBwcm9ibGVtcyBpbiB5b3VyIE1hYywgY2hlY2sgeW91ciBsYXRlc3QgYmFja3VwIGFuZCB0cnkgdG8gZm9yY2UgYSBuZXcgb25lIGJ5IGhhbmQ7IGlmIGl0IGNhbm5vdCBmaW5kL2Nvbm5lY3QgdG8geW91ciBkaXNrLi4uIHlvdSBnb3QgaXQhIDop
+# Cannot shutdown MacOSX: try changing TimeMachine settings
+
+If you have shutdown problems on your Mac: it never shutdown and is stack at on the grey circular icon. The problem could be your TimeMachine setting.
+
+I just discovered that my MacBook had problems connecting to the network timemachine disk (it's not the time capsule but  a Buffalo NAS)... No backup were executed, sometimes the system was unusable and cannot shutdown or restart (need to force the shutdown with the power button).
+Well i don't exactly know the reasons around the missing connection to the disk, but after a reset of my time machine settings, all back to normal.
+
+So if you have some strange problems in your Mac, check your latest backup and try to force a new one by hand; if it cannot find/connect to your disk... you got it! :)
