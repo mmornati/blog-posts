@@ -1,1 +1,43 @@
-IyMgT3B0aW1pemUgR2hvc3QgZm9yIFNFTyAtIFNpdGVNYXAgZ2VuZXJhdG9yCgpBbiBpbXBvcnRhbnQgdGhpbmcgdG8gYmUgd2VsbCByZWZlcmVuY2VuZCBvbiBzZWFyY2ggZW5naW5lcyAoaXMgdGhlcmUgYW55dGhpbmcgZGlmZmVyZW50IHRoYW4gR29vZ2xlPyA6RCkgaXMgdGhlICoqc2l0ZW1hcC54bWwqKi4gSW4gdGhpcyBmaWxlIHlvdSBzaG91bGQgbGlzdCBhbGwgdGhlIHBhZ2VzIG9mIHlvdXIgd2Vic2l0ZSB3aXRoIHNvbWUgcGFyYW1ldGVycyB0byBpbnN0cnVjdCB0aGUgcmVhZGVyICh0aGUgc2VhcmNoIGVuZ2luZSByb2JvdCBmb3IgZXhhbXBsZSkgYWJvdXQgdGhlIGxhc3QgdXBkYXRlIG9mIGEgcGFnZSwgdGhlIHVwZGF0ZSBmcmVxdWVuY3kgYW5kIHBhZ2UgcHJpb3JpdHkuCgohW1NpdGVNYXAueG1sXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQxMzA2MTI4MC9iY3VrZWZ0bjhtc2JqcGRhaHoxNy5wbmcpCgpBZnRlciBzb21lIHRlc3RzIG9mIHNjcmlwdHMgZm91bmQgb24gdGhlIG5ldCwgSSBkZWNpZGVkIHRvIGNyZWF0ZSBhIHNwZWNpZmljIHNpdGVtYXAgZ2VuZXJhdG9yIGZvciB0aGUgR2hvc3QgYmxvZ2dpbmcgcGxhdGZvcm0uIFRoZSByZWFzb25zIGlzIHRoYXQgYWxsIHNjcmlwdHMgSSBmb3VuZCBhbmQgdGVzdHMgY2hlY2sgZm9yIHBhZ2VzIGNvbnRhY3RpZyBHaG9zdCB0aG91Z2h0IHRoZSBXZWJTZXJ2ZXIgKGFza2luZyBmb3IgcGFnZXMgYW5kIGNoZWNraW5nIGZvciBhbGwgbGlua3Mgb24gZWFjaCBwYWdlKS4KVGhpcyBpcyBzdXJlbHkgYSBnb29kIHdheSB0byBpZGVudGlmeSBhbGwgcGFnZXMgYW5kIHJlc291cmNlcyBvZiB5b3VyIHdlYnNpdGUgYXV0b21hdGljYWxseS4uLiBCVVQsIGl0IGNvdWxkIHRha2UgbG9uZyB0aW1lIHRvIGJlIGdlbmVyYXRlZC4KCldpdGggdGhlIHNjcmlwdCBJIGNyZWF0ZWQsIHdoaWNoIHlvdSBjYW4gZmluZCBvbiBbZ2l0aHViIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9tbW9ybmF0aS9naG9zdC1zaXRlbWFwLWdlbmVyYXRvciksIGFsbCBwYWdlcyBmb3IgdGhlIHNpdGVtYXAgZmlsZSBhcmUgZ2VuZXJhdGVkIHNpbXBseSByZWFkaW5nIHRoZSBkYXRhYmFzZToKCiogbGlzdCBvZiBwdWJsaXNoZWQgcG9zdHMgKGRyYWZ0IGFyZSBleGNsdWRlZCkgYW5kIHN0YXRpYyBwYWdlcwoqIGxpc3Qgb2YgYWxsIHBhZ2VzIChpLmUuIGh0dHA6Ly9ibG9nLm1vcm5hdGkubmV0L3BhZ2UvMi8pCgpJbiB0aGlzIHdheSB5b3VyIHNpdGVtYXAgaXMgZ2VuZXJhdGVkIGluIGEgc2Vjb25kLgoKQWN0dWFsbHkgdGhlIHNjcmlwdCB3b3JrcyBvbmx5IGZvciBNeVNRTCBkYXRhYmFzZSAodGhhdCBpcyBteSBhY3R1YWwgaW5zdGFsbGF0aW9uKSwgYnV0IHdpdGggc29tZSBsaXR0bGUgZXh0ZW5zaW9ucyB3ZSBjYW4gYWRkIGFueSBvdGhlciBwb3NzaWJsZSBkYXRhYmFzZS4KCklmIHlvdSBleGVjdXRlIHRoZSBzY3JpcHQgd2l0aG91dCBwYXJhbWV0ZXJzIGFuIGhlbHAgZG9jIGlzIHNob3duIG9uIHRoZSBzY3JlZW46Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJtYXJjbyIgZGF0YS1ob3N0PSJzZXJ2ZXIiIGRhdGEtb3V0cHV0PSIyLTE0Ij48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+cnVieSBnZW5lcmF0ZV9naG9zdF9zaXRlbWFwLnJiIApNaXNzaW5nIG9wdGlvbnM6IHNpdGUsIHByaW9yaXR5LCBmcmVxdWVuY3ksIGRlc3RmaWxlLCBob3N0bmFtZSwgdXNlciwgcGFzc3dvcmQsIGRibmFtZQpVc2FnZTogZ2VuZXJhdGVfZ2hvc3Rfc2l0ZW1hcC5yYiBbb3B0aW9uc10KICAgIC1oLCAtLWhlbHAgICAgICAgICAgICAgICAgICAgICAgIERpc3BsYXkgdGhpcyBzY3JlZW4KICAgIC1zLCAtLXNpdGUgU0lURSAgICAgICAgICAgICAgICAgIFNpdGUgYmFzZSBVUkwuIEVYOiBibG9nLm1vcm5hdGkubmV0CiAgICAtZiwgLS1mcmVxdWVuY3kgRlJFUVVFTkNZICAgICAgICBVcGRhdGUgRnJlbnF1ZW5jeS4gT25lIG9mOiBhbHdheXMsaG91cmx5LGRhaWx5LHdlZWtseSxtb250aGx5LHllYXJseSxuZXZlcgogICAgLXAsIC0tcHJpb3JpdHkgUFJJT1JJVFkgICAgICAgICAgVXBkYXRlIHByaW9yaXR5LiBWYWx1ZXMgYmVldHdlbiAwLjAgZXQgMS4wCiAgICAtZCwgLS1kZXN0ZmlsZSBERVNURklMRSAgICAgICAgICBTaXRlbWFwIGRlc3RpbmF0aW9uIGZpbGUuIEV4LiAvdXNyL3NoYXJlL3NlcnZlci9zaXRlbWFwLnhtbAogICAgLXQsIC0tdGVzdCAgICAgICAgICAgICAgICAgICAgICAgRG8gbm90IHBpbmcgR29vZ2xlIGFmdGVyIHNpdGVtYXAgZ2VuZXJhdGlvbgogICAgLXYsIC0tdmVyYm9zZSAgICAgICAgICAgICAgICAgICAgVmVyYm9zZSBleGVjdXRpb24KICAgIC1tLCAtLW15c3FsIEhPU1ROQU1FICAgICAgICAgICAgIE15U1FMIGhvc3RuYW1lCiAgICAtdSwgLS11c2VyIFVTRVJOQU1FICAgICAgICAgICAgICBNeVNRTCBVc2VybmFtZQogICAgLXcsIC0tcGFzc3dvcmQgUEFTU1dPUkQgICAgICAgICAgTXlTUUwgUGFzc3dvcmQKICAgIC1iLCAtLWRibmFtZSBEQk5BTUUgICAgICAgICAgICAgIERhdGFiYXNlIG5hbWU8L2NvZGU+PC9wcmU+CiAgICAKU28sIHRvIHVzZSBpdCwgeW91IGNhbiBzaW1wbHkgYWRkIGEgY3JvbnRhYiB3aXRoIGFsbCByZXF1aXJlZCBwYXJhbWV0ZXJzIHRvIGFjY2VzcyB0byB5b3VyIEdob3N0IERCIGFuZCB0byBnZW5lcmF0ZSB0aGUgc2l0ZW1hcCBmaWxlLiBUaGUgdXNlciBleGVjdXRpbmcgY3JvbiBtdXN0IGhhdmUgYWNjZXNzIHRvIHRoZSBzaXRlbWFwIGZvbGRlciAoc28gbm9ybWFsbHkgc2hvdWxkIGJlOiByb290L2FwYWNoZS9uZ2lueCkuCgpGb3IgZXhhbXBsZToKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj4wIDAgKiAqICogL3Vzci9iaW4vcnVieSAvcm9vdC9nZW5lcmF0ZV9naG9zdF9zaXRlbWFwLnJiIC1zIGJsb2cubW9ybmF0aS5uZXQgLXAgMC41IC1mIGRhaWx5IC1tIGxvY2FsaG9zdCAtdSBnaG9zdCAtdyBteXBhc3N3ZCAtYiBnaG9zdCAtdiAtZCAvdXNyL3NoYXJlL25naW54L2dob3N0L3NpdGVtYXAueG1sPC9jb2RlPjwvcHJlPgoKVGhlIHNjcmlwdCdzIGV4ZWN1dGlvbiBpcyBzY2hlZHVsZWQgYW55IGRheSBhdCBtaWRuaWdodCB3aXRoIGFsbCB0aGUgb3B0aW9ucyB5b3UgY2FuIHJlYWQgOykKCg==
+# Optimize Ghost for SEO - SiteMap generator
+
+An important thing to be well referencend on search engines (is there anything different than Google? :D) is the **sitemap.xml**. In this file you should list all the pages of your website with some parameters to instruct the reader (the search engine robot for example) about the last update of a page, the update frequency and page priority.
+
+![SiteMap.xml](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413061280/bcukeftn8msbjpdahz17.png)
+
+After some tests of scripts found on the net, I decided to create a specific sitemap generator for the Ghost blogging platform. The reasons is that all scripts I found and tests check for pages contactig Ghost thought the WebServer (asking for pages and checking for all links on each page).
+This is surely a good way to identify all pages and resources of your website automatically... BUT, it could take long time to be generated.
+
+With the script I created, which you can find on [github repository](https://github.com/mmornati/ghost-sitemap-generator), all pages for the sitemap file are generated simply reading the database:
+
+* list of published posts (draft are excluded) and static pages
+* list of all pages (i.e. http://blog.mornati.net/page/2/)
+
+In this way your sitemap is generated in a second.
+
+Actually the script works only for MySQL database (that is my actual installation), but with some little extensions we can add any other possible database.
+
+If you execute the script without parameters an help doc is shown on the screen:
+
+<pre class="language-bash command-line" data-user="marco" data-host="server" data-output="2-14"><code class="language-bash">ruby generate_ghost_sitemap.rb 
+Missing options: site, priority, frequency, destfile, hostname, user, password, dbname
+Usage: generate_ghost_sitemap.rb [options]
+    -h, --help                       Display this screen
+    -s, --site SITE                  Site base URL. EX: blog.mornati.net
+    -f, --frequency FREQUENCY        Update Frenquency. One of: always,hourly,daily,weekly,monthly,yearly,never
+    -p, --priority PRIORITY          Update priority. Values beetwen 0.0 et 1.0
+    -d, --destfile DESTFILE          Sitemap destination file. Ex. /usr/share/server/sitemap.xml
+    -t, --test                       Do not ping Google after sitemap generation
+    -v, --verbose                    Verbose execution
+    -m, --mysql HOSTNAME             MySQL hostname
+    -u, --user USERNAME              MySQL Username
+    -w, --password PASSWORD          MySQL Password
+    -b, --dbname DBNAME              Database name</code></pre>
+    
+So, to use it, you can simply add a crontab with all required parameters to access to your Ghost DB and to generate the sitemap file. The user executing cron must have access to the sitemap folder (so normally should be: root/apache/nginx).
+
+For example:
+
+<pre class="language-bash"><code class="language-bash">0 0 * * * /usr/bin/ruby /root/generate_ghost_sitemap.rb -s blog.mornati.net -p 0.5 -f daily -m localhost -u ghost -w mypasswd -b ghost -v -d /usr/share/nginx/ghost/sitemap.xml</code></pre>
+
+The script's execution is scheduled any day at midnight with all the options you can read ;)
+
