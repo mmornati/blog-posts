@@ -1,1 +1,12 @@
-IyMgQ29tcGxldGVkIGJsb2cgbWlncmF0aW9uOiBmcm9tIFdvcmRQcmVzcyB0byBHaG9zdAoKQWZ0ZXIgeWVhcnMgdXNpbmcgV29yZHByZXNzIGZvciBteSBwZXJzb25hbCBibG9nLCBJIGRlY2lkZWQgdG8gdGVzdCBzb21ldGhpbmcgbmV3LiBXb3JkcHJlc3Mgd29ya3MgdmVyeSB3ZWxsLCBidXQgSSB0aGluayBpcyBiZWNhbWUgdG9vIGhlYXZ5IGZvciBhIHNpbXBsZSBibG9nIGluIHRoZSBsYXRlc3RzIHZlcnNpb25zLi4uCkFueXdheS4uLiBJIGZvdW5kIDxhIGhyZWY9Imh0dHA6Ly90cnlnaG9zdC5vcmciPkdob3N0PC9hPiwgYSBOb2RlSlMgYmxvZ2dpbmcgcGxhdGZvcm0sIHRoYXQgaXMgYWN0dWFsbHkgaW4gc3Ryb25nIGRldmVsb3BtZW50IGJ1dCB3aXRoIGFsbCBiYXNpYyBmdW5jdGlvbmFsaXRpZXMgYWxyZWFkeS4KClRoZSBvbmx5IHRoaW5nIEkgd2FudCB0byBzaGFyZSBmb3IgdGhlIG1vbWVudCBpcyB0aGUgcGVyZm9ybWFuY2UgdGVzdCBjb21wYXJpc29uLiBTdXJlLCBXb3JkcHJlc3MgZG9lcyBub3QgaGF2ZSBleGFjdGx5IHRoZSBzYW1lIHRoZW1lIGFuZCBjb3VsZCBzdXJlbHkgYmUgYmV0dGVyLi4uCgoqKldvcmRwcmVzcyoqOgo8aW1nIHNyYz0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjEzOTE4MTQxMzkvU2NoZXJtYXRhXzIwMTQtMDItMDdfYWxsZV8yM180Ml8zMl91eGQ1cXgucG5nIi8+CgoqKkdob3N0Kio6CjxpbWcgc3JjPSJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTM5MTgxNDEzOC9TY2hlcm1hdGFfMjAxNC0wMi0wN19hbGxlXzIzXzM3XzI5X2VsZnJway5wbmciLz4=
+# Completed blog migration: from WordPress to Ghost
+
+After years using Wordpress for my personal blog, I decided to test something new. Wordpress works very well, but I think is became too heavy for a simple blog in the latests versions...
+Anyway... I found <a href="http://tryghost.org">Ghost</a>, a NodeJS blogging platform, that is actually in strong development but with all basic functionalities already.
+
+The only thing I want to share for the moment is the performance test comparison. Sure, Wordpress does not have exactly the same theme and could surely be better...
+
+**Wordpress**:
+<img src="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391814139/Schermata_2014-02-07_alle_23_42_32_uxd5qx.png"/>
+
+**Ghost**:
+<img src="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391814138/Schermata_2014-02-07_alle_23_37_29_elfrpk.png"/>
