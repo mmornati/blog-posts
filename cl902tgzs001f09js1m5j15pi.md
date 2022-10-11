@@ -1,1 +1,21 @@
-IyMgZVBvbW9kb3JvOiB1cGRhdGVzLiBWZXJzaW9uIDEuMC4zCgpJJ3ZlIGp1c3QgcmVsZWFzZWQgdGhlIGVQb21vZG9ybyAxLjAuMy4KClRoaXMgdmVyc2lvbiBpbmNsdWRlczoKPHVsPgoJPGxpPkJ1Z2ZpeGVzIGluIGNvbW11bmljYXRpb24gc3R1ZmZzPC9saT4KCTxsaT5DaGFuZ2VzIHRvIFVJIGludGVyZmFjZXM8L2xpPgoJPGxpPkFkZGVkIHN0YXR1cyBiYXIgdGltZXIgbWFuYWdlbWVudCAobm8gbW9yZSB2aWV3IHJlcXVpcmVkKTwvbGk+Cgk8bGk+QWRkZWQgc2luZ2xlIHVzZXIgbWVzc2FnZSAoc2hvd24ganVzdCB3aGVuIHNlbGVjdGVkIHVzZXIgaXMgbm90IG9uIFBvbW9kb3JvKTwvbGk+Cgk8bGk+QWRkZWQgY29uZmlndXJhdGlvbiBvZiBjb25uZWN0aW9uIHBhcmFtZXRlcnMgaW4gcHJlZmVyZW5jZSBwYWdlICh5b3UgY2FuIGNob29zZSBtYW55YWxseSB0aGUgYmluZCBhZGRyZXNzIGlmIGl0IGRvZXMgbm90IHdvcmspPC9saT4KPC91bD4KWW91IGNhbiBkb3dubG9hZCB0aGUgYmluYXJ5IGRpcmVjdGx5IG9uIEdpdEh1YiBvciBHb29nbGVDb2RlIChzb3VyY2VzIGFyZSBvbiBib3RoIHNlcnZlcik6Cgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vbW1vcm5hdGkvZXBvbW9kb3JvL2Rvd25sb2FkcyI+aHR0cHM6Ly9naXRodWIuY29tL21tb3JuYXRpL2Vwb21vZG9yby9kb3dubG9hZHM8L2E+Cgo8YSBocmVmPSJodHRwOi8vY29kZS5nb29nbGUuY29tL3AvZS1wb21vZG9yby9kb3dubG9hZHMvbGlzdCI+aHR0cDovL2NvZGUuZ29vZ2xlLmNvbS9wL2UtcG9tb2Rvcm8vZG93bmxvYWRzL2xpc3Q8L2E+CgpFbmpveSB5b3VyIFBvbW9kb3JvIHdvcmshIDspCgpbZ2FsbGVyeSBsaW5rPSJmaWxlIl0=
+# ePomodoro: updates. Version 1.0.3
+
+I've just released the ePomodoro 1.0.3.
+
+This version includes:
+<ul>
+	<li>Bugfixes in communication stuffs</li>
+	<li>Changes to UI interfaces</li>
+	<li>Added status bar timer management (no more view required)</li>
+	<li>Added single user message (shown just when selected user is not on Pomodoro)</li>
+	<li>Added configuration of connection parameters in preference page (you can choose manyally the bind address if it does not work)</li>
+</ul>
+You can download the binary directly on GitHub or GoogleCode (sources are on both server):
+
+<a href="https://github.com/mmornati/epomodoro/downloads">https://github.com/mmornati/epomodoro/downloads</a>
+
+<a href="http://code.google.com/p/e-pomodoro/downloads/list">http://code.google.com/p/e-pomodoro/downloads/list</a>
+
+Enjoy your Pomodoro work! ;)
+
+[gallery link="file"]
