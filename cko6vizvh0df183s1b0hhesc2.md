@@ -1,1 +1,91 @@
-IyMgVXBncmFkZSBDb25CZWUyIEZpcm13YXJlIGluIEhhc3NPUwoKSSB1c2VkIGRlQ29ueiBpbiBIb21lIEFzc2lzdGFudCBmb3IgdGhlIGxhc3QgOSBtb250aHMgYW5kIEkgZGlzY292ZXJlZCBzb21lIGNyYXp5IHRoaW5ncyBpbiB0aGUgd2F5IGRlQ29ueiBpcyB3b3JraW5nLiBUaGUgc3RyYW5nZXN0IG9uZSBpcyBzdXJlbHkgdGhlIGdhdGV3YXkgZmlybXdhcmUgdXBkYXRlIChmb3IgbWUgYSBDb25CZWUyKTogZXZlbiBpZiB5b3UgYXJlIG9uIGEgMS15ZWFyLW9sZCBmaXJtd2FyZSwgaW4gUGhvc2NvbiB5b3UgYWx3YXlzIGhhdmUgdGhlIG1lc3NhZ2UgInlvdXIgdmVyc2lvbiBpcyB1cGRhdGVkIi4KCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYxOTg5Njg3MjY0OC8wQ1Rkd2ZXSnMucG5nKQoKVGhlIG9ubHkgdGhpbmcgdG8gZG8gdG8gcmVhbGx5IGhhdmUgdGhlIGxhdGVzdCBmaXJtd2FyZSB2ZXJzaW9uIGlzIHRvIHVzZSB0aGUgbWFudWFsIHVwZ3JhZGUgcHJvY2Vzcywgd2hpY2ggaXMgd29ya2luZyBpbiBob21lIGFzc2lzdGFudCBldmVuIGlmICBbdGhlIG9mZmljaWFsIGRvY3VtZW50YXRpb25dKGh0dHBzOi8vZ2l0aHViLmNvbS9kcmVzZGVuLWVsZWt0cm9uaWsvZGVjb256LXJlc3QtcGx1Z2luL3dpa2kvVXBkYXRlLWRlQ09OWi1tYW51YWxseSN1cGRhdGUtaW4tZG9ja2VyKSAgc2F5cyBuby4KCgoxLiBGaXJzdCBvZiBhbGwgeW91IG5lZWQgdG8ga25vdyB3aGF0IGlzIHRoZSBkZXZpY2UgbmFtZSBvZiB5b3VyIHppZ2JlZSBnYXRld2F5LiBUaGUgZWFzaWVzdCB3YXkgaXMgb24gdGhlIGRvY2tlciBzdGFydHVwLiBBdCB0aGUgYmVnaW5uaW5nIGlzIHNob3dpbmcgeW91IHRoZSBsaXN0IG9mIGRldmljZXMgYW5kIHRoZSBsaW5lIHdpdGggdGhlICJTZXJpYWwiIGlzIHlvdXIgZ2F0ZXdheSBvbmUgKG1pbmUgaXMgYC9kZXYvdHR5QUNNMWApLgpgYGAKW3M2LWluaXRdIG1ha2luZyB1c2VyIHByb3ZpZGVkIGZpbGVzIGF2YWlsYWJsZSBhdCAvdmFyL3J1bi9zNi9ldGMuLi5leGl0ZWQgMC4KW3M2LWluaXRdIGVuc3VyaW5nIHVzZXIgcHJvdmlkZWQgZmlsZXMgaGF2ZSBjb3JyZWN0IHBlcm1zLi4uZXhpdGVkIDAuCltmaXgtYXR0cnMuZF0gYXBwbHlpbmcgb3duZXJzaGlwICYgcGVybWlzc2lvbnMgZml4ZXMuLi4KW2ZpeC1hdHRycy5kXSBkb25lLgpbY29udC1pbml0LmRdIGV4ZWN1dGluZyBjb250YWluZXIgaW5pdGlhbGl6YXRpb24gc2NyaXB0cy4uLgpbY29udC1pbml0LmRdIGZpcm13YXJlLnNoOiBleGVjdXRpbmcuLi4gClsyMDoyNjoxMV0gSU5GTzogR0NGRmxhc2hlciBWM18xNyAoYykgZHJlc2RlbiBlbGVrdHJvbmlrIGluZ2VuaWV1cnRlY2huaWsgZ21iaApQYXRoICAgICAgICAgICAgIHwgVmVuZG9yIHwgUHJvZHVjdCB8IFNlcmlhbCAgICAgfCBUeXBlCi0tLS0tLS0tLS0tLS0tLS0tKy0tLS0tLS0tKy0tLS0tLS0tLSstLS0tLS0tLS0tLS0rLS0tLS0tLQovZGV2L3R0eUFDTTAgICAgIHwgMHgxQ0YxIHwgMHgwMDMwICB8ICAgICAgICAgICAgfCBDb25CZWUgSUkgCi9kZXYvdHR5QUNNMSAgICAgfCAweDFDRjEgfCAweDAwMzAgIHwgREUxMTExMTExMTEgIHwgQ29uQmVlIElJIAovZGV2L3R0eUFNQTAgICAgIHwgMHgwMDAwIHwgMHgwMDAwICB8ICAgICAgICAgICAgfCBSYXNwQmVlIApgYGAKMi4gU3RvcCB0aGUgZGVDb256IEludGVncmF0aW9uLiBZb3UgY2FuIGRvIGl0IG9uIHRoZSBpbnRlcmZhY2UuLi4KIVtpbWFnZS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjE5ODk3MzI1MjkyL2xUbFlSaE9IV2UucG5nKQoqKk5PVEUqKiBJZiB5b3UgaGF2ZSAnV2F0Y2hkb2cnIGFjdGl2YXRlZCBpdCBtYXkgYmUgYmV0dGVyIHRvIGRpc2FibGUgaXQgb24gdGhlIGludGVncmF0aW9uIGR1cmluZyB0aGlzIHByb2Nlc3MuIEl0IGNvdWxkIHN0YXJ0IHRoZSBpbnRlZ3JhdGlvbiB1cCB1bmF0dGVuZGVkLgozLiBTU0ggdG8gaGFzcyAoc3RhbmRhcmQgU1NILCBub3QgdGhlIE9TIG9uZSkuCjQuIFN0YXJ0IHRoZSBkZUNvbnogY29udGFpbmVyIHRvIHVzZSB0aGUgR2F0ZXdheSBmbGFzaGVyIGJpbmFyeS4gSGVyZSB5b3Ugc2hvdWxkIHNwZWNpZnkgdGhlIGRldmljZSByZXRyaWV2ZWQgdG8gc3RlcCBgMWAgYW5kIHlvdSBzaG91bGQgb3ZlcnJpZGUgdGhlIGBlbnRyeXBvaW50YCB3aGljaCBpcyBjb25maWd1cmVkIHRvIHN0YXJ0IHRoZSBkZUNvbnogYXBwLgpgYGAKZG9ja2VyIHJ1biAtLXJtIC10aSAtLXByaXZpbGVnZWQ9dHJ1ZSAtLWRldmljZSAvZGV2L3R0eUFDTTE6L2Rldi90dHlBQ00xIC12IC9kZXYvYnVzL3VzYjovZGV2L2J1cy91c2IgLS1lbnRyeXBvaW50IC9iaW4vYmFzaCBob21lYXNzaXN0YW50L2FhcmNoNjQtYWRkb24tZGVjb256OjYuOC4wCmBgYCAKNS4gIFtEb3dubG9hZCB0aGUgbGF0ZXN0IGZpcm13YXJlXShodHRwOi8vZGVjb256LmRyZXNkZW4tZWxla3Ryb25pay5kZS9kZWNvbnotZmlybXdhcmUvKSAsIGlmIGl0IGlzIG5vdCBhbHJlYWR5IGNvbnRhaW5lZCBpbiB0aGUgRG9ja2VyIGltYWdlIChmb2xkZXIgYC91c3Ivc2hhcmUvZGVDT05aL2Zpcm13YXJlL2ApLgpgYGAKd2dldCBodHRwOi8vZGVjb256LmRyZXNkZW4tZWxla3Ryb25pay5kZS9kZWNvbnotZmlybXdhcmUvZGVDT05aX0NvbkJlZUlJXzB4MjY2YjA3MDAuYmluLkdDRgpgYGAKKipOT1RFKiogVGhlIGZpcm13YXJlIGluIHRoaXMgZXhhbXBsZSBpcyB0aGUgbGF0ZXN0IGF2YWlsYWJsZSByZWxlYXNlZCBvbiAyOS8wNC8yMDIxLiBJZiB5b3UgaGF2ZSBhIGRpZmZlcmVudCBHYXRld2F5IGZyb20gRHJlc2RlbiBFbGVrdHJvbmlrLCB5b3UgY2FuIGZpbmQgdGhlIGZpcm13YXJlIGF0IHRoZSBzYW1lIFVSTAohW2ltYWdlLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MTk5NDExODExNTYvUU9xTjgySXJOLnBuZykKNi4gVXBncmFkZSB0aGUgZmlybXdhcmUgd2l0aCB0aGUgZm9sbG93aW5nIGNvbW1hbmQKYGBgCkdDRkZsYXNoZXJfaW50ZXJuYWwgLWQgL2Rldi90dHlBQ00xIC14IDMgLWYgZGVDT05aX0NvbkJlZUlJXzB4MjY2YjA3MDAuYmluLkdDRgpgYGAKVGhlIGAtZGAgcGFyYW1ldGVyIGNvcnJlc3BvbmQgdG8gdGhlIGRldmljZSBuYW1lIGZvdW5kIG9uIHRoZSBmaXJzdCBzdGVwLgpUaGUgYC14YCBwYXJhbWV0ZXIgaXMgdGhlIGxvZyBsZXZlbC4gV2l0aCB2YWx1ZSAzIHlvdSBzaG91bGQgaGF2ZSBsb3Qgb2YgZGV0YWlscwpUaGUgYC1mYCBpcyB3aGVyZSB5b3Ugc2hvdWxkIHByb3ZpZGUgdGhlIGZpcm13YXJlIGZpbGVuYW1lLiAKV2FpdGluZyBvbmx5IGEgZmV3IHNlY29uZHMgYW5kIHlvdSBzaG91bGQgaGF2ZSB0aGUgZmlybXdhcmUgdXBncmFkZSBtZXNzYWdlLgpgYGAKcm9vdEA1YjNiZTIyYjFjMmM6LyMgR0NGRmxhc2hlcl9pbnRlcm5hbCAtZCAvZGV2L3R0eUFDTTEgLXggMyAtZiBkZUNPTlpfQ29uQmVlSUlfMHgyNjZiMDcwMC5iaW4uR0NGCkdDRkZsYXNoZXIgVjNfMTcgKGMpIGRyZXNkZW4gZWxla3Ryb25payBpbmdlbmlldXJ0ZWNobmlrIGdtYmgKMTg6MjU6MjI6Mjk0IHVzaW5nIGZpcm13YXJlIGZpbGU6IGRlQ09OWl9Db25CZWVJSV8weDI2NmIwNzAwLmJpbi5HQ0YKMTg6MjU6MjI6MzQ4IGxzIGRldjogL2Rldi90dHlBQ00wICgweDAwMDAvMHgwMDAwKSBzbjoKMTg6MjU6MjI6MzQ4IGxzIGRldjogL2Rldi90dHlBQ00xICgweDAwMDAvMHgwMDAwKSBzbjoKMTg6MjU6MjI6MzQ5IGxzIGRldjogL2Rldi90dHlBTUEwICgweDAwMDAvMHgwMDAwKSBzbjoKUmVib290IGRldmljZSAvZGV2L3R0eUFDTTEgKENvbkJlZSBJSSkKMTg6MjU6MjM6MzYyIHF1ZXJ5IGJvb3Rsb2FkZXIgdjEgSUQgYWZ0ZXIgMTAwNiBtcwoxODoyNToyMzo4NjMgY2xvc2Ugc2VyaWFsIGFmdGVyIDE1MDcKMTg6MjU6MjQ6ODc0IHF1ZXJ5IGJvb3Rsb2FkZXIgdjMgSUQgYWZ0ZXIgMjUxNyBtcwoxODoyNToyNDo4NzQgVFggYzA4MTAyN2RmZmMwCjE4OjI1OjI1OjM3NSBjbG9zZSBzZXJpYWwgYWZ0ZXIgMzAxOAoxODoyNToyNTozODUgcXVlcnkgZGVDT05aIGZpcm13YXJlIHZlcnNpb24KMTg6MjU6MjU6Mzg3IFNMSVAgUlggZnJhbWUgbGVuZ3RoOiA5CmRlQ09OWiBmaXJtd2FyZSB2ZXJzaW9uIDI2NjgwNzAwCjE4OjI1OjI1OjM4OCBzZW5kIHdhdGNoZG9nIHJlc2V0IDIgc2Vjb25kcwoxODoyNToyNTozODggVFggYzAwYjAyMDAwYzAwMDUwMDI2MDIwMDAwMDBiYWZmYzAKMTg6MjU6MjU6MzkwIHNldCB3YXRjaGRvZyB0dGwgc3RhdHVzOiAweDAwCjE4OjI1OjI1OjM5NSB3YWl0IHJlYm9vdDogMjEwMCBtcwoxODoyNToyOTo1MDAgcXVlcnkgYm9vdGxvYWRlciB2MSBJRCBhZnRlciAyMDA0IG1zCjE4OjI1OjI5OjUxMiBSWCA2MCBieXRlcyBBU0NJSQpSMjFCMTggQm9vdGxvYWRlcgpWZXJzOiAyLjA3CmJ1aWxkOiBKdW4gMTcgMjAxOQosIDA4OjQ4OjUzCiBhZnRlciAyMDE2IG1zCjE4OjI1OjI5OjUxMyBib290bG9hZGVyIHN0YXJ0IGFmdGVyIDIwMTYgbXMKUjIxQjE4IEJvb3Rsb2FkZXIKVmVyczogMi4wNwpidWlsZDogSnVuIDE3IDIwMTkKMTg6MjU6Mjk6NTE1IEdDRl9SZXNldERldmljZURvbmUKMTg6MjU6Mjk6NTE3IGJvb3Rsb2FkZXIgdjEgdXBkYXRlIGZpcm13YXJlCmZsYXNoaW5nIDE2NDM3NyBieXRlczogfD09PT09PT09PT09PT09PT09PT09PT09PT09PT09PXwKdmVyaWZ5OiAuClNVQ0NFU1MKV2FpdCAxMCBzZWNvbmRzIHVudGlsIGFwcGxpY2F0aW9uIHN0YXJ0cwoxODoyNTo0OTowNTEgdmVyaWZ5IGFwcGxpY2F0aW9uIGlzIHJ1bm5pbmcKMTg6MjU6NDk6MDYzIHF1ZXJ5IGRlQ09OWiBmaXJtd2FyZSB2ZXJzaW9uCjE4OjI1OjQ5OjA2NSBTTElQIFJYIGZyYW1lIGxlbmd0aDogOQpkZUNPTlogZmlybXdhcmUgdmVyc2lvbiAyNjZCMDcwMAoxODoyNTo0OTowNjUgb2ssIGFwcGxpY2F0aW9uIGlzIHJ1bm5pbmcKcm9vdEA1YjNiZTIyYjFjMmM6LyMgZXhpdApgYGAgCjcuIEdldCBiYWNrIHRvIHRoZSBpbnRlcmZhY2UgYW5kIHN0YXJ0IHRoZSBpbnRlZ3JhdGlvbiBhcyB1c3VhbCB0byBicmluZyBiYWNrIHlvdXIgemlnYmVlIG5ldHdvcmsgdG8gbm9ybWFsLgo=
+# Upgrade ConBee2 Firmware in HassOS
+
+I used deConz in Home Assistant for the last 9 months and I discovered some crazy things in the way deConz is working. The strangest one is surely the gateway firmware update (for me a ConBee2): even if you are on a 1-year-old firmware, in Phoscon you always have the message "your version is updated".
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619896872648/0CTdwfWJs.png)
+
+The only thing to do to really have the latest firmware version is to use the manual upgrade process, which is working in home assistant even if  [the official documentation](https://github.com/dresden-elektronik/deconz-rest-plugin/wiki/Update-deCONZ-manually#update-in-docker)  says no.
+
+
+1. First of all you need to know what is the device name of your zigbee gateway. The easiest way is on the docker startup. At the beginning is showing you the list of devices and the line with the "Serial" is your gateway one (mine is `/dev/ttyACM1`).
+```
+[s6-init] making user provided files available at /var/run/s6/etc...exited 0.
+[s6-init] ensuring user provided files have correct perms...exited 0.
+[fix-attrs.d] applying ownership & permissions fixes...
+[fix-attrs.d] done.
+[cont-init.d] executing container initialization scripts...
+[cont-init.d] firmware.sh: executing... 
+[20:26:11] INFO: GCFFlasher V3_17 (c) dresden elektronik ingenieurtechnik gmbh
+Path             | Vendor | Product | Serial     | Type
+-----------------+--------+---------+------------+-------
+/dev/ttyACM0     | 0x1CF1 | 0x0030  |            | ConBee II 
+/dev/ttyACM1     | 0x1CF1 | 0x0030  | DE111111111  | ConBee II 
+/dev/ttyAMA0     | 0x0000 | 0x0000  |            | RaspBee 
+```
+2. Stop the deConz Integration. You can do it on the interface...
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619897325292/lTlYRhOHWe.png)
+**NOTE** If you have 'Watchdog' activated it may be better to disable it on the integration during this process. It could start the integration up unattended.
+3. SSH to hass (standard SSH, not the OS one).
+4. Start the deConz container to use the Gateway flasher binary. Here you should specify the device retrieved to step `1` and you should override the `entrypoint` which is configured to start the deConz app.
+```
+docker run --rm -ti --privileged=true --device /dev/ttyACM1:/dev/ttyACM1 -v /dev/bus/usb:/dev/bus/usb --entrypoint /bin/bash homeassistant/aarch64-addon-deconz:6.8.0
+``` 
+5.  [Download the latest firmware](http://deconz.dresden-elektronik.de/deconz-firmware/) , if it is not already contained in the Docker image (folder `/usr/share/deCONZ/firmware/`).
+```
+wget http://deconz.dresden-elektronik.de/deconz-firmware/deCONZ_ConBeeII_0x266b0700.bin.GCF
+```
+**NOTE** The firmware in this example is the latest available released on 29/04/2021. If you have a different Gateway from Dresden Elektronik, you can find the firmware at the same URL
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1619941181156/QOqN82IrN.png)
+6. Upgrade the firmware with the following command
+```
+GCFFlasher_internal -d /dev/ttyACM1 -x 3 -f deCONZ_ConBeeII_0x266b0700.bin.GCF
+```
+The `-d` parameter correspond to the device name found on the first step.
+The `-x` parameter is the log level. With value 3 you should have lot of details
+The `-f` is where you should provide the firmware filename. 
+Waiting only a few seconds and you should have the firmware upgrade message.
+```
+root@5b3be22b1c2c:/# GCFFlasher_internal -d /dev/ttyACM1 -x 3 -f deCONZ_ConBeeII_0x266b0700.bin.GCF
+GCFFlasher V3_17 (c) dresden elektronik ingenieurtechnik gmbh
+18:25:22:294 using firmware file: deCONZ_ConBeeII_0x266b0700.bin.GCF
+18:25:22:348 ls dev: /dev/ttyACM0 (0x0000/0x0000) sn:
+18:25:22:348 ls dev: /dev/ttyACM1 (0x0000/0x0000) sn:
+18:25:22:349 ls dev: /dev/ttyAMA0 (0x0000/0x0000) sn:
+Reboot device /dev/ttyACM1 (ConBee II)
+18:25:23:362 query bootloader v1 ID after 1006 ms
+18:25:23:863 close serial after 1507
+18:25:24:874 query bootloader v3 ID after 2517 ms
+18:25:24:874 TX c081027dffc0
+18:25:25:375 close serial after 3018
+18:25:25:385 query deCONZ firmware version
+18:25:25:387 SLIP RX frame length: 9
+deCONZ firmware version 26680700
+18:25:25:388 send watchdog reset 2 seconds
+18:25:25:388 TX c00b02000c0005002602000000baffc0
+18:25:25:390 set watchdog ttl status: 0x00
+18:25:25:395 wait reboot: 2100 ms
+18:25:29:500 query bootloader v1 ID after 2004 ms
+18:25:29:512 RX 60 bytes ASCII
+R21B18 Bootloader
+Vers: 2.07
+build: Jun 17 2019
+, 08:48:53
+ after 2016 ms
+18:25:29:513 bootloader start after 2016 ms
+R21B18 Bootloader
+Vers: 2.07
+build: Jun 17 2019
+18:25:29:515 GCF_ResetDeviceDone
+18:25:29:517 bootloader v1 update firmware
+flashing 164377 bytes: |==============================|
+verify: .
+SUCCESS
+Wait 10 seconds until application starts
+18:25:49:051 verify application is running
+18:25:49:063 query deCONZ firmware version
+18:25:49:065 SLIP RX frame length: 9
+deCONZ firmware version 266B0700
+18:25:49:065 ok, application is running
+root@5b3be22b1c2c:/# exit
+``` 
+7. Get back to the interface and start the integration as usual to bring back your zigbee network to normal.
