@@ -1,1 +1,29 @@
-IyMgTmV4dXMgNzogcmVpbnN0YWxsIHN0b2NrIHJvbSBhbmQgcmUtbG9jayBib290IGxvYWRlcgoKQWZ0ZXIgdGhlIHByb2JsZW0gSSBoYWQgb24gbXkgTmV4dXMgNyBhbmQgdGhlIDxhIGhyZWY9Imh0dHA6Ly9ibG9nLm1vcm5hdGkubmV0LzIwMTMvMTAvMjYvbmV4dXMtNy1yZXN0b3JlLXRvLWZhY3RvcnktZGVmYXVsdC8iPndpcGUgZGF0YSB0ZXN0PC9hPiwgbXkgdGFibGVzIHdhcyBhbHdheXMgbG9ja2VkIG9uIHRoZSBib290IGltYWdlLgpTbywgdGhlIHNlY29uZCB0aGluZyAoYW5kIEkgdGhpbmsgdGhlIGxhc3Qgb25lIHRvbykgSSBjb3VsZCB0ZXN0LCB3YXMgYSBjb21wbGV0ZSByZWluc3RhbGxhdGlvbiBvZiB0aGUgcm9tLgpCZWZvcmUgZ29pbmcgYWhlYWQsIHlvdSBuZWVkIGEgY29tcHV0ZXIgd2l0aCB0aGUgQW5kcm9pZCBTREsgaW5zdGFsbGVkIGFuZCB0aGXCoDxlbT5wbGF0Zm9ybS10b29sPC9lbT48c3Ryb25nPsKgPC9zdHJvbmc+Zm9sZGVyIGluIHRoZSBjbGFzcyBwYXRoIG9mIHlvdXIgbWFjaGluZSAobWVhbnMgeW91IGNhbiBydW4sIGZvciBleGFtcGxlLMKgPGVtPjwvZW0+PGk+ZmFzdCBib290PC9pPiBmcm9tIGV2ZXJ5d2hlcmUpLgo8b2w+Cgk8bGk+RG93bmxvYWQgdGhlIGZhY3RvcnkgaW1hZ2UgZm9yIHlvdXIgbmV4dXMgZGV2aWNlIGZyb20gaGVyZTrCoDxhIGhyZWY9Imh0dHBzOi8vZGV2ZWxvcGVycy5nb29nbGUuY29tL2FuZHJvaWQvbmV4dXMvaW1hZ2VzIj5odHRwczovL2RldmVsb3BlcnMuZ29vZ2xlLmNvbS9hbmRyb2lkL25leHVzL2ltYWdlczwvYT4KSSBzdXBwb3NlIHRoZSBzYW1lIHRoaW5nIHNob3VsZCB3b3JrIGZvciBhbnkgb3RoZXIgZGV2aWNlIGlmIHlvdSBjYW4gcmV0cmlldmUgdGhlIGZhY3RvcnkgUk9NLjwvbGk+Cgk8bGk+UmVib290IHlvdXIgZGV2aWNlIGludG8gZmFzdGJvb3QgbWVudSAoYXMgSSBkZXNjcmliZWQgPGEgaHJlZj0iaHR0cDovL2Jsb2cubW9ybmF0aS5uZXQvMjAxMy8xMC8yNi9uZXh1cy03LXJlc3RvcmUtdG8tZmFjdG9yeS1kZWZhdWx0LyI+aGVyZTwvYT4pPC9saT4KCTxsaT5FbnRlciBpbiB0aGUgUk9NIGZvbGRlciB5b3UgZG93bmxvYWRlZCwgd2hlcmUgeW91IHNob3VsZCBoYXZlIHRoZSBzY3JpcHQgdG8gcmVpbnN0YWxsIGl0ICg8ZW0+Zmxhc2gtYWxsLnNoPC9lbT4gb3IgPGVtPmZsYXNoLWFsbC5iYXQ8L2VtPik8L2xpPgoJPGxpPkV4ZWN1dGUgdGhlIHNjcmlwdCBhbmQgeW91IHNob3VsZCBzZWUgb24gdGhlIHNjcmVlbiBhIHF1ZXN0aW9uIGFza2luZyB5b3UgaWYgeW91IHdhbnQgdG8gdW5sb2NrIHRoZSBib290IGxvYWRlciAoeW91IG11c3QgdW5sb2NrIGl0IHRvIGluc3RhbGwgdGhlIHN0b2NrIFJPTSkKPGEgaHJlZj0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjEzOTE2NDEwNDMvYm9vdGxvYWRlcl9uXzdfMDNfZ3JhbmRfeXRmNHlpLnBuZyI+PGltZyBjbGFzcz0iYWxpZ25jZW50ZXIgc2l6ZS10aHVtYm5haWwgd3AtaW1hZ2UtODgzIiBhbHQ9ImJvb3Rsb2FkZXJfbl83XzAzX2dyYW5kIiBzcmM9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL2NfY3JvcCxoXzEzMzQsd18xMzM0LHhfMCx5XzI4NC9oXzE1MCx3XzE1MC92MTM5MTY0MTA0My9ib290bG9hZGVyX25fN18wM19ncmFuZF95dGY0eWkucG5nIiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgLz48L2E+PC9saT4KCTxsaT5PbiB5b3VyIGNvbXB1dGVyIHNjcmVlbiB5b3UgY2FuIGZvbGxvdyB0aGUgUk9NIGluc3RhbGxhdGlvbiBsb2cuIFdoZW4gcHJvY2VkdXJlIGVuZHMgKGlmIG5vIHByb2JsZW0gb2NjdXJyZWQpIHlvdXIgZGV2aWNlIHdpbGwgYmUgYXV0b21hdGljYWxseSBib290LjwvbGk+Cjwvb2w+CkZvciBzZWN1cml0eSByZWFzb25zLCBhcyBzdWdnZXN0ZWQgYnkgR29vZ2xlIHRvbywgaXQncyBiZXR0ZXIgdG8gcmVsb2NrIHlvdXIgYm9vdCBsb2FkZXIgKGluIGFueSBjYXNlIHlvdSBjYW4gYWx3YXlzIHVubG9jayBpdCBpZiBuZWVkZWQpLgo8b2w+Cgk8bGk+UmVib290IHRoZSBkZXZpY2UgaW4gZmFzdCBib290IG1vZGU8L2xpPgoJPGxpPkZyb20geW91ciBjb21wdXRlciBleGVjdXRlwqA8ZW0+ZmFzdGJvb3Qgb2VtIGxvY2vCoDwvZW0+CjxwcmU+PGNvZGU+IE1hY0Jvb2stUHJvLWRpLU1hcmNvOm5ha2FzaS1qd3I2NnkgbW1vcm5hdGkkIGZhc3Rib290IG9lbSBsb2NrCiZsdDsgd2FpdGluZyBmb3IgZGV2aWNlICZndDsKLi4uCihib290bG9hZGVyKSBCb290bG9hZGVyIGlzIGxvY2tlZCBub3cuCk9LQVkgWyAgMS40NDdzXQpmaW5pc2hlZC4gdG90YWwgdGltZTogMS40NDdzPC9jb2RlPjwvcHJlPgo8L2xpPgo8L29sPgpOb3cgeW91IGhhdmUgYSBjb21wbGV0ZWx5IG5ldyBkZXZpY2UgKGF0IGxlYXN0IHNvZnR3YXJlIHNpZGUpLgoKJm5ic3A7
+# Nexus 7: reinstall stock rom and re-lock boot loader
+
+After the problem I had on my Nexus 7 and the <a href="http://blog.mornati.net/2013/10/26/nexus-7-restore-to-factory-default/">wipe data test</a>, my tables was always locked on the boot image.
+So, the second thing (and I think the last one too) I could test, was a complete reinstallation of the rom.
+Before going ahead, you need a computer with the Android SDK installed and the <em>platform-tool</em><strong> </strong>folder in the class path of your machine (means you can run, for example, <em></em><i>fast boot</i> from everywhere).
+<ol>
+	<li>Download the factory image for your nexus device from here: <a href="https://developers.google.com/android/nexus/images">https://developers.google.com/android/nexus/images</a>
+I suppose the same thing should work for any other device if you can retrieve the factory ROM.</li>
+	<li>Reboot your device into fastboot menu (as I described <a href="http://blog.mornati.net/2013/10/26/nexus-7-restore-to-factory-default/">here</a>)</li>
+	<li>Enter in the ROM folder you downloaded, where you should have the script to reinstall it (<em>flash-all.sh</em> or <em>flash-all.bat</em>)</li>
+	<li>Execute the script and you should see on the screen a question asking you if you want to unlock the boot loader (you must unlock it to install the stock ROM)
+<a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641043/bootloader_n_7_03_grand_ytf4yi.png"><img class="aligncenter size-thumbnail wp-image-883" alt="bootloader_n_7_03_grand" src="https://res.cloudinary.com/blog-mornati-net/image/upload/c_crop,h_1334,w_1334,x_0,y_284/h_150,w_150/v1391641043/bootloader_n_7_03_grand_ytf4yi.png" width="150" height="150" /></a></li>
+	<li>On your computer screen you can follow the ROM installation log. When procedure ends (if no problem occurred) your device will be automatically boot.</li>
+</ol>
+For security reasons, as suggested by Google too, it's better to relock your boot loader (in any case you can always unlock it if needed).
+<ol>
+	<li>Reboot the device in fast boot mode</li>
+	<li>From your computer execute <em>fastboot oem lock </em>
+<pre><code> MacBook-Pro-di-Marco:nakasi-jwr66y mmornati$ fastboot oem lock
+&lt; waiting for device &gt;
+...
+(bootloader) Bootloader is locked now.
+OKAY [  1.447s]
+finished. total time: 1.447s</code></pre>
+</li>
+</ol>
+Now you have a completely new device (at least software side).
+
+&nbsp;
