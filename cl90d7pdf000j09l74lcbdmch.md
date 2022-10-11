@@ -1,1 +1,79 @@
-IyMgR2hvc3Q6IHN0b3JhZ2UgaW1hZ2UgbW9kdWxlIGZvciBDbG91ZGluYXJ5CgpTaW5jZSB0aGUgdmVyc2lvbiAqKjAuNi54Kiogb2YgW0dob3N0XShodHRwczovL2dob3N0Lm9yZy8pIGJsb2cgcGxhdGZvcm0gaXQgaXMgcG9zc2libGUgdG8gY3VzdG9taXplLCBhZGRpbmcgYSBtb2R1bGUsIHRoZSBtYW5hZ2VtZW50IG9mIHBvc3QgaW1hZ2VzLgpCeSBkZWZhdWx0IGFsbCB0aGUgaW1hZ2VzIGFyZSB1cGxvYWRlZCBpbnRvIHRoZSBzZXJ2ZXIgKipjb250ZW50KiogZm9sZGVyLCB0aGlzIG1lYW5zLCBmb3IgZXhhbXBsZSwgdGhhdCB5b3UgbmVlZCAobG90IG9mKSBzcGFjZSBvbiB5b3VyIHNlcnZlciBhbmQgeW91IGhhdmUgdG8gYmFja3VwIHRoZSBjb250ZW50IGZvbGRlciB0byBiZSBzdXJlIHRvIGJlIGFibGUgdG8gcmVzdG9yZSBldmVyeXRoaW5nLgoKV2l0aCB0aGUgKipzdG9yYWdlKiogZmVhdHVyZSwgeW91IGNhbiBhZGQgYSBtb2R1bGUgdG8gbWFuYWdlIGltYWdlcyBvbiBhbiBleHRlcm5hbCBzZXJ2aWNlLCBzdWNoIGFzIENsb3VkaW5hcnksIEFtYXpvbiBTMywgR29vZ2xlIERyaXZlLCAuLi4KCiFbQ29uZmlnLmpzXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQ3Mjc2NDcxMi9yNnF5ejg2cTNtaGZtYXc3cW5tby5wbmcpCgpUaGUgInByb2JsZW0iIGlzIHRoYXQgR2hvc3QgaXMgZ29pbmcgZmFzdGVyIGFkZGluZyBldmVyeSBkYXkgbmV3IGZlYXR1cmVzLCBpbXByb3ZpbmcgdGhlIGNvZGUgYW5kIGNvbWluZyBvdXQgd2l0aCBuZXcgdmVyc2lvbnMuIEFsbCB0aGlzIG1vZHVsZXMsIG1haW50YWluZWQgYnkgIm5vbiBnaG9zdCBkZXZzIiwgYXJlIG9mdGVuIG91dGRhdGVkIGFuZCBzb21ldGltZXMgYnJva2VuIGlmIHlvdXIgdmVyc2lvbiBvZiBnaG9zdCBpcyBuZXdlciB0aGFuIHRoZSBvbmUgdXNlZCB0byBjcmVhdGUgdGhlIG1vZHVsZS4KCkFzIEknbSB1c2luZyBDbG91ZGluYXJ5IHNpbmNlIGEgY291cGxlIG9mIHllYXJzIG5vdyBJIGFkZGVkIHRvIG15IGJsb2cgdGhlIENsb3VkaW5hcnkgc3RvcmFnZSBtb2R1bGUuLi4gYW5kICoqdXBkYXRlZCBpdCBmb3IgdGhlIDAuMTAueCB2ZXJzaW9uIG9mIEdob3N0KiouIFlvdSBjYW4gZG93bmxvYWQgdGhpcyB2ZXJzaW9uIGZyb20gbXkgW0dpdEh1YiByZXBvXShodHRwczovL2dpdGh1Yi5jb20vbW1vcm5hdGkvZ2hvc3QtY2xvdWRpbmFyeS1zdG9yZSkuIE9yaWdpbmFsIEF1dGhvcjogKlNldGggQnJhc2lsZSogCgohW0Nsb3VkaW5hcnldKGh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxNDcyNzY0ODE1L3Jha25oYjN4bjRvZDhhYWttMmZ4LmpwZykKClRoZSBtb2R1bGUgaXMgcmVhbGx5IHNpbXBsZTogYWxsIHRoZSBpbWFnZXMgeW91IHVwbG9hZCB0byB5b3VyIGJsb2cgd2lsbCBiZSBzZW50IHRvIENsb3VkaW5hcnkgYW5kIHRoZSByZXN1bHQgdXJsIGlzIHN0b3JlZCBpbnRvIHRoZSBhcnRpY2xlLgoKIVtDbG91ZGluYXJ5VXBsb2FkXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQ3Mjg0NzkxNS92NWF2cHpyd3Zybm5tdm5kcGhvZC5wbmcpCgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1qYXZhc2NyaXB0IGxpbmUtbnVtYmVycyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWphdmFzY3JpcHQiPnZhciBQcm9taXNlID0gcmVxdWlyZSgnYmx1ZWJpcmQnKTsKdmFyIGNsb3VkaW5hcnkgPSByZXF1aXJlKCdjbG91ZGluYXJ5Jyk7CnZhciB1dGlsID0gcmVxdWlyZSgndXRpbCcpOwoKYmFzZVN0b3JlID0gcmVxdWlyZSgnLi4vLi4vLi4vY29yZS9zZXJ2ZXIvc3RvcmFnZS9iYXNlJyk7CgovLyBUT0RPOiBBZGQgc3VwcG9ydCBmb3IgcHJpdmF0ZV9jZG4KLy8gVE9ETzogQWRkIHN1cHBvcnQgZm9yIHNlY3VyZV9kaXN0cmlidXRpb24KLy8gVE9ETzogQWRkIHN1cHBvcnQgZm9yIGNuYW1lCi8vIFRPRE86IEFkZCBzdXBwb3J0IGZvciBjZG5fc3ViZG9tYWluCi8vIGh0dHBzOi8vY2xvdWRpbmFyeS5jb20vZG9jdW1lbnRhdGlvbi9ub2RlX2FkZGl0aW9uYWxfdG9waWNzI2NvbmZpZ3VyYXRpb25fb3B0aW9ucwoKZnVuY3Rpb24gQ2xvdWRpbmFyeVN0b3JlKGNvbmZpZykgewogICAgYmFzZVN0b3JlLmNhbGwodGhpcyk7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZyB8fCB7fTsKICAgIGNsb3VkaW5hcnkuY29uZmlnKGNvbmZpZyk7Cn0KCnV0aWwuaW5oZXJpdHMoQ2xvdWRpbmFyeVN0b3JlLCBiYXNlU3RvcmUpOwoKQ2xvdWRpbmFyeVN0b3JlLnByb3RvdHlwZS5zYXZlID0gZnVuY3Rpb24oaW1hZ2UpIHsKICB2YXIgc2VjdXJlID0gdGhpcy5jb25maWcuc2VjdXJlIHx8IGZhbHNlOwoKICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgY2xvdWRpbmFyeS51cGxvYWRlci51cGxvYWQoaW1hZ2UucGF0aCwgZnVuY3Rpb24ocmVzdWx0KSB7CiAgICAgIHJlc29sdmUoc2VjdXJlID8gcmVzdWx0LnNlY3VyZV91cmwgOiByZXN1bHQudXJsKTsKICAgIH0pOwogIH0pOwp9OwoKQ2xvdWRpbmFyeVN0b3JlLnByb3RvdHlwZS5kZWxldGUgPSBmdW5jdGlvbihpbWFnZSkgewoKICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgY2xvdWRpbmFyeS51cGxvYWRlci5kZXN0cm95KCd6b21iaWUnLCBmdW5jdGlvbihyZXN1bHQpIHsKICAgICAgcmVzb2x2ZShyZXN1bHQpCiAgICB9KTsKICB9KTsKfTsKCkNsb3VkaW5hcnlTdG9yZS5wcm90b3R5cGUuZXhpc3RzID0gZnVuY3Rpb24oZmlsZW5hbWUpIHsKICByZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgaWYgKGNsb3VkaW5hcnkuaW1hZ2UoZmlsZW5hbWUsIHsgfSkpIHsKICAgICAgICByZXNvbHZlKHRydWUpOwogICAgfSBlbHNlIHsKICAgICAgICByZXNvbHZlKGZhbHNlKTsKICAgIH0KICB9KTsKCn0KCkNsb3VkaW5hcnlTdG9yZS5wcm90b3R5cGUuc2VydmUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICBuZXh0KCk7CiAgfTsKfTsKCm1vZHVsZS5leHBvcnRzID0gQ2xvdWRpbmFyeVN0b3JlOwo8L2NvZGU+PC9wcmU+CgpJZiB5b3Ugd2FudCB0byB0ZXN0IGl0IGFuZCBpZiB5b3UgZmluZCBhbnl0aGluZyB3aGljaCBpcyBub3Qgd29ya2luZyBvciBhbnl0aGluZyB3ZSBjYW4gaW1wcm92ZS9hZGQsIHNwb3Qgb3V0IGEgbWVzc2FnZSBhbmQgSSdsbCB3b3JrIG9uIGl0IDop
+# Ghost: storage image module for Cloudinary
+
+Since the version **0.6.x** of [Ghost](https://ghost.org/) blog platform it is possible to customize, adding a module, the management of post images.
+By default all the images are uploaded into the server **content** folder, this means, for example, that you need (lot of) space on your server and you have to backup the content folder to be sure to be able to restore everything.
+
+With the **storage** feature, you can add a module to manage images on an external service, such as Cloudinary, Amazon S3, Google Drive, ...
+
+![Config.js](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472764712/r6qyz86q3mhfmaw7qnmo.png)
+
+The "problem" is that Ghost is going faster adding every day new features, improving the code and coming out with new versions. All this modules, maintained by "non ghost devs", are often outdated and sometimes broken if your version of ghost is newer than the one used to create the module.
+
+As I'm using Cloudinary since a couple of years now I added to my blog the Cloudinary storage module... and **updated it for the 0.10.x version of Ghost**. You can download this version from my [GitHub repo](https://github.com/mmornati/ghost-cloudinary-store). Original Author: *Seth Brasile* 
+
+![Cloudinary](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472764815/raknhb3xn4od8aakm2fx.jpg)
+
+The module is really simple: all the images you upload to your blog will be sent to Cloudinary and the result url is stored into the article.
+
+![CloudinaryUpload](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472847915/v5avpzrwvrnnmvndphod.png)
+
+<pre class="language-javascript line-numbers"><code class="language-javascript">var Promise = require('bluebird');
+var cloudinary = require('cloudinary');
+var util = require('util');
+
+baseStore = require('../../../core/server/storage/base');
+
+// TODO: Add support for private_cdn
+// TODO: Add support for secure_distribution
+// TODO: Add support for cname
+// TODO: Add support for cdn_subdomain
+// https://cloudinary.com/documentation/node_additional_topics#configuration_options
+
+function CloudinaryStore(config) {
+    baseStore.call(this);
+    this.config = config || {};
+    cloudinary.config(config);
+}
+
+util.inherits(CloudinaryStore, baseStore);
+
+CloudinaryStore.prototype.save = function(image) {
+  var secure = this.config.secure || false;
+
+  return new Promise(function(resolve) {
+    cloudinary.uploader.upload(image.path, function(result) {
+      resolve(secure ? result.secure_url : result.url);
+    });
+  });
+};
+
+CloudinaryStore.prototype.delete = function(image) {
+
+  return new Promise(function(resolve) {
+    cloudinary.uploader.destroy('zombie', function(result) {
+      resolve(result)
+    });
+  });
+};
+
+CloudinaryStore.prototype.exists = function(filename) {
+  return new Promise(function(resolve) {
+    if (cloudinary.image(filename, { })) {
+        resolve(true);
+    } else {
+        resolve(false);
+    }
+  });
+
+}
+
+CloudinaryStore.prototype.serve = function() {
+  return function (req, res, next) {
+    next();
+  };
+};
+
+module.exports = CloudinaryStore;
+</code></pre>
+
+If you want to test it and if you find anything which is not working or anything we can improve/add, spot out a message and I'll work on it :)
