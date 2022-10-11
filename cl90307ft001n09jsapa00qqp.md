@@ -1,1 +1,19 @@
-IyMgS2VybWl0OiBuZXcgdmlkZW9zIGRvY3VtZW50YXRpb24KCldpdGggPGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS8jIS9Mb3Vpc0NvaWxsaW90Ij5ATG91aXNDb2lsbGlvdDwvYT4gd2UgYXJlIHByZXBhcmluZyBzb21lIG5ldyB2aWRlb3MgdGhhdCB3aWxsIGJlIHVzZWQgdG8gZXhwbGFpbiBrZXJtaXQncyBtYWluIGZ1bmN0aW9uYWxpdGllczsgYmFzaWNhbGx5IHdpbGwgYmUgYSBkb2MgZXh0ZW5zaW9uLiBOYXR1cmFsbHkgeW91IGNvdWxkIGZpbmQgYWxsIHRoZSB2aWRlb3Mgb24gdGhlIDxhIGhyZWY9Imh0dHA6Ly93d3cua2VybWl0LmZyIj5LZXJtSVQ8L2E+IHdlYnNpdGUgKHdlIGFyZSBhY3R1YWxseSBwcmVwYXJpbmcgdGhlIG5ldyB2ZXJzaW9uKS4KCktlcm1JVDogZXhlY3V0ZSBiYXNpYyBvcGVyYXRpb25zCgo8aWZyYW1lIHNyYz0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9HdEw0YlFHOVpidyIgZnJhbWVib3JkZXI9IjAiIHdpZHRoPSI1NjAiIGhlaWdodD0iMzE1Ij48L2lmcmFtZT4KCktlcm1JVDogUG9zdCBpbnN0YWxsYXRpb24gc3RlcHMKCjxpZnJhbWUgc3JjPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2NOLVptdGVtZE1JIiBmcmFtZWJvcmRlcj0iMCIgd2lkdGg9IjU2MCIgaGVpZ2h0PSIzMTUiPjwvaWZyYW1lPgoKS2VybUlUOiBTZXJ2ZXIgZGV0YWlscwoKPGlmcmFtZSB3aWR0aD0iNTYwIiBoZWlnaHQ9IjMxNSIgc3JjPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2tKT0FLOGN1V2hrIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3dmdWxsc2NyZWVuPjwvaWZyYW1lPgoKJm5ic3A7CgpTdGF5IHR1bmVkIGZvciBtYW55IG90aGVycyBLZXJtSVQgbmV3cyEh
+# Kermit: new videos documentation
+
+With <a href="https://twitter.com/#!/LouisCoilliot">@LouisCoilliot</a> we are preparing some new videos that will be used to explain kermit's main functionalities; basically will be a doc extension. Naturally you could find all the videos on the <a href="http://www.kermit.fr">KermIT</a> website (we are actually preparing the new version).
+
+KermIT: execute basic operations
+
+<iframe src="http://www.youtube.com/embed/GtL4bQG9Zbw" frameborder="0" width="560" height="315"></iframe>
+
+KermIT: Post installation steps
+
+<iframe src="http://www.youtube.com/embed/cN-ZmtemdMI" frameborder="0" width="560" height="315"></iframe>
+
+KermIT: Server details
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kJOAK8cuWhk" frameborder="0" allowfullscreen></iframe>
+
+&nbsp;
+
+Stay tuned for many others KermIT news!!
