@@ -1,1 +1,55 @@
-IyMgRG9ja2VySHViOiBhdXRvbWF0ZSB5b3VyIGRvY2tlciBpbWFnZXMgYnVpbGQgYW5kIHB1c2gKClRoZSBbRG9ja2VySHViXShodHRwczovL2h1Yi5kb2NrZXIuY29tLykgd2Vic2l0ZSBpdCBpcyBjcmVhdGVkIGJ5IERvY2tlciB0byBhbGxvdyBkZXZlbG9wZXJzIHRvIGF1dG9tYXRlIHRoZSBEb2NrZXIgaW1hZ2VzIGJ1aWxkIGFuZCBwdXNoIHRoZSBpbWFnZSBpbnRvIHRoZSBEb2NrZXIgcmVwb3NpdG9yeS4KSW4gdGhpcyB3YXkgeW91IGRvbid0IG5lZWQgdG8gdXNlIHlvdXIgQ1BVIHRpbWUgdG8gYnVpbGQgdGhlIGltYWdlIGFuZCBub3QgZXZlbiB5b3VyIGJhbmR3aWR0aCB0byB1cGxvYWQgdGhlIGltYWdlIGludG8gdGhlIERvY2tlciByZXBvc2l0b3J5IHRvIGFsbG93IG90aGVycyB0byBwdWxsIGl0LgoKVGhlIHByb2NlZHVyZSB0byBjb25maWd1cmUgRG9ja2VySHViIGlzIHJlYWxseSBzaW1wbGUuCgoqKjEpKiogQ3JlYXRlIGEgcmVwb3NpdG9yeSBwb2ludGluZyB0byB5b3VyIHNvdXJjZSByZXBvc2l0b3J5IChHaXRIdWIgcmVwbyk6CiFbUmVwb3NpdG9yeURlZmluaXRpb25dKGh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxNDcyOTkyNzcxL29tcHU3a201bGxzeW1tOWZ5b3M4LnBuZykKYW5kIHNldCBpcyBhcyBhbiBhdXRvbWF0ZSBidWlsZC4gSXQgaXMgbm90IG5lY2Vzc2FyIGJ1dCBpbiB0aGlzIHdheSBhbnl0aW1lIHlvdSBhcmUgcHVzaGluZyBjaGFuZ2VzIHRvIHlvdXIgcmVwb3NpdG9yeSwgRG9ja2VySHViIHdpbGwgYnVpbGQgdGhlIERvY2tlciBpbWFnZSBhdXRvbWF0aWNhbGx5LgohW0F1dG9tYXRlZEJ1aWxkRGVmaW5pdGlvbl0oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0NzI5OTI4NzYvZWRmb3NldHNmYmlmaXNjMXhtZnUucG5nKQoKKioyKSoqIENvbmZpZ3VyZSB0aGVuIGZvciB5b3VyIHJlcG9zaXRvcnkgdGhlIGJyYW5jaCBhbmQvb3IgdGFnIHlvdSB3YW50IHRvIGF1dG8tY2hlY2sgZm9yIGJ1aWxkcy4KIVtUcmlnZ2VyQnVpbGREZWZpbml0aW9uXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQ3Mjk5Mjk3OC9iMW9xenV4ZXN0dXJrdW96ZHliYy5wbmcpCkluIHRoZSBleGFtcGxlLCB3aGljaCBpcyBtaW5lIGdob3N0YmxvZyBjb25maWd1cmF0aW9uLCB0aGVyZSBpcyBhICJsaXN0ZW5lciIgb24gdGhlICoqbWFzdGVyKiogYnJhbmNoIGJ1aWxkaW5nIHRoZSAqKmxhdGVzdCoqIHZlcnNpb24gb2YgdGhlIERvY2tlciBhbmQgYSBzZWNvbmQgbGlzdGVyIGNoZWNraW5nIHRhZy4KSWYgYW55IHRhZyBpcyBwdXNoZWQgbWF0Y2hpbmcgdGhlIFJlZ0V4cCBpbnRvIHRoZSBuYW1lOgpgL152LlswLTkuXSskL2AKYW4gaW1hZ2UgaXMgYnVpbHQgdXNpbmcgdGhlIHNhbWUgdmVyc2lvbiB0aGFuIHRoZSBvbmUgdXNlZCBpbnRvIHRoZSB0YWduYW1lLgpFeGFtcGxlczoKCiogKip2LjAuMTAuMSoqIHRhZyB0cmlnZ2VycyBhIGJ1aWxkIG9mIGFuIGltYWdlIHRhZ2dlZCBhcyB2LjAuMTAuMQoqICoqdXBkYXRlX2RvY2tlcmZpbGUqKiB0YWcgaXMgaWdub3JlZCBieSBkb2NrZXJodWIKCioqMykqKiBDaGFuZ2UgeW91ciBjb2RlIG9uIHRoZSBhc3NvY2lhdGVkIEdpdEh1YiByZXBvIGFuZCBwdXNoIGNvZGUgKGFuZCB0YWdzIGlmIG5lZWRlZCkuCllvdSBjYW4gc2VlIGlmIGFueSBidWlsZCBpcyBzdGFydGVkIG9uIHRoZSAqQnVpbGQgRGV0YWlscyogcGFnZS4gCiFbQnVpbGREZXRhaWxzUGFnZV0oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0NzI5OTI5NDcvcWY3aHp5MGQzbnVtanNzZ3Bsd2sucG5nKQpBdCB0aGUgZW5kIG9mIHRoZSBidWlsZCBwcm9jZWR1cmUgKGRlcGVuZGluZyBvbiB5b3VyIERvY2tlciBjb3VsZCB0YWtlIG9ubHkgZmV3IHNlY29uZHMgb3IgaG91cnMpIHlvdSB3aWxsIGhhdmUgdGhlIHN0YXR1cyBvZiB0aGUgRG9ja2VyIGltYWdlOgohW0RvY2tlckJ1aWxkU3VjY2Vzc10oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0NzI5OTM0MDMvd2E4c3AzaWpsYXFrdWU5dXMyeHYucG5nKQpPciwgaW4gY2FzZSBvZiBlcnJvcnM6CiFbRG9ja2VyQnVpbGRFcnJvcl0oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0NzI5OTM0MzgvbXZ5NGZzYmQ0eWVyanplZHl5ZjIucG5nKQpZb3UgY2FuIHRoZW4gY2xpY2sgb24gdGhlIGZhaWxpbmcgYnVpbGQgdG8gYWNjZXNzIHRvIHRoZSBkZXRhaWxzLiBIZXJlIHlvdSBjYW4gZmluZCB0aGUgYnVpbGQgcHJvYmxlbSBhbmQgY2hlY2sgdGhlIGJ1aWxkIGxvZy4KIVtEb2NrZXJCdWlsZEVycm9yRGV0YWlsc10oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0NzI5OTM1MTQveGJuNTlydGd1aHcza2I1eWN3anYucG5nKQohW0RvY2tlckJ1aWxkTG9nXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQ3Mjk5Mzg1OC9mOWhqZml5eGRiZXhseWprMmVhZy5wbmcpCioqNCkqKiBDaGVjayBvbiB0aGUgKlRhZ3MqIHBhZ2UgdG8gc2VlIHRoZSBhdmFpbGFibGUgaW1hZ2VzIG9mIHlvdXIgZG9ja2VyLgpIZXJlIHlvdSBhcmUgYWxzbyBhYmxlIHRvIG1hbmFnZSB0aGVtIHJlbW92aW5nLCBmb3IgZXhhbXBsZSwgc29tZSBvbGQgb3Igd3JvbmcgaW1hZ2UuCiFbRG9ja2VySW1hZ2VzXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQ3Mjk5MzYzOC9kano2c2c1aWRsdW8yYW92b3FjYi5wbmcpCgoqKjUpKiogQXMgSSBzYWlkIGF0IHRoZSBiZWdnaW5nLCBhbGwgdGhlIGltYWdlcyBidWlsdCB1c2luZyB0aGlzIG1ldGhvZCwgYXJlIGF2YWlsYWJsZSBvbiB0aGUgRG9ja2VyIHJlcG9zaXRvcnkuClRoaXMgbWVhbnMgeW91IGNhbiBzaW1wbHkgKnB1bGwqIHRoZSBkZXNpcmVkIGltYWdlL3RhZy4KCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9Im1hcmNvIiBkYXRhLWhvc3Q9InNlcnZlciI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPnN1ZG8gZG9ja2VyIHB1bGwgbW1vcm5hdGkvZG9ja2VyLWdob3N0YmxvZzp2MC4xMC4wPC9jb2RlPjwvcHJlPgoKIAo+ID09KipJTkZPKio9PTogYWxsIHRoZSBpbWFnZXMgYXJlIGJ1aWx0IGFzICJmcmVzaCIgaW1hZ2UuIFRoaXMgbWVhbnMgdGhhdCBhbGwgdGhlIGludGVybWVkaWF0ZSBzdGVwcyBhcmUgcmVtb3ZlZCBmb3IgYW55IG5ldyBidWlsZC4KSW4gbXkgZXhhbXBsZSAqKml0IGlzIGltcG9ydGFudCB0byBoYXZlIHRoaXMqKiBjYXVzZSwgb25lIG9mIHRoZSBzdGVwIGludG8gdGhlIERvY2tlcmZpbGUgaXMgZG93bmxvYWRpbmcgYSBmaWxlIGZyb20gaW50ZXJuZXQgKGdob3N0IGxhdGVzdCB2ZXJzaW9uKS4gSWYgeW91IGtlZXAgYWxsIHRoZSBidWlsZCBzdGVwcyB5b3UgY2FuJ3QgYmUgc3VyZSB0byBoYXZlIHRoZSBHaG9zdCdzIGxhdGVzdCB2ZXJzaW9uIGludG8geW91ciBEb2NrZXIuCgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1kb2NrZXIiPiMgSW5zdGFsbCBHaG9zdApSVU4gXAogIGNkIC90bXAgJiYgXAogIHdnZXQgaHR0cHM6Ly9naG9zdC5vcmcvemlwL2dob3N0LWxhdGVzdC56aXAgJiYgXAogIHVuemlwIGdob3N0LWxhdGVzdC56aXAgLWQgL2dob3N0ICYmIFwKICBybSAtZiBnaG9zdC1sYXRlc3QuemlwPGNvZGUgY2xhc3M9Imxhbmd1YWdlLWRvY2tlciI+PC9jb2RlPjwvcHJlPgoKCkl0IGlzIGVhc3kgYW5kIHF1aWNrLCBpc24ndCBpdD8gOikK
+# DockerHub: automate your docker images build and push
+
+The [DockerHub](https://hub.docker.com/) website it is created by Docker to allow developers to automate the Docker images build and push the image into the Docker repository.
+In this way you don't need to use your CPU time to build the image and not even your bandwidth to upload the image into the Docker repository to allow others to pull it.
+
+The procedure to configure DockerHub is really simple.
+
+**1)** Create a repository pointing to your source repository (GitHub repo):
+![RepositoryDefinition](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472992771/ompu7km5llsymm9fyos8.png)
+and set is as an automate build. It is not necessar but in this way anytime you are pushing changes to your repository, DockerHub will build the Docker image automatically.
+![AutomatedBuildDefinition](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472992876/edfosetsfbifisc1xmfu.png)
+
+**2)** Configure then for your repository the branch and/or tag you want to auto-check for builds.
+![TriggerBuildDefinition](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472992978/b1oqzuxesturkuozdybc.png)
+In the example, which is mine ghostblog configuration, there is a "listener" on the **master** branch building the **latest** version of the Docker and a second lister checking tag.
+If any tag is pushed matching the RegExp into the name:
+`/^v.[0-9.]+$/`
+an image is built using the same version than the one used into the tagname.
+Examples:
+
+* **v.0.10.1** tag triggers a build of an image tagged as v.0.10.1
+* **update_dockerfile** tag is ignored by dockerhub
+
+**3)** Change your code on the associated GitHub repo and push code (and tags if needed).
+You can see if any build is started on the *Build Details* page. 
+![BuildDetailsPage](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472992947/qf7hzy0d3numjssgplwk.png)
+At the end of the build procedure (depending on your Docker could take only few seconds or hours) you will have the status of the Docker image:
+![DockerBuildSuccess](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472993403/wa8sp3ijlaqkue9us2xv.png)
+Or, in case of errors:
+![DockerBuildError](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472993438/mvy4fsbd4yerjzedyyf2.png)
+You can then click on the failing build to access to the details. Here you can find the build problem and check the build log.
+![DockerBuildErrorDetails](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472993514/xbn59rtguhw3kb5ycwjv.png)
+![DockerBuildLog](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472993858/f9hjfiyxdbexlyjk2eag.png)
+**4)** Check on the *Tags* page to see the available images of your docker.
+Here you are also able to manage them removing, for example, some old or wrong image.
+![DockerImages](https://res.cloudinary.com/blog-mornati-net/image/upload/v1472993638/djz6sg5idluo2aovoqcb.png)
+
+**5)** As I said at the begging, all the images built using this method, are available on the Docker repository.
+This means you can simply *pull* the desired image/tag.
+
+<pre class="language-bash command-line" data-user="marco" data-host="server"><code class="language-bash">sudo docker pull mmornati/docker-ghostblog:v0.10.0</code></pre>
+
+ 
+> ==**INFO**==: all the images are built as "fresh" image. This means that all the intermediate steps are removed for any new build.
+In my example **it is important to have this** cause, one of the step into the Dockerfile is downloading a file from internet (ghost latest version). If you keep all the build steps you can't be sure to have the Ghost's latest version into your Docker.
+
+<pre class="language-docker"># Install Ghost
+RUN \
+  cd /tmp && \
+  wget https://ghost.org/zip/ghost-latest.zip && \
+  unzip ghost-latest.zip -d /ghost && \
+  rm -f ghost-latest.zip<code class="language-docker"></code></pre>
+
+
+It is easy and quick, isn't it? :)
