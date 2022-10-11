@@ -1,1 +1,28 @@
-IyMgRmVkb3JhIDE4OiBDYW4ndCBVbmxvY2sgdGhlIFNjcmVlbgoKQWZ0ZXIgdGhlIGxhdGVzdHMgRmVkb3JhIHVwZGF0ZXMgSSdtIGdldHRpbmcgYSBib3JpbmcgcHJvYmxlbSB3aXRoIHRoZSB1bmxvY2s6IEkgY2FuwqBub3JtYWxseSBsb2dpbiBhZnRlciB0aGUgc3RhcnR1cCBidXQgbm90IGFmdGVyIGEgbG9jayBzY3JlZW4gKENUUkwgKyBBTFQgKyBMIGZvciBleGFtcGxlKS4KCkxvb2tpbmcgaW50byBsb2cgeW91IHNob3VsZCBmaW5kIHNvbWV0aGluZyBsaWtlIHRoZSBmb2xsb3dpbmc6CjxwcmU+PGNvZGU+IE1hciAyNSAxMzozMzoxNSBub3RlYm9vayBnZG0tcGFzc3dvcmRdWzEyNTc5XTogQWNjb3VudHNTZXJ2aWNlLVdBUk5JTkc6IEZhaWxlZCB0byBjb25uZWN0IHRvIHRoZSBDb25zb2xlS2l0IHNlYXQgb2JqZWN0OiBObyBzcGFjZSBsZWZ0IG9uIGRldmljZTwvY29kZT48L3ByZT4KSXQncyBhIGdub21lLXNoZWxsIGJ1ZywgYXMgZGVzY3JpYmVkIGhlcmU6wqA8YSBocmVmPSJodHRwczovL2J1Z3ppbGxhLnJlZGhhdC5jb20vc2hvd19idWcuY2dpP2lkPTg3MjExOCI+aHR0cHM6Ly9idWd6aWxsYS5yZWRoYXQuY29tL3Nob3dfYnVnLmNnaT9pZD04NzIxMTgKQjwvYT51dCBpbiB0aGlzIHdheSBteSBkZXNrdG9wIGlzIGNvbXBsZXRlbHkgdXNlbGVzcy4KCkkgZm91bmQgdHdvIGRpZmZlcmVudHMgd2F5IHRvIHdvcmthcm91bmQvZml4IHRoZSBwcm9ibGVtLgo8b2w+Cgk8bGk+PHNwYW4gc3R5bGU9ImxpbmUtaGVpZ2h0OiAxMnB4OyI+PHNwYW4gc3R5bGU9ImxpbmUtaGVpZ2h0OiAxMnB4OyI+Q29ubmVjdCB3aXRoIHJvb3Qgb24gYSBuZXcgdGVybWluYWwgKENUUkwgKyBBTFQgKyBGMiksIGFuZCBoZXJlIGtpbGwgdGhlIGdub21lLXNoZWxsIHByb2Nlc3MuCjwvc3Bhbj48L3NwYW4+CjxwcmU+PGNvZGU+IG1tb3JuYXRpQG5vdGVib29rIH4kIHN1ZG8gcHMgYXV4IHwgZ3JlcCBnbm9tZS1zaGVsbAptbW9ybmF0aSAgMTk2NyAgNi40ICAzLjkgMjA0MTQ5MiAxNTYwNTIgPyAgICAgIFNsICAgMjE6MTUgICAxOjI1IC91c3IvYmluL2dub21lLXNoZWxsCm1tb3JuYXRpICAyMTI3ICAwLjAgIDAuMyA3MzkyMjggMTQ1NTIgPyAgICAgICAgU2wgICAyMToxNSAgIDA6MDAgL3Vzci9saWJleGVjL2dub21lLXNoZWxsLWNhbGVuZGFyLXNlcnZlcgpnZG0gICAgICAgMzUzMSAgMC41ICAyLjAgMTQyNTI2OCA3ODM0OCA/ICAgICAgIFNsICAgMjE6MjggICAwOjAyIGdub21lLXNoZWxsIC0tbW9kZT1nZG0KbW1vcm5hdGkgIDQ1NzAgIDAuMCAgMC4wIDEwOTE4NCAgIDg4NCBwdHMvMSAgICBTKyAgIDIxOjM3ICAgMDowMCBncmVwIC0tY29sb3I9YXV0byBnbm9tZS1zaGVsbAoKbW1vcm5hdGlAbm90ZWJvb2sgfiQgc3VkbyBraWxsIC05IDM1MzE8L2NvZGU+PC9wcmU+CkEgcHJvYmxlbSB3aXRoIHRoaXMgc29sdXRpb24gaXMgdGhhdCB3ZSBoYXZlIHRvIGV4ZWN1dGUgYSBtYW51YWwgdGFzayBhbnkgdGltZSB3ZSB3YW50IHRvIHVubG9jayBGZWRvcmEgc2NyZWVuPC9saT4KCTxsaT5BIHNlY29uZCBtZXRob2QgY29uc2lzdHMgaW4gY2hhbmdpbmcgYSBwYXJhbWV0ZXIgb2YgdGhlwqA8ZW0+aW5vdGlmeTwvZW0+IHByb2Nlc3MgdG8gYWxsb3cgbW9yZSB3YXRjaGVzIHVzZXJzLiBJJ20gbm90IHN1cmUsIGF0IHRoZSBtb21lbnQsIGlmIHRoaXMgY291bGQgY2F1c2Ugc29tZSBvdGhlcnMgcHJvYmxlbXMsIGJ1dCBmb3IgbWUgaXQgd29ya3Mgbm93LgpUbyB0aGlzIHlvdSBuZWVkIHRvIGNyZWF0ZSBhIG5ldyBzeXNjdGwgY29uZmlndXJhdGlvbiBmaWxlIGZvciBpbm90aWZ5LCBmb3IgZXhhbXBsZSBpbm90aWZ5LmNvbmYgd2l0aCB0aGlzIHBhcmFtZXRlciBpbnNpZGUKPHByZT48Y29kZT4gbW1vcm5hdGlAbm90ZWJvb2sgfiQgY2F0IC9ldGMvc3lzY3RsLmQvaW5vdGlmeS5jb25mIApmcy5pbm90aWZ5Lm1heF91c2VyX3dhdGNoZXM9MTAwMDAwPC9jb2RlPjwvcHJlPgpBMWwgc2hvdWxkIHdvcmsgY29ycmVjdGx5IG5vdyE8L2xpPgo8L29sPgpFbmpveQ==
+# Fedora 18: Can't Unlock the Screen
+
+After the latests Fedora updates I'm getting a boring problem with the unlock: I can normally login after the startup but not after a lock screen (CTRL + ALT + L for example).
+
+Looking into log you should find something like the following:
+<pre><code> Mar 25 13:33:15 notebook gdm-password][12579]: AccountsService-WARNING: Failed to connect to the ConsoleKit seat object: No space left on device</code></pre>
+It's a gnome-shell bug, as described here: <a href="https://bugzilla.redhat.com/show_bug.cgi?id=872118">https://bugzilla.redhat.com/show_bug.cgi?id=872118
+B</a>ut in this way my desktop is completely useless.
+
+I found two differents way to workaround/fix the problem.
+<ol>
+	<li><span style="line-height: 12px;"><span style="line-height: 12px;">Connect with root on a new terminal (CTRL + ALT + F2), and here kill the gnome-shell process.
+</span></span>
+<pre><code> mmornati@notebook ~$ sudo ps aux | grep gnome-shell
+mmornati  1967  6.4  3.9 2041492 156052 ?      Sl   21:15   1:25 /usr/bin/gnome-shell
+mmornati  2127  0.0  0.3 739228 14552 ?        Sl   21:15   0:00 /usr/libexec/gnome-shell-calendar-server
+gdm       3531  0.5  2.0 1425268 78348 ?       Sl   21:28   0:02 gnome-shell --mode=gdm
+mmornati  4570  0.0  0.0 109184   884 pts/1    S+   21:37   0:00 grep --color=auto gnome-shell
+
+mmornati@notebook ~$ sudo kill -9 3531</code></pre>
+A problem with this solution is that we have to execute a manual task any time we want to unlock Fedora screen</li>
+	<li>A second method consists in changing a parameter of the <em>inotify</em> process to allow more watches users. I'm not sure, at the moment, if this could cause some others problems, but for me it works now.
+To this you need to create a new sysctl configuration file for inotify, for example inotify.conf with this parameter inside
+<pre><code> mmornati@notebook ~$ cat /etc/sysctl.d/inotify.conf 
+fs.inotify.max_user_watches=100000</code></pre>
+A1l should work correctly now!</li>
+</ol>
+Enjoy
