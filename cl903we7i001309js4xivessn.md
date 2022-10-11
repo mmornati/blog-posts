@@ -1,1 +1,138 @@
-IyMgVXBkYXRlIE9wZW5FTEVDIG9uIFJhc3BiZXJyeVBJCgpZb3UgY2FuIHVzZSBhIDxhIGhyZWY9Imh0dHA6Ly93d3cucmFzcGJlcnJ5cGkub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPlJhc3BiZXJyeVBJPC9hPiBjb21wdXRlciBpbiBtYW55IGRpZmZlcmVudHMgd2F5LiBQZXJzb25hbGx5IEkgZGVjaWRlZCB0byB1c2UgaXQgYXMgbWVkaWFjZW50ZXIgd2l0aCBhbiA8YSBocmVmPSJodHRwOi8veGJtYy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+WEJNQzwvYT4gcHJvZ3JhbS4KCkFmdGVyIHRoZSBmaXJzdCBpbnN0YWxsYXRpb24gSSBzcGVudCBsb3Qgb2YgdGltZSB0byBjb25maWd1cmUgYW55IHRoaW5ncyBpbiBYQk1DOiBzaGFyZSBmb2xkZXJzIGZvciB2aWRlb3MsIHNoYXJlIGZvbGRlcnMgZm9yIG11c2ljLCAuLi4gU28gdGhlIHByb2JsZW0gSSBoYWQgd2FzIGFib3V0IHRoZSAidXBkYXRlIiBwcm9jZXNzLiBUaGUgT3BlbkVMRUMgaXMgYmFzZWQgb24gYSBsaW51eCBkaXN0cmlidXRpb24gYnV0IHRoZXJlIGlzIG5vdGhpbmcgdG8gYXV0b21hdGUgcGFja2FnZXMgaW5zdGFsbGF0aW9uIG9yIHVwZGF0ZSAoSSBtZWFuIHNvbWV0aGluZyBsaWtlwqA8c3Ryb25nPnl1bTwvc3Ryb25nPiBvcsKgPHN0cm9uZz5hcHQtZ2V0PC9zdHJvbmc+KSwgSSBpdCdzIG5vdCBwb3NzaWJsZSBmb3IgYW55IHN5c3RlbSB1cGRhdGUgdG8gcmVjb25maWd1cmUgYW55dGhpbmcuCgpJIGxvb2tlZCBvbiBpbnRlcm5ldCBhbmQgaW4gdGhlIGVuZCBJIGZvdW5kIGEgc2ltcGxlIHNjcmlwdCB0aGF0IGhlbHAgeW91IGluIHRoZSB1cGRhdGUgcHJvY2Vzcy4KPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCBsaW5lLW51bWJlcnMiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj4KIyEvYmluL2Jhc2gKCiMgY2hhbmdlIHdvcmtpbmcgZGlyZWN0b3J5IApjZCAvc3RvcmFnZQoKIyBsb2NhdGlvbiBvZiB0aGUgbmlnaHRsaWVzCnVybD0iaHR0cDovL29wZW5lbGVjLnRoZXN0YXRlb2ZtZS5jb20vIgoKIyBnZXQgYmFzZSwgcmV2aXNpb24gYW5kIGZpbGVuYW1lIG9mIGxhc3QgYnVpbGQKbGFzdF9iYXNlPWBjdXJsIC1zICR1cmwgfCBncmVwIC50YXIuYnoyIHwgc2VkICdzLy4qXChPcGVuRUxFQy1SUGkuKlwpLnRhci5iejIuKi9cMS8nIHwgc29ydCB8IHRhaWwgLTFgCmxhc3RfcmV2aXNpb249YGVjaG8gJGxhc3RfYmFzZSB8IHNlZCAncy8uKlwoclswLTldKlwpL1wxLydgCmxhc3RfZmlsZW5hbWU9JGxhc3RfYmFzZS50YXIuYnoyCgojIGZvbGRlciBuYW1lIGlzIHNldCBlcXVhbCB0byBiYXNlCmZvbGRlcm5hbWU9JGxhc3RfYmFzZQoKIyBnZXQgY3VycmVudGx5IGluc3RhbGxlZCByZXZpc2lvbgp0aGlzX3JldmlzaW9uPWBjYXQgL2V0Yy92ZXJzaW9uIHwgc2VkICdzLy4qXChyWzAtOV0qXCkvXDEvJ2AKCiMgY2hlY2sgaWYgY3VycmVudGx5IGluc3RhbGxlZCByZXZpc2lvbiBpcyB1cC10by1kYXRlCmlmIFsgJHRoaXNfcmV2aXNpb24gPT0gJGxhc3RfcmV2aXNpb24gXQp0aGVuCiAgICBlY2hvICJTeXN0ZW0gaXMgdXAtdG8tZGF0ZSwgbm8gdXBkYXRlIHJlcXVpcmVkLiIKICAgIGV4aXQKZWxzZQogICAgZWNobyAiVXBkYXRlIHJlcXVpcmVkLCB3aWxsIGRvd25sb2FkIGxhdGVzdCB2ZXJzaW9uLiIKZmkKCiMgY2xlYW4gdXAgcHJldmlvdXNseSBpbnRlcnJ1cHRlZCB1cGRhdGUKaWYgWyAtYSAkbGFzdF9maWxlbmFtZSBdOyB0aGVuCiAgICBlY2hvICJDbGVhbiB1cCBwcmV2aW91c2x5IGludGVycnVwdGVkIHVwZGF0ZSBmaWxlcy4iCiAgICBybSAkbGFzdF9maWxlbmFtZQpmaQppZiBbIC1hICRmb2xkZXJuYW1lIF07IHRoZW4KICAgIGVjaG8gIkNsZWFuIHVwIHByZXZpb3VzbHkgaW50ZXJydXB0ZWQgdXBkYXRlIGZpbGVzLiIKICAgIHJtIC1yZiAkZm9sZGVybmFtZQpmaQoKIyBkb3dubG9hZCBjb3JyZXNwb25kaW5nIGZpbGUgdG8gd29ya2luZyBkaXJlY3RvcnkKdXJsdG9sYXN0PSR1cmwvJGxhc3RfZmlsZW5hbWUKd2dldCAkdXJsdG9sYXN0CmVjaG8gLWUgICJEb3dubG9hZCBjb21wbGV0ZVxuIgoKIyB1bmNvbXByZXNzaW5nIHRoZSB0YXJiYWxsCmVjaG8gIlVuY29tcHJlc3NpbmcgdGFyYmFsbCwgZmlsZXMgZXh0cmFjdGVkOiIKdGFyIC14dmpmICRsYXN0X2ZpbGVuYW1lCgojIGNoZWNrIGlmIGltYWdlIGZvbGRlciBleGlzdHMsIG90aGVyd2lzZSBleGl0CmlmIFsgISAtZCAkZm9sZGVybmFtZSBdOyB0aGVuCiAgIGVjaG8gIkNhbm5vdCBmaW5kIGV4dHJhY3RlZCBmb2xkZXIuIgogICBleGl0CmZpCgojIGNoZWNrIGlmIC51cGRhdGUgZm9sZGVyIGV4aXN0cywgb3RoZXJ3aXNlIGNyZWF0ZSBpdAppZiBbICEgLWQgL3N0b3JhZ2UvLnVwZGF0ZSBdOyB0aGVuCiAgICBta2RpciAvc3RvcmFnZS8udXBkYXRlCmZpCgojIG1vdmUgT3BlbkVMRUMgZmlsZXMgKGluY2x1ZGluZyAubWQ1IGZpbGVzKSB0byB1cGRhdGUgZm9sZGVyCm12ICRmb2xkZXJuYW1lL3RhcmdldC8qIC9zdG9yYWdlLy51cGRhdGUvCmVjaG8gLWUgIlxuT3BlbkVMRUMgZmlsZXMgc3VjY2VzZnVsbHkgbW92ZWQgdG8gdXBkYXRlIGRpcmVjdG9yeSIKCiMgY2xlYW4gdXAKcm0gLXIgJGZvbGRlcm5hbWUKcm0gJGxhc3RfZmlsZW5hbWUKZWNobyAiVGVtcG9yYXJ5IGZpbGVzIGRlbGV0ZWQiCgojIHN5bmMgYW5kIHJlYm9vdCBzeXN0ZW0gdG8gYXBwbHkgdXBkYXRlcwplY2hvICJTeXN0ZW0gd2lsbCByZXN0YXJ0IHNob3J0bHkiCmVjaG8gIkVuam95ISIKc2xlZXAgNXMKc3luYwpyZWJvb3QKPC9jb2RlPjwvcHJlPgpTb3JyeSB0byB0aGUgYXV0aG9yIGJlY2F1c2UgSSBjYW4ndCByZW1lbWJlciB3aGVyZSBJIGZvdW5kIGl0LCBhbmQgSSBkb24ndCBldmVuIGtub3cgaWYgaXQncyB0aGUgb3JpZ2luYWwgdmVyc2lvbiBvciBpZiBJIG1vZGlmaWVkIGl0LiBJbiBhbnkgY2FzZSBpdCB3b3JrcyBwZXJmZWN0bHkuCgpXaGF0IHlvdSBqdXN0IG5lZWQgdG8gZG8gaXMgdG8gY29weSBpdCBvbiB5b3VyIFJhc3BiZXJyeVBpL09wZW5FTEVDIHN5c3RlbSBhbmQgZXhlY3V0ZSBpdC4gVGhlIHNjcmlwdCB3aWxsIGNoZWNrIGlmIGEgbmV3IHZlcnNpb24gaXMgYXZhaWxhYmxlLCBpdCB3aWxsIGRvd25sb2FkIGl0IGFuZCB0aGVuIHJlYm9vdCB0aGUgcmFzcGJlcnJ5IHdoZW4gYWxsIGlzIHJlYWR5IGZvciB0aGUgdXBkYXRlICh1cGRhdGUgd2lsbCBiZSBhdXRvbWF0aWNhbGx5IGluc3RhbGxlZCBhZnRlciB0aGUgcmVib290KS4KCkhvdyB5b3UgY2FuIGNvcHkgdGhlIHNjcmlwdCBvbiB5b3VyIE9wZW5FTEVDIGFuZCBleGVjdXRlIGFuIHVwZGF0ZT8gWW91IGNhbiBtYWtlIGFuIDxzdHJvbmc+U1NIIGNvbm5lY3Rpb27CoDwvc3Ryb25nPnRvIHRoZSBSYXNwYmVycnlQaS4KPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCBjb21tYW5kLWxpbmUiIGRhdGEtdXNlcj0ibWFyY28iIGRhdGEtaG9zdD0ibm90ZWJvb2siIGRhdGEtb3V0cHV0PSIyLTEwIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+c3NoIHJvb3RAMTkyLjE2OC4wLjI1CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBPcGVuRUxFQyAtIFRoZSBsaXZpbmcgcm9vbSBQQyBmb3IgZXZlcnlvbmUgIwojIC4uLi4uLiB2aXNpdCBodHRwOi8vd3d3Lm9wZW5lbGVjLnR2IC4uLi4uLiAjCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCk9wZW5FTEVDIFZlcnNpb246IGRldmVsLTIwMTMwMTE5MTQzODIxLXIxMjk3NQpPcGVuRUxFQyBnaXQ6IDZiYzI1OWZiNWNkZjRmOTQxZTg1ZTQzMTMyYTBhMzFlMjExYWY5MzcKcm9vdEAxOTIuMTY4LjAuMjUncyBwYXNzd29yZDogCjwvY29kZT48L3ByZT4KV2hlcmXCoDxzdHJvbmc+MTkyLjE2OC4wLjI1PC9zdHJvbmc+IGlzIHRoZSBpcCBhZGRyZXNzIG9mIG15IFJhc3BiZXJyeS4gSSBtYWtlIHRoZSBTU0ggY29ubmVjdGlvbiB1c2luZyBhIExpbnV4L01hYyBjb21wdXRlciAod2hlcmUgc3NoIGlzIGF2YWlsYWJsZSBieSBkZWZhdWx0IG9uIHRoZSBjb21tYW5kIGxpbmUpOyBpZiB5b3UgYXJlIG9uIFdpbmRvd3MsIHlvdSBuZWVkIHRvIHVzZSA8YSBocmVmPSJodHRwOi8vd3d3LnB1dHR5Lm9yZy8iIHRhcmdldD0iX2JsYW5rIj5QdXR0eTwvYT4gdG8gbWFrZSB0aGUgc3NoIGNvbm5lY3Rpb24hCgpUaGUgZGVmYXVsdCB1c2VybmFtZS9wYXNzd29yZCB0byBjb25uZWN0IHRvIE9wZW5FTEVDIHZpYSBTU0ggYXJlOgoKdXNlcm5hbWU6wqA8c3Ryb25nPnJvb3QKPC9zdHJvbmc+cGFzc3dvcmQ6wqA8c3Ryb25nPm9wZW5lbGVjPC9zdHJvbmc+CgpBZnRlciBjb25uZWN0aW9uIHlvdSBjYW4gY3JlYXRlIHlvdXIgc2NyaXB0IHdoZXJlIHlvdSB3YW50IG9uIHlvdXIgc3lzdGVtICh5b3UgYXJlIHJvb3Qgc28gYmUgY2FyZWZ1bGwgYmVjYXVzZSB5b3UgY2FuIGRvIGFueXRoaW5nKS4gTm9ybWFsbHkgd2hlcmUgeW91IGhhdmUgYSBsb3Qgb2YgZnJlZSBzcGFjZSBpcyA8c3Ryb25nPi9zdG9yZWdlPC9zdHJvbmc+LCBidXQgaWYgeW91IGFyZSBub3Qgc3VyZSwgeW91IGNhbiBjaGVjayBpdCB3aXRoIGHCoDxzdHJvbmc+ZGYgLWg8L3N0cm9uZz46CjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9InJvb3QiIGRhdGEtaG9zdD0icmFzcGJlcnJ5cGkiIGRhdGEtb3V0cHV0PSIyLTgiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj5kZiAtaApGaWxlc3lzdGVtICAgICAgICAgICAgICAgIFNpemUgICAgICBVc2VkIEF2YWlsYWJsZSBVc2UlIE1vdW50ZWQgb24Kbm9uZSAgICAgICAgICAgICAgICAgICAgMTg1LjBNICAgICA5MC4xTSAgICAgOTQuOU0gIDQ5JSAvZGV2Ci9kZXYvbW1jYmxrMHAxICAgICAgICAgIDEyNC43TSAgICAgOTguOE0gICAgIDI2LjBNICA3OSUgL2ZsYXNoCi9kZXYvbW1jYmxrMHAyICAgICAgICAgICAgMy42RyAgICAxMjcuNU0gICAgICAzLjNHICAgNCUgL3N0b3JhZ2UKL2Rldi9sb29wMCAgICAgICAgICAgICAgIDkwLjBNICAgICA5MC4wTSAgICAgICAgIDAgMTAwJSAvCm5vbmUgICAgICAgICAgICAgICAgICAgIDE4Ni41TSAgICAgICAgIDAgICAgMTg2LjVNICAgMCUgL2Rldi9zaG08L2NvZGU+PC9wcmU+CgpUaGVuIHlvdSBjYW4gY3JlYXRlIHRoZSBzY3JpcHQgZmlsZSB1c2luZ8KgPHN0cm9uZz52aTwvc3Ryb25nPiwgZm9yIGV4YW1wbGUgdHlwaW5nIHNvbWV0aGluZyBsaWtlOgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InJhc3BiZXJyeXBpIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+dmkgdXBkYXRlLnNoPC9jb2RlPjwvcHJlPgpBbmQgaGVyZSB5b3UgY2FuIHBhc3RlIHRoZSBjb250ZW50IG9mIHRoZSBzY3JpcHQgSSBwdXQgaW4gdGhpcyBhcnRpY2xlLgpBZnRlciB0aGlzIHlvdSBuZWVkIHRvIG1ha2UgdGhlIHNjcmlwdMKgPGVtPmV4ZWN1dGFibGU8L2VtPsKgYW5kIGV4ZWN1dGUgaXQsIHdpdGg6CjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9InJvb3QiIGRhdGEtaG9zdD0icmFzcGJlcnJ5cGkiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj5jaG1vZCAreCB1cGRhdGUuc2gKLi91cGRhdGUuc2g8L2NvZGU+PC9wcmU+CllvdSBzaG91bGQgaGF2ZSBhbiBvdXRwdXQgbGlrZSB0aGUgZm9sbG93aW5nOgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIGNvbW1hbmQtbGluZSIgZGF0YS11c2VyPSJyb290IiBkYXRhLWhvc3Q9InJhc3BiZXJyeXBpIiBkYXRhLW91dHB1dD0iMi0xNyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPi4vdXBkYXRlLnNoIApVcGRhdGUgcmVxdWlyZWQsIHdpbGwgZG93bmxvYWQgbGF0ZXN0IHZlcnNpb24uCkNvbm5lY3RpbmcgdG8gb3BlbmVsZWMudGhlc3RhdGVvZm1lLmNvbSAoNDYuMTQ5LjE5Ljk6ODApCk9wZW5FTEVDLVJQaS5hcm0tZGV2IDEwMCUgfCoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqfCA5MjA3OGsgIDA6MDA6MDAgRVRBCkRvd25sb2FkIGNvbXBsZXRlCgpVbmNvbXByZXNzaW5nIHRhcmJhbGwsIGZpbGVzIGV4dHJhY3RlZDoKT3BlbkVMRUMtUlBpLmFybS1kZXZlbC0yMDEzMDIyODE0NDMyMS1yMTMzODcvClsuLi5dCk9wZW5FTEVDLVJQaS5hcm0tZGV2ZWwtMjAxMzAyMjgxNDQzMjEtcjEzMzg3L3RhcmdldC9TWVNURU0KT3BlbkVMRUMtUlBpLmFybS1kZXZlbC0yMDEzMDIyODE0NDMyMS1yMTMzODcvb3BlbmVsZWMuaWNvCk9wZW5FTEVDLVJQaS5hcm0tZGV2ZWwtMjAxMzAyMjgxNDQzMjEtcjEzMzg3L0lOU1RBTEwKCk9wZW5FTEVDIGZpbGVzIHN1Y2Nlc2Z1bGx5IG1vdmVkIHRvIHVwZGF0ZSBkaXJlY3RvcnkKVGVtcG9yYXJ5IGZpbGVzIGRlbGV0ZWQKU3lzdGVtIHdpbGwgcmVzdGFydCBzaG9ydGx5CkVuam95ITwvY29kZT48L3ByZT4KRmluaXNoZWQhIEFmdGVyIHRoZSByZWJvb3QgeW91ciBPcGVuRUxFQyBpcyB1cGRhdGVkLiBZb3UgY2FuIGNoZWNrIGl0IHNpbXBseSB3aXRoIGFuIHNzaCBjb25uZWN0aW9uIChhZnRlciB0aGUgY29ubmVjdGlvbiB5b3Ugc2hvdWxkIHNlZSB0aGUgdmVyc2lvbiBkaXJlY3RseSBvbiB5b3VyIHNjcmVlbikgb3IgZ29pbmcgaW4gdGhlIHNldHRpbmdzIGluIHlvdXIgWEJNQy4=
+# Update OpenELEC on RaspberryPI
+
+You can use a <a href="http://www.raspberrypi.org/" target="_blank">RaspberryPI</a> computer in many differents way. Personally I decided to use it as mediacenter with an <a href="http://xbmc.org/" target="_blank">XBMC</a> program.
+
+After the first installation I spent lot of time to configure any things in XBMC: share folders for videos, share folders for music, ... So the problem I had was about the "update" process. The OpenELEC is based on a linux distribution but there is nothing to automate packages installation or update (I mean something like <strong>yum</strong> or <strong>apt-get</strong>), I it's not possible for any system update to reconfigure anything.
+
+I looked on internet and in the end I found a simple script that help you in the update process.
+<pre class="language-bash line-numbers"><code class="language-bash">
+#!/bin/bash
+
+# change working directory 
+cd /storage
+
+# location of the nightlies
+url="http://openelec.thestateofme.com/"
+
+# get base, revision and filename of last build
+last_base=`curl -s $url | grep .tar.bz2 | sed 's/.*\(OpenELEC-RPi.*\).tar.bz2.*/\1/' | sort | tail -1`
+last_revision=`echo $last_base | sed 's/.*\(r[0-9]*\)/\1/'`
+last_filename=$last_base.tar.bz2
+
+# folder name is set equal to base
+foldername=$last_base
+
+# get currently installed revision
+this_revision=`cat /etc/version | sed 's/.*\(r[0-9]*\)/\1/'`
+
+# check if currently installed revision is up-to-date
+if [ $this_revision == $last_revision ]
+then
+    echo "System is up-to-date, no update required."
+    exit
+else
+    echo "Update required, will download latest version."
+fi
+
+# clean up previously interrupted update
+if [ -a $last_filename ]; then
+    echo "Clean up previously interrupted update files."
+    rm $last_filename
+fi
+if [ -a $foldername ]; then
+    echo "Clean up previously interrupted update files."
+    rm -rf $foldername
+fi
+
+# download corresponding file to working directory
+urltolast=$url/$last_filename
+wget $urltolast
+echo -e  "Download complete\n"
+
+# uncompressing the tarball
+echo "Uncompressing tarball, files extracted:"
+tar -xvjf $last_filename
+
+# check if image folder exists, otherwise exit
+if [ ! -d $foldername ]; then
+   echo "Cannot find extracted folder."
+   exit
+fi
+
+# check if .update folder exists, otherwise create it
+if [ ! -d /storage/.update ]; then
+    mkdir /storage/.update
+fi
+
+# move OpenELEC files (including .md5 files) to update folder
+mv $foldername/target/* /storage/.update/
+echo -e "\nOpenELEC files succesfully moved to update directory"
+
+# clean up
+rm -r $foldername
+rm $last_filename
+echo "Temporary files deleted"
+
+# sync and reboot system to apply updates
+echo "System will restart shortly"
+echo "Enjoy!"
+sleep 5s
+sync
+reboot
+</code></pre>
+Sorry to the author because I can't remember where I found it, and I don't even know if it's the original version or if I modified it. In any case it works perfectly.
+
+What you just need to do is to copy it on your RaspberryPi/OpenELEC system and execute it. The script will check if a new version is available, it will download it and then reboot the raspberry when all is ready for the update (update will be automatically installed after the reboot).
+
+How you can copy the script on your OpenELEC and execute an update? You can make an <strong>SSH connection </strong>to the RaspberryPi.
+<pre class="language-bash command-line" data-user="marco" data-host="notebook" data-output="2-10"><code class="language-bash">ssh root@192.168.0.25
+##############################################
+# OpenELEC - The living room PC for everyone #
+# ...... visit http://www.openelec.tv ...... #
+##############################################
+
+OpenELEC Version: devel-20130119143821-r12975
+OpenELEC git: 6bc259fb5cdf4f941e85e43132a0a31e211af937
+root@192.168.0.25's password: 
+</code></pre>
+Where <strong>192.168.0.25</strong> is the ip address of my Raspberry. I make the SSH connection using a Linux/Mac computer (where ssh is available by default on the command line); if you are on Windows, you need to use <a href="http://www.putty.org/" target="_blank">Putty</a> to make the ssh connection!
+
+The default username/password to connect to OpenELEC via SSH are:
+
+username: <strong>root
+</strong>password: <strong>openelec</strong>
+
+After connection you can create your script where you want on your system (you are root so be carefull because you can do anything). Normally where you have a lot of free space is <strong>/storege</strong>, but if you are not sure, you can check it with a <strong>df -h</strong>:
+<pre class="language-bash command-line" data-user="root" data-host="raspberrypi" data-output="2-8"><code class="language-bash">df -h
+Filesystem                Size      Used Available Use% Mounted on
+none                    185.0M     90.1M     94.9M  49% /dev
+/dev/mmcblk0p1          124.7M     98.8M     26.0M  79% /flash
+/dev/mmcblk0p2            3.6G    127.5M      3.3G   4% /storage
+/dev/loop0               90.0M     90.0M         0 100% /
+none                    186.5M         0    186.5M   0% /dev/shm</code></pre>
+
+Then you can create the script file using <strong>vi</strong>, for example typing something like:
+<pre class="language-bash command-line" data-user="root" data-host="raspberrypi"><code class="language-bash">vi update.sh</code></pre>
+And here you can paste the content of the script I put in this article.
+After this you need to make the script <em>executable</em> and execute it, with:
+<pre class="language-bash command-line" data-user="root" data-host="raspberrypi"><code class="language-bash">chmod +x update.sh
+./update.sh</code></pre>
+You should have an output like the following:
+<pre class="language-bash command-line" data-user="root" data-host="raspberrypi" data-output="2-17"><code class="language-bash">./update.sh 
+Update required, will download latest version.
+Connecting to openelec.thestateofme.com (46.149.19.9:80)
+OpenELEC-RPi.arm-dev 100% |*****************************************************************************************************| 92078k  0:00:00 ETA
+Download complete
+
+Uncompressing tarball, files extracted:
+OpenELEC-RPi.arm-devel-20130228144321-r13387/
+[...]
+OpenELEC-RPi.arm-devel-20130228144321-r13387/target/SYSTEM
+OpenELEC-RPi.arm-devel-20130228144321-r13387/openelec.ico
+OpenELEC-RPi.arm-devel-20130228144321-r13387/INSTALL
+
+OpenELEC files succesfully moved to update directory
+Temporary files deleted
+System will restart shortly
+Enjoy!</code></pre>
+Finished! After the reboot your OpenELEC is updated. You can check it simply with an ssh connection (after the connection you should see the version directly on your screen) or going in the settings in your XBMC.
