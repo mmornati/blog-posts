@@ -1,1 +1,21 @@
-IyMgU2hhaXJwb3J0OiB0dXJuIHlvdXIgbGludXggaW4gYW4gQWlyUGxheSBzcGVha2VyCgpJIGp1c3QgZGlzY292ZXJlZCBhbmQgdGVzdGVkIGEgbmljZSBwcm9qZWN0IHRoYXQgYWxsb3cgeW91IHRvIGNyZWF0ZSBhbiBBaXJQbGF5IHNlcnZlciB0byB1c2UgYXMgYSBzaW1wbGUgc3BlYWtlciBmb3IgeW91ciBpT1MgZGV2aWNlIChmb3IgZXhhbXBsZSBzZW5kIGF1ZGlvIGZyb20geW91ciBpUG9kIHRvIHlvdXIgTGludXggUEMpOiA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vYWxiZXJ0ei9zaGFpcnBvcnQiPlNoYWlycG9ydDwvYT4hIQoKVG8gaW5zdGFsbCBhbmQgdXNlIGl0IG9uIEZlZG9yYSAxNiBkaXN0cmlidXRpb24gaXMgcmVhbGx5IHNpbXBsZS4KRmlyc3Qgb2YgYWxsIHlvdSBzaG91bGQgaW5zdGFsbCBhbGwgdGhlIHJlcXVpcmVkIHBhY2thZ2VzIHRvIGJ1aWxkIHRoaXMgcHJvamVjdDoKPHByZT48Y29kZT4geXVtIGluc3RhbGwgb3BlbnNzbC1kZXZlbCBsaWJhbyBsaWJhby1kZXZlbCBwZXJsLUNyeXB0LU9wZW5TU0wtUlNBIHBlcmwtSU8tU29ja2V0LUlORVQ2IHBlcmwtbGlid3d3LXBlcmwgYXZhaGktdG9vbHM8L2NvZGU+PC9wcmU+ClRoZW4sIGFmdGVyIGEgbGl0dGxlIGNsb25lIG9mIHRoZSBnaXQgcmVwb3NpdG9yeQo8cHJlPjxjb2RlPiBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL2FsYmVydHovc2hhaXJwb3J0LmdpdDwvY29kZT48L3ByZT4KWW91IGNhbiBlbnRlciBpbiB0aGUgc2hhaXJwb3J0IGRpcmVjdG9yeSBhbmQgYnVpbGQgaXQKPHByZT48Y29kZT4gbW1vcm5hdGlAZGVza3RvcCBzaGFpcnBvcnQkIG1ha2UKY2MgLU8yIC1XYWxsICAgLURIQUlSVFVORVNfU1RBTkRBTE9ORSBoYWlydHVuZXMuYyBhbGFjLm8gLW8gaGFpcnR1bmVzIC1sbSAtbHB0aHJlYWQgLWxzc2wgLWxjcnlwdG8gLWxhbwpjYyAtTzIgLVdhbGwgICAtYyBzb2NrZXRsaWIuYyAtbyBzb2NrZXRsaWIubwpjYyAtTzIgLVdhbGwgICAtYyBzaGFpcnBvcnQuYyAtbyBzaGFpcnBvcnQubwpjYyAtTzIgLVdhbGwgICAtYyBoYWlydHVuZXMuYyAtbyBoYWlydHVuZXMubwpjYyAtTzIgLVdhbGwgICBzb2NrZXRsaWIubyBzaGFpcnBvcnQubyBhbGFjLm8gaGFpcnR1bmVzLm8gLW8gc2hhaXJwb3J0IC1sbSAtbHB0aHJlYWQgLWxzc2wgLWxjcnlwdG8gLWxhbzwvY29kZT48L3ByZT4KTm93IHlvdSBjYW4gc2ltcGx5IHN0YXJ0dXAgdGhlIHNoYWlycG9ydCBzY3JpcHQgYW5kIGNoZWNrIGlmIGFsbCB3b3JrcyB3ZWxsIHVzaW5nIHlvdXIgaU9TIGRldmljZQo8cHJlPjxjb2RlPiBtbW9ybmF0aUBkZXNrdG9wIHNoYWlycG9ydCQgcGVybCBzaGFpcnBvcnQucGwKRXN0YWJsaXNoZWQgdW5kZXIgbmFtZSAnRDI5MDhFRUNBQTVBQFNoYWlyUG9ydCAzODgyIG9uIGRlc2t0b3AnCnJlcXVlc3RpbmcgcmVzZW5kIG9uIDEgcGFja2V0cyAocG9ydCA1MzU2OCk8L2NvZGU+PC9wcmU+CjxhIGhyZWY9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL3YxMzkxNjQxMzU3L0Zyb20taVBob25lLWRpLU1hcmNvX3l2eHlxYi5wbmciPjxpbWcgY2xhc3M9ImFsaWduY2VudGVyIHNpemUtbWVkaXVtIHdwLWltYWdlLTQyNSIgdGl0bGU9IkZyb20gaVBob25lIGRpIE1hcmNvIiBzcmM9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL2hfMzAwLHdfMjAwL3YxMzkxNjQxMzU3L0Zyb20taVBob25lLWRpLU1hcmNvX3l2eHlxYi5wbmciIGFsdD0iIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjMwMCIgLz48L2E+
+# Shairport: turn your linux in an AirPlay speaker
+
+I just discovered and tested a nice project that allow you to create an AirPlay server to use as a simple speaker for your iOS device (for example send audio from your iPod to your Linux PC): <a href="https://github.com/albertz/shairport">Shairport</a>!!
+
+To install and use it on Fedora 16 distribution is really simple.
+First of all you should install all the required packages to build this project:
+<pre><code> yum install openssl-devel libao libao-devel perl-Crypt-OpenSSL-RSA perl-IO-Socket-INET6 perl-libwww-perl avahi-tools</code></pre>
+Then, after a little clone of the git repository
+<pre><code> git clone https://github.com/albertz/shairport.git</code></pre>
+You can enter in the shairport directory and build it
+<pre><code> mmornati@desktop shairport$ make
+cc -O2 -Wall   -DHAIRTUNES_STANDALONE hairtunes.c alac.o -o hairtunes -lm -lpthread -lssl -lcrypto -lao
+cc -O2 -Wall   -c socketlib.c -o socketlib.o
+cc -O2 -Wall   -c shairport.c -o shairport.o
+cc -O2 -Wall   -c hairtunes.c -o hairtunes.o
+cc -O2 -Wall   socketlib.o shairport.o alac.o hairtunes.o -o shairport -lm -lpthread -lssl -lcrypto -lao</code></pre>
+Now you can simply startup the shairport script and check if all works well using your iOS device
+<pre><code> mmornati@desktop shairport$ perl shairport.pl
+Established under name 'D2908EECAA5A@ShairPort 3882 on desktop'
+requesting resend on 1 packets (port 53568)</code></pre>
+<a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641357/From-iPhone-di-Marco_yvxyqb.png"><img class="aligncenter size-medium wp-image-425" title="From iPhone di Marco" src="https://res.cloudinary.com/blog-mornati-net/image/upload/h_300,w_200/v1391641357/From-iPhone-di-Marco_yvxyqb.png" alt="" width="200" height="300" /></a>
