@@ -1,1 +1,41 @@
-IyMgTW91bnQgSHViaWMgY2xvdWQgZGlzayBvbiB5b3VyIGxvY2FsIExpbnV4Cgo8YSBocmVmPSJodHRwczovL2h1YmljLmNvbS9pdC8iPkh1YmljPC9hPsKgaXMgdGhlIGZyZW5jaCBEcm9wYm94IGNsb25lLCBjcmVhdGVkIGJ5IE9WSCwgb2ZmZXJpbmcgMjVHYiBzdG9yYWdlIGZvciBmcmVlLiBXaGVuIGl0IHNvcnRlZCBvdXQgdGhlcmUgd2VyZW4ndCBtYW55IGNsaWVudHMgZm9yIHRoZSBkaWZmZXJlbnQgb3BlcmF0aW5nIHN5c3RlbXMgYnV0IHRoZXJlIHdhcyBhbiB1c2VmdWwgKHVuZG9jdW1lbnRlZCkgZm9uY3Rpb246IHRoZSB3ZWJkYXYuIFVzaW5nIHdlYmRhdiB5b3UgY291bGQgbW91bnQgeW91ciBIdWJpYyBkcml2ZSBvbiBhbnkgc3lzdGVtIHRvIGNvcHkgeW91ciBmaWxlcy4KU29tZSB3ZWVrcyBhZ28sIHdoZW4gdGhlIGxhdGVzdCBPUyBjbGllbnQgKHRoZSBsaW51eCBvbmUpIGNvbWUgb3V0LCBPVkggZGVjaWRlZCB0byByZW1vdmUgdGhlIHdlYmRhdiBhY2Nlc3MuLi4gYnV0IHVuZm9ydHVuYXRlbHkgdGhlIGNsaWVudCBhdCB0aGUgbW9tZW50IGhhcyBzb21lIGJ1Z3MgYW5kIGlzIG5vdCBzbyBlYXN5LXRvLXVzZSBsaWtlICJjb3B5IGUgZmlsZSBpbnRvIGEgZm9sZGVyIi4KPHAgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7Ij5Gb3J0dW5hdGVseSB5b3UgY2FuIGdldCBiYWNrIHlvdXIgImxvY2FsIGN1YmljIGZvbGRlciIgdXNpbmcgPGEgaHJlZj0iaHR0cDovL2RvY3Mub3BlbnN0YWNrLm9yZy9kZXZlbG9wZXIvc3dpZnQvIj5Td2lmdDwvYT4gYW5kIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9yZWRiby9jbG91ZGZ1c2UiPkNsb3VkRnVzZTwvYT4uCkhlcmUgeW91IGFyZSB0aGUgaW5zdHJ1Y3Rpb24gdG8gZ2V0IGl0IHdvcmtpbmcgb24gQ2VudG9zNi48L3A+ClRvIHNpbXBsaWZ5IHRoZSB1c2FnZSBvZiBzd2lmdCwgeW91IGNhbiB1c2UgYSBQSFAgc3dpZnQgcHJveHkgdG8geW91ciBodWJpYyBhY2NvdW50Lgo8cHJlPjxjb2RlPiA8Y29kZT5naXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1Rvb3JvcC9IdWJpY1N3aWZ0R2F0ZXdheS5naXQKbXYgSHViaWNTd2lmdEdhdGV3YXkvc3JjL3d3dyAvdmFyL3d3dy9odG1sL2h1YmljCm1rZGlyIC92YXIvd3d3L2h0bWwvY2FjaGUKY2hvd24gYXBhY2hlOmFwYWNoZSAvdmFyL3d3dy9odG1sL2NhY2hlPC9jb2RlPjwvcHJlPgpIZXJlIHdlIGFyZSBzdXBwb3NpbmcgeW91ciBhcGFjaGUgcm9vdCBmb2xkZXIgaXPCoDxlbT4vdmFyL3d3dy9odG1sLjwvZW0+wqBBbmQgbmF0dXJhbGx5LCB0aGUgYXBhY2hlIHdpdGggcGhwNSBzaG91bGQgYWxyZWFkeSBiZSBpbnN0YWxsZWQgb24geW91ciBzeXN0ZW0uPGVtPsKgPC9lbT4KCk5vdyB5b3UgY2FuIGluc3RhbGwgdGhlIGNsb3VkZnVzZSBwcm9qZWN0LiBGb3IgQ2VudG9zNiBJIGNyZWF0ZWQgdGhlIFJQTSB0byBzaW1wbGlmeSB5b3VyIHdvcmssIGJ1dCBpZiB5b3UgcHJlZmVyIHlvdSBjYW4gZG93bmxvYWQgdGhlIHNvdXJjZXMgZnJvbSBnaXRodWIgYW5kIGZvbGxvdyB0aGUgaW5zdHJ1Y3Rpb25zIG9uIHRoZSBSRUFETUUgdG8gYnVpbGQgaXQuClRoZSBSUE1zIGFyZSBsb2NhdGVkIG9uIG15IHJlcG86wqA8YSBocmVmPSJodHRwOi8vcmVwby5tb3JuYXRpLm5ldC9leHRyYXMvIj5odHRwOi8vcmVwby5tb3JuYXRpLm5ldC9leHRyYXMvCjwvYT5Zb3UgY2FuIGNvbmZpZ3VyZSBpdCBhcyB5dW0gcmVwb3NpdG9yeSBmb3IgeW91ciBjZW50b3Mgc2VydmVyIHVzaW5nOgo8cHJlPjxjb2RlPiA8Y29kZT5lY2hvICZndDsgL2V0Yy95dW0ucmVwb3MuZC9tb3JuYXRpLWV4dHJhcy5yZXBvICZsdDsmbHQ7IEVPRgpbbW9ybmF0aS1leHRyYXNdCm5hbWU9TW9ybmF0aU5ldC1FeHRyYXMKYmFzZXVybD1odHRwOi8vcmVwby5tb3JuYXRpLm5ldC9leHRyYXMvY2VudG9zLyRyZWxlYXNldmVyLyRiYXNlYXJjaC8KZ3BnY2hlY2s9MAplbmFsYmVkPTEKRU9GPC9jb2RlPjwvcHJlPgpBbmQgaW5zdGFsbCB0aGVuIGNsb3VkZnVzZSB1c2luZyB5dW0KPHByZT48Y29kZT4gPGNvZGU+eXVtIC15IGluc3RhbGwgY2xvdWRmdXNlPC9jb2RlPjwvcHJlPgpUbyBhbGxvdyBhIG5vcm1hbCB1c2VyIHRvIG1vdW50IHRoZSBodWJpYyBkcml2ZXIgdXNpbmcgY291bGQgZnVzZSwgbXVzdCBiZSBpbiB0aGXCoDxlbT5mdXNlPC9lbT4gZ3JvdXAsIGFuZCB0aGUgbW91bnQgcG9pbnQgc2hvdWxkIGJlIG93bmVkIGJ5IHRoZSBmdXNlIGdyb3VwLgo8cHJlPjxjb2RlPiA8Y29kZT51c2VybW9kIC1hRyBmdXNlIG1tb3JuYXRpCmNoZ3JwIGZ1c2UgL21udC9odWJpYzsgY2htb2QgZyt3IC9tbnQvaHViaWMKY2hncnAgZnVzZSAvbW50L2h1YmljOyBjaG1vZCBnK3cgL21udC9jdWJpYzwvY29kZT48L3ByZT4KQmVmb3JlIHlvdSBjYW4gbW91bnQgeW91ciBodWJpYyBkcml2ZSwgeW91IG5lZWQgdG8gY29uZmlndXJlIHlvdXIgYWNjb3VudCBkYXRhIGluIGEgZmlsZSBuYW1lZMKgPHN0cm9uZz4uY2xvdWRmdXNlPC9zdHJvbmc+IGluIHRoZSBob21lIGRpcmVjdG9yeSBvZiB0aGUgdXNlciB5b3Ugd2FudCB0byB1c2UgdG8gbW91bnQuCjxwcmU+PGNvZGU+IDxjb2RlPnVzZXJuYW1lPWh1YmljdW5hbWUKYXBpX2tleT1odWJpY3Bhc3N3b3JkCmF1dGh1cmw9aHR0cDovL2xvY2FsaG9zdC9odWJpYy8KY2FjaGVfdGltZW91dD0yMDwvY29kZT48L3ByZT4KV2hlcmUsIGF1dGh1cmwgaXMgdGhlIHVybCB0byB5b3VyIFN3aWZ0IEhUVFAgcHJveHkuIFNPLCBpbiBteSBleGFtcGxlLCB0aGUgcHJveHkgd2FzIGluc3RhbGxlZCBvbiB0aGUgc2FtZSBzeXN0ZW0gd2hlcmUgSSB3YW50IHRvIG1vdW50IHRoZSBIdWJpYyBkcml2ZSB0b28uCgpOb3cgeW91IGFyZSByZWFkeSB0byBtb3VudCB5b3VyIGh1YmljIGRyaXZlciBvbiB5b3VyIHN5c3RlbToKPHByZT48Y29kZT4gPGNvZGU+L3Vzci9sb2NhbC9iaW4vY2xvdWRmdXNlIC9tbnQvaHViaWMvIC1vIG5vYXV0b19jYWNoZSxzeW5jX3JlYWQ8L2NvZGU+PC9wcmU+CklmIGFsbCB3b3JrZWQgd2VsbCB5b3Ugc2hvdWxkIGJlIGFibGUgdG8gbGlzdCB5b3VyIEh1YmljIGZpbGVzCjxwcmU+PGNvZGU+IDxjb2RlPm1tb3JuYXRpQGRlc2t0b3AgfiQgbHMgL21udC9odWJpYy9kZWZhdWx0CkJhY2t1cCAgRG9jdW1lbnRzICBJbWFnZXMgIFZpZGVvczwvY29kZT48L3ByZT4=
+# Mount Hubic cloud disk on your local Linux
+
+<a href="https://hubic.com/it/">Hubic</a> is the french Dropbox clone, created by OVH, offering 25Gb storage for free. When it sorted out there weren't many clients for the different operating systems but there was an useful (undocumented) fonction: the webdav. Using webdav you could mount your Hubic drive on any system to copy your files.
+Some weeks ago, when the latest OS client (the linux one) come out, OVH decided to remove the webdav access... but unfortunately the client at the moment has some bugs and is not so easy-to-use like "copy e file into a folder".
+<p style="text-align: left;">Fortunately you can get back your "local cubic folder" using <a href="http://docs.openstack.org/developer/swift/">Swift</a> and <a href="https://github.com/redbo/cloudfuse">CloudFuse</a>.
+Here you are the instruction to get it working on Centos6.</p>
+To simplify the usage of swift, you can use a PHP swift proxy to your hubic account.
+<pre><code> <code>git clone https://github.com/Toorop/HubicSwiftGateway.git
+mv HubicSwiftGateway/src/www /var/www/html/hubic
+mkdir /var/www/html/cache
+chown apache:apache /var/www/html/cache</code></pre>
+Here we are supposing your apache root folder is <em>/var/www/html.</em> And naturally, the apache with php5 should already be installed on your system.<em> </em>
+
+Now you can install the cloudfuse project. For Centos6 I created the RPM to simplify your work, but if you prefer you can download the sources from github and follow the instructions on the README to build it.
+The RPMs are located on my repo: <a href="http://repo.mornati.net/extras/">http://repo.mornati.net/extras/
+</a>You can configure it as yum repository for your centos server using:
+<pre><code> <code>echo &gt; /etc/yum.repos.d/mornati-extras.repo &lt;&lt; EOF
+[mornati-extras]
+name=MornatiNet-Extras
+baseurl=http://repo.mornati.net/extras/centos/$releasever/$basearch/
+gpgcheck=0
+enalbed=1
+EOF</code></pre>
+And install then cloudfuse using yum
+<pre><code> <code>yum -y install cloudfuse</code></pre>
+To allow a normal user to mount the hubic driver using could fuse, must be in the <em>fuse</em> group, and the mount point should be owned by the fuse group.
+<pre><code> <code>usermod -aG fuse mmornati
+chgrp fuse /mnt/hubic; chmod g+w /mnt/hubic
+chgrp fuse /mnt/hubic; chmod g+w /mnt/cubic</code></pre>
+Before you can mount your hubic drive, you need to configure your account data in a file named <strong>.cloudfuse</strong> in the home directory of the user you want to use to mount.
+<pre><code> <code>username=hubicuname
+api_key=hubicpassword
+authurl=http://localhost/hubic/
+cache_timeout=20</code></pre>
+Where, authurl is the url to your Swift HTTP proxy. SO, in my example, the proxy was installed on the same system where I want to mount the Hubic drive too.
+
+Now you are ready to mount your hubic driver on your system:
+<pre><code> <code>/usr/local/bin/cloudfuse /mnt/hubic/ -o noauto_cache,sync_read</code></pre>
+If all worked well you should be able to list your Hubic files
+<pre><code> <code>mmornati@desktop ~$ ls /mnt/hubic/default
+Backup  Documents  Images  Videos</code></pre>
