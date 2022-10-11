@@ -1,1 +1,17 @@
-IyMgQWRkIG5ldyBtYWNoaW5lIHRvIEhlcm9rdSBwcm9qZWN0CgpJZiwgbGlrZSBtZSwgeW91IHVzZWQgdG8gd29yayBvbiBtYW55IGNvbXB1dGVycywgeW91IHNob3VsZCByZWNvbmZpZ3VyZSBhbnl0aGluZyB0byBhbGxvdyBhbGwgeW91ciBtYWNoaW5lcy4gVG9kYXkgSSB3YXMgc3R1Y2tlZCBvbiBoZXJva3UgcmVwb3NpdG9yeSBjbG9uZSAocHJvYmxlbSB3aXRoIHNzaCBrZXkgb24gbXkgd29yayBsYXB0b3ApLgoKVG8gYWRkIG5ldyBtYWNoaW5lIHRvIHlvdXIgaGVyb2t1IGFjY291bnQgKGFmdGVyIGhlcm9rdSBwYWNrYWdlIGluc3RhbGxhdGlvbiwgdXNpbmcgZ2VtIGZvciBleGFtcGxlKSwgeW91IHNob3VsZCBqdXN0IHVzZQo8cHJlPjxjb2RlPiBtbW9ybmF0aUBub3RlYm9vayBwcm9qZWN0cyQgaGVyb2t1IGtleXM6YWRkCgpGb3VuZCBleGlzdGluZyBwdWJsaWMga2V5OiAvaG9tZS9tbW9ybmF0aS8uc3NoL2lkX3JzYS5wdWIKVXBsb2FkaW5nIFNTSCBwdWJsaWMga2V5IC9ob21lL21tb3JuYXRpLy5zc2gvaWRfcnNhLnB1YjwvY29kZT48L3ByZT4KQW5kLCBpZiBldmVyeXRoaW5nIHdvcmtlZCB3ZWxsLCB5b3Ugc2hvdWxkIGhhdmUgYWNjZXNzIHRvIHlvdXIgcmVwb3NpdG9yeToKPHByZT48Y29kZT4gbW1vcm5hdGlAbm90ZWJvb2sgcHJvamVjdHMkIGdpdCBjbG9uZSBnaXRAaGVyb2t1LmNvbTptbW9ybmF0aWJvdC5naXQKQ2xvbmluZyBpbnRvICdtbW9ybmF0aWJvdCcuLi4KcmVtb3RlOiBDb3VudGluZyBvYmplY3RzOiAyMjYsIGRvbmUuCnJlbW90ZTogQ29tcHJlc3Npbmcgb2JqZWN0czogMTAwJSAoMjE5LzIxOSksIGRvbmUuCnJlbW90ZTogVG90YWwgMjI2IChkZWx0YSA0MSksIHJldXNlZCAxNDEgKGRlbHRhIDIpClJlY2VpdmluZyBvYmplY3RzOiAxMDAlICgyMjYvMjI2KSwgOTUuMjggS2lCIHwgNTAgS2lCL3MsIGRvbmUuClJlc29sdmluZyBkZWx0YXM6IDEwMCUgKDQxLzQxKSwgZG9uZS48L2NvZGU+PC9wcmU+
+# Add new machine to Heroku project
+
+If, like me, you used to work on many computers, you should reconfigure anything to allow all your machines. Today I was stucked on heroku repository clone (problem with ssh key on my work laptop).
+
+To add new machine to your heroku account (after heroku package installation, using gem for example), you should just use
+<pre><code> mmornati@notebook projects$ heroku keys:add
+
+Found existing public key: /home/mmornati/.ssh/id_rsa.pub
+Uploading SSH public key /home/mmornati/.ssh/id_rsa.pub</code></pre>
+And, if everything worked well, you should have access to your repository:
+<pre><code> mmornati@notebook projects$ git clone git@heroku.com:mmornatibot.git
+Cloning into 'mmornatibot'...
+remote: Counting objects: 226, done.
+remote: Compressing objects: 100% (219/219), done.
+remote: Total 226 (delta 41), reused 141 (delta 2)
+Receiving objects: 100% (226/226), 95.28 KiB | 50 KiB/s, done.
+Resolving deltas: 100% (41/41), done.</code></pre>
