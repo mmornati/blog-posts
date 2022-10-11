@@ -1,1 +1,28 @@
-IyMgQnVpbGQgUlBNcyBmb3IgYSBHaXQgKEdpdGh1YikgcHJvamVjdCB3aXRoIEplbmtpbnMKCjxhIGhyZWY9Imh0dHA6Ly9ibG9nLm1vcm5hdGkubmV0LzIwMTEvMDkvMTQvYnVpbGQtcnBtcy11c2luZy1qZW5raW5zaHVkc29uLyI+SGVyZTwvYT4gd2Ugc2hvdyBhIHdheSB0byBidWlsZCBSUE1zIHdpdGggSmVua2lucyB1c2luZyBhIE1ha2VmaWxlLiBOb3cgd2Ugd2lsbCBzaG93IGEgSmVua2lucyBiYXNlZCBidWlsZCAod2l0aG91dCBjcmVhdGUgTWFrZWZsZSkuCgpTbywgeW91IGNhbiBkaXJlY3RseSBjcmVhdGUgYSBuZXcgSm9iIGluIHlvdXIgSmVua2lucyB1c2luZyB0aGUgKipGcmVlIFN0eWxlKirCoGNyZWF0aW9uIG1ldGhvZCBhbmQgYWRkaW5nIGEgKipzaGVsbCoqwqBidWlsZCBzdGVwLiBJbnNpZGUgdGhlIHRleHQgYXJlYSB5b3UgY2FuIHB1dCBzb21ldGhpbmcgbGlrZSB0aGlzOgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+dGVzdHJlbD0kKC91c3IvYmluL2dpdCBkaWZmIEhFQUR+MSB8IGF3ayAnL1tcdCBdKlwrW1x0IF0qUmVsZWFzZS8gewpwcmludCAiTkVXUkVMIjsgZXhpdCAwIH0nKQppZiBbICIkdGVzdHJlbCIgIT0gIk5FV1JFTCIgXTsgdGhlbgogICAgZWNobyAiVGhlcmUgaXMgbm8gbmV3IHJlbGVhc2UgaW4gdGhlIHJwbSBzcGVjIGZpbGVzIC0gZG8gbm90IHJlYnVpbGQuIgogICAgZXhpdCAwCmZpCnJtIC1yZiBycG1idWlsZCAke0pPQl9OQU1FfS50YXIuZ3oKbWtkaXIgLXAgcnBtYnVpbGQve0JVSUxELFJQTVMsU09VUkNFUy8ke0pPQl9OQU1FfSxTUEVDUyxTUlBNU30KdGFyIC0tZXhjbHVkZS12Y3MgLS1leGNsdWRlPSdycG1idWlsZCcgLWNwICogfCAoY2QKcnBtYnVpbGQvU09VUkNFUy8ke0pPQl9OQU1FfSA7IHRhciB4cCkKY2QgJHtXT1JLU1BBQ0V9L3JwbWJ1aWxkL1NPVVJDRVMKdGFyIC1jdnpmICR7Sk9CX05BTUV9LnRhci5neiAke0pPQl9OQU1FfQpjZCAke1dPUktTUEFDRX0KY3AgbWlzYy9zcGVjcy8qLnNwZWMgcnBtYnVpbGQvU1BFQ1MvCnNlZCAtaSAicy9eW1x0IF0qU291cmNlMDouKi9Tb3VyY2UwOiAke0pPQl9OQU1FfS50YXIuZ3ovZyIgcnBtYnVpbGQvU1BFQ1MvKi5zcGVjCnNlZCAtaSAicy9eW1x0IF0qJXNldHVwW1x0IF1cKy1uW1x0IF1cKy4qLyVzZXR1cCAtbiAke0pPQl9OQU1FfS9nIgpycG1idWlsZC9TUEVDUy8qLnNwZWMKcnBtYnVpbGQgLS1kZWZpbmUgIl90b3BkaXIgJShwd2QpL3JwbWJ1aWxkIiAtYmEgcnBtYnVpbGQvU1BFQ1MvKi5zcGVjPC9jb2RlPjwvcHJlPgpUaGUgZmlyc3QgbGluZSBvZiB0aGUgc2NyaXB0IGNoZWNrcyBmb3IgZ2l0IGxvZyB0byBmaW5kIGlmICpSZWxlYXNlKsKgaXMgY2hhbmdlZCBpbnNpZGUgdGhlIHNwZWMgZmlsZSAodGhhdCBzaG91bGQgYmUgbmF0dXJhbGx5IGNvbW1pdHRlZCBhcyByZXNvdXJjZXMgb2YgeW91ciBwcm9qZWN0KTsgdGhlIHByb2plY3Qgd2lsbCBiZSBidWlsdCBvbmx5IGlmIHlvdSBtb2RpZmllZCB0aGUgUmVsZWFzZSBpbnNpZGUgdGhlIHNwZWMhCgpBZnRlciB0aGF0IHRoZSBvcGVyYXRpb24gaXMgbGlrZSB0aGUgb25lIHByb3Bvc2VkIGluIHRoZSBNYWtlZmlsZTogY3JlYXRpb24gb2YgdGFyLmd6IHNvdXJjZSBhcmNoaXZlLCBjcmVhdGlvbiBvZiBycG0tYnVpbGQgZGlyZWN0b3JpZXMsIGJ1aWxkIHJwbS4KClNvLCB5b3UgY2FuIGNob29zZSB0byBwdXQgeW91ciBidWlsZCBjb2RlIGNvbXBsZXRlbHkgaW5zaWRlIEplbmtpbnMgb3IgY3JlYXRlIGEgTWFrZWZpbGUgYW5kIGxpbmsgeW91ciBidWlsZCBwcm9jZXNzIHdpdGggeW91ciBwcm9qZWN0IChjaGFuZ2VzIGluIHByb2plY3QgdGhhdCByZXF1aXJlcyBidWlsZCBwcm9jZXNzIGNoYW5nZXMgd29uJ3QgaW1wYWN0IEplbmtpbnMgY29uZmlndXJhdGlvbi4=
+# Build RPMs for a Git (Github) project with Jenkins
+
+<a href="http://blog.mornati.net/2011/09/14/build-rpms-using-jenkinshudson/">Here</a> we show a way to build RPMs with Jenkins using a Makefile. Now we will show a Jenkins based build (without create Makefle).
+
+So, you can directly create a new Job in your Jenkins using the **Free Style** creation method and adding a **shell** build step. Inside the text area you can put something like this:
+<pre class="language-bash"><code class="language-bash">testrel=$(/usr/bin/git diff HEAD~1 | awk '/[\t ]*\+[\t ]*Release/ {
+print "NEWREL"; exit 0 }')
+if [ "$testrel" != "NEWREL" ]; then
+    echo "There is no new release in the rpm spec files - do not rebuild."
+    exit 0
+fi
+rm -rf rpmbuild ${JOB_NAME}.tar.gz
+mkdir -p rpmbuild/{BUILD,RPMS,SOURCES/${JOB_NAME},SPECS,SRPMS}
+tar --exclude-vcs --exclude='rpmbuild' -cp * | (cd
+rpmbuild/SOURCES/${JOB_NAME} ; tar xp)
+cd ${WORKSPACE}/rpmbuild/SOURCES
+tar -cvzf ${JOB_NAME}.tar.gz ${JOB_NAME}
+cd ${WORKSPACE}
+cp misc/specs/*.spec rpmbuild/SPECS/
+sed -i "s/^[\t ]*Source0:.*/Source0: ${JOB_NAME}.tar.gz/g" rpmbuild/SPECS/*.spec
+sed -i "s/^[\t ]*%setup[\t ]\+-n[\t ]\+.*/%setup -n ${JOB_NAME}/g"
+rpmbuild/SPECS/*.spec
+rpmbuild --define "_topdir %(pwd)/rpmbuild" -ba rpmbuild/SPECS/*.spec</code></pre>
+The first line of the script checks for git log to find if *Release* is changed inside the spec file (that should be naturally committed as resources of your project); the project will be built only if you modified the Release inside the spec!
+
+After that the operation is like the one proposed in the Makefile: creation of tar.gz source archive, creation of rpm-build directories, build rpm.
+
+So, you can choose to put your build code completely inside Jenkins or create a Makefile and link your build process with your project (changes in project that requires build process changes won't impact Jenkins configuration.
