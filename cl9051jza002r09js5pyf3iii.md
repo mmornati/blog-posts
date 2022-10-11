@@ -1,1 +1,91 @@
-IyMgQ2VudE9TIDYgYXMgQXBwbGUgVGltZU1hY2hpbmUgQmFja3VwCgpUaW1lQ2Fwc3VsZSBpcyB0aGUgQXBwbGUgKGNsb3NlZCkgYmFja3VwIHN5c3RlbS4gQnV0Li4uIGV2ZW4gaWYgY2xvc2VkLCB5b3UgY2FuIGNvbmZpZ3VyZSBhIGxpbnV4IHNlcnZlciB0byBiZSB5b3VyIFRpbWVNYWNoaW5lIG5ldHdvcmsgZGlzaywgbGlrZSBUaW1lQ2Fwc3VsZSBkb2VzLgoKRmlyc3Qgb2YgYWxsIHlvdSBuZWVkIGEgbGludXggc3lzdGVtIGFuZCwgdG8gZm9sbG93IHRoaXMgc3RlcC1ieS1zdGVwIGd1aWRlLCB5b3UgbmVlZCBhIENlbnRPUyA2LlggbGludXguCgojIyMjIEluc3RhbGxhdGlvbgpDb25maWd1cmUgRVBFTCByZXBvc2l0b3J5LCBpZiB5b3VyIHN5c3RlbSBpcyBub3QgeWV0IGNvbmZpZ3VyZWQgd2l0aCBpdDoKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9Im1hcmNvIiBkYXRhLWhvc3Q9ImNlbnRvcyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPnN1ZG8gcnBtIC1VdmggaHR0cDovL3d3dy5taXJyb3JzZXJ2aWNlLm9yZy9zaXRlcy9kbC5mZWRvcmFwcm9qZWN0Lm9yZy9wdWIvZXBlbC82L2kzODYvZXBlbC1yZWxlYXNlLTYtOC5ub2FyY2gucnBtCjwvY29kZT48L3ByZT4KClRoZW4gaW5zdGFsbCBhbGwgdGhlIG5lY2Vzc2FyeSBzZXJ2aWNlczoKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9Im1hcmNvIiBkYXRhLWhvc3Q9ImNlbnRvcyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPnN1ZG8geXVtIGNsZWFuIGFsbApzdWRvIHl1bSBtYWtlIGNhY2hlCnN1ZG8geXVtIC15IGluc3RhbGwgbmV0YXRhbGsgYXZhaGkgIGRidXMgbnNzLW1kbnMgPC9jb2RlPjwvcHJlPgoKIyMjI0NvbmZpZ3VyYXRpb24KQ29uZmlndXJlIG5ldGF0YWxrIHNlcnZpY2UgZWRpdGluZyB0aGUgKi9ldGMvbmV0YXRhbGsvYWZwZC5jb25mKiBmaWxlIGFuZCBhZGRpbmcgdGhlIGZvbGxvd2luZyBsaW5lIGF0IHRoZSBlbmQgb2YgdGhlIGZpbGU6Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+LSAtdHJhbnNhbGwgLXVhbWxpc3QgdWFtc19yYW5kbnVtLnNvLHVhbXNfZGh4LnNvLHVhbXNfZGh4Mi5zbyAtbm9zYXZlcGFzc3dvcmQgLWFkdmVydGlzZV9zc2g8L2NvZGU+PC9wcmU+CgpDcmVhdGUgZm9sZGVyIHRvIHVzZSBmb3IgVGltZU1hY2hpbmUgYmFja3VwczoKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9Im1hcmNvIiBkYXRhLWhvc3Q9ImNlbnRvcyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPm1rZGlyIC1wIC9tbnQvZGF0YS9UaW1lTWFjaGluZQpjaG93biB5b3VydXNlcjp5b3VydXNlciAvbW50L2RhdGEvVGltZU1hY2hpbmU8L2NvZGU+PC9wcmU+CgpXaGVyZSAqeW91cnVzZXIqIGlzIGEgbGludXggbG9jYWwgdXNlciB0aGF0IGNhbiBjb25uZWN0IHRvIHRoZSBzeXN0ZW0gKHdpdGggYSBwYXNzd29yZCkgYW5kIHRoZSBvbmUgeW91IHdhbnQgdG8gYWxsb3cgdG8gdXNlIFRpbWVNYWNoaW5lIGJhY2t1cC4KClRoZW4gZWRpdCB0aGUgbmV0YXRhbGsgQXBwbGVWb2x1bWVzIGZpbGUgKCovZXRjL25ldGF0YWxrL0FwcGxlVm9sdW1lcy5kZWZhdWx0KikgYW5kIGFkZCB0aGUgZm9sZGVyIHlvdSB3YW50IHRvIHVzZSBmb3IgeW91ciBiYWNrdXBzOgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPi9tbnQvZGF0YS9UaW1lTWFjaGluZSBhbGxvdzo8Yj55b3VydXNlcjwvYj4gb3B0aW9uczp1c2Vkb3RzLHVwcml2LHRtIGRwZXJtOjA3NzUgZnBlcm06MDY2MCBjbmlkc2NoZW1lOmRiZDwvY29kZT48L3ByZT4KCllvdSBqdXN0IG5lZWQgdG8gY2hhbmdlICp5b3VydXNlciogd2l0aCB0aGUgcHJldmlvdXNseSBzZWxlY3RlZCB1c2VyLgoKTmV4dCBjb25maWd1cmUgdGhlIG5zc3dpdGNoIHNlcnZpY2UgaW50byB0aGUgZmlsZSAqL2V0Yy9uc3N3aXRjaC5jb25mKiBhbmQgYWRkIHRoZSBmb2xsb3dpbmcgbGluZSBhdCB0aGUgZW5kOgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPmhvc3RzOiAgICAgIGZpbGVzIG1kbnM0X21pbmltYWwgZG5zIG1kbnMgbWRuczQ8L2NvZGU+PC9wcmU+CgpJbiBBdmFoaSwgY29uZmlndXJlIHRoZSBhZnBkIHNlcnZpY2UgdG8gYmUgYnJvZGNhc3RlZCBvbiB0aGUgbmV0d29yayB2aWEgdGhlIGF2YWhpIGRhZW1vbi4gQ3JlYXRlIHRoZSBmaWxlICovZXRjL2F2YWhpL3NlcnZpY2VzL2FmcGQuc2VydmljZSogd2l0aCB0aGUgZm9sbG93aW5nIGNvbnRlbnQ6Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS14bWwiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS14bWwiPiZsdDs/eG1sIHZlcnNpb2494oCdMS4w4oCzIHN0YW5kYWxvbmU94oCZbm/igJk/Jmd0OwombHQ7IURPQ1RZUEUgc2VydmljZS1ncm91cCBTWVNURU0g4oCcYXZhaGktc2VydmljZS5kdGTigJ0mZ3Q7CiZsdDtzZXJ2aWNlLWdyb3VwJmd0OwombHQ7bmFtZSByZXBsYWNlLXdpbGRjYXJkcz3igJ15ZXPigJ0+JWgmbHQ7L25hbWUmZ3Q7CiZsdDtzZXJ2aWNlJmd0OwombHQ7dHlwZT5fYWZwb3ZlcnRjcC5fdGNwJmx0Oy90eXBlJmd0OwombHQ7cG9ydD41NDgmbHQ7L3BvcnQmZ3Q7CiZsdDsvc2VydmljZSZndDsKJmx0O3NlcnZpY2UmZ3Q7CiZsdDt0eXBlPl9kZXZpY2UtaW5mby5fdGNwJmx0Oy90eXBlJmd0OwombHQ7cG9ydD4wJmx0Oy9wb3J0Jmd0OwombHQ7dHh0LXJlY29yZD5tb2RlbD1UaW1lQ2Fwc3VsZSZsdDsvdHh0LXJlY29yZCZndDsKJmx0Oy9zZXJ2aWNlJmd0OwombHQ7L3NlcnZpY2UtZ3JvdXAmZ3Q7PC9jb2RlPjwvcHJlPgoKRGlzYWJsZSB0aGUgU1NIIHNlcnZpY2UgZnJvbSBhdmFoaToKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9Im1hcmNvIiBkYXRhLWhvc3Q9ImNlbnRvcyI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWJhc2giPm12IC9ldGMvYXZhaGkvc2VydmljZXMvc3NoLnNlcnZpY2UgL2V0Yy9hdmFoaS9zZXJ2aWNlcy9zc2guc2VydmljZS5kaXNhYmxlZAo8L2NvZGU+PC9wcmU+CgpJZiB5b3UgaGF2ZSBpcHRhYmxlcyBlbmFibGVkIG9uIHlvdXIgc3lzdGVtLCB5b3UgbmVlZCB0byBvcGVuIHRoZSBwb3J0cyB1c2VkIGJ5IFRpbWVNYWNoaW5lLiBBZGQgdGhlc2UgbGluZXMgdG8geW91ciAqL2V0Yy9zeXNjb25maWcvaXB0YWJsZXMqIGZpbGU6Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+LUEgSU5QVVQgLXAgdGNwIC1tIHN0YXRlIC0tc3RhdGUgTkVXIC1tIHRjcCAtLWRwb3J0IDU0OCAtaiBBQ0NFUFQKLUEgSU5QVVQgLXAgdGNwIC1tIHN0YXRlIC0tc3RhdGUgTkVXIC1tIHRjcCAtLWRwb3J0IDUzNTMgLWogQUNDRVBUCi1BIElOUFVUIC1wIHRjcCAtbSBzdGF0ZSAtLXN0YXRlIE5FVyAtbSB0Y3AgLS1kcG9ydCA1MzU0IC1qIEFDQ0VQVAotQSBJTlBVVCAtcCB1ZHAgLW0gdWRwIC0tZHBvcnQgNTQ4IC1qIEFDQ0VQVAotQSBJTlBVVCAtcCB1ZHAgLW0gdWRwIC0tZHBvcnQgNTM1MyAtaiBBQ0NFUFQKLUEgSU5QVVQgLXAgdWRwIC1tIHVkcCAtLWRwb3J0IDUzNTQgLWogQUNDRVBUPC9jb2RlPjwvcHJlPgoKUmVsb2FkIHRoZSBpcHRhYmxlcyBjb25maWd1cmF0aW9uLCBvciByZXN0YXJ0IHRoZSBzZXJ2aWNlOgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCBjb21tYW5kLWxpbmUiIGRhdGEtdXNlcj0icm9vdCIgZGF0YS1ob3N0PSJjZW50b3MiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1iYXNoIj4vc2Jpbi9zZXJ2aWNlIGlwdGFibGVzIHJlc3RhcnQ8L2NvZGU+PC9wcmU+CgpFbnNhYmxlIGFuZCBzdGFydCBhbGwgc2VydmljZToKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWJhc2ggY29tbWFuZC1saW5lIiBkYXRhLXVzZXI9InJvb3QiIGRhdGEtaG9zdD0iY2VudG9zIj48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtYmFzaCI+L3NiaW4vY2hrY29uZmlnIG5ldGF0YWxrIG9uCi9zYmluL2Noa2NvbmZpZyBtZXNzYWdlYnVzIG9uCi9zYmluL2Noa2NvbmZpZyBhdmFoaS1kYWVtb24gb24KCi9zYmluL3NlcnZpY2UgYXZhaGktZGFlbW9uIHJlc3RhcnQKL3NiaW4vc2VydmljZSBtZXNzYWdlYnVzIHJlc3RhcnQKL3NiaW4vc2VydmljZSBuZXRhdGFsayByZXN0YXJ0PC9jb2RlPjwvcHJlPgoKR29pbmcgYmFjayB0byB5b3VyIE1hYyB0aGUgZGlzayBzaG91bGQgYmUgdmlzaWJsZSBpbiB5b3VyIFRpbWVNYWNoaW5lLiAKSWYgbm90IHRyeSB0byBjaGVjayBzZXJ2aWNlcyAoKi9zYmluL3NlcnZpY2UgeHh4IHN0YXR1cyopIGFuZCByZXN0YXJ0IHRoZW0uCgohW1RpbWVNYWNoaW5lXShodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTQxMzA2MTA4My95cmJlcW5uYjNvZTVidWZqdjlsMy5wbmcpCgpFbmpveSB5b3VyIG5ldyBPcGVuU291cmNlIChhbmQgbG93IGNvc3QhISkgVGltZUNhcHN1bGU=
+# CentOS 6 as Apple TimeMachine Backup
+
+TimeCapsule is the Apple (closed) backup system. But... even if closed, you can configure a linux server to be your TimeMachine network disk, like TimeCapsule does.
+
+First of all you need a linux system and, to follow this step-by-step guide, you need a CentOS 6.X linux.
+
+#### Installation
+Configure EPEL repository, if your system is not yet configured with it:
+
+<pre class="language-bash command-line" data-user="marco" data-host="centos"><code class="language-bash">sudo rpm -Uvh http://www.mirrorservice.org/sites/dl.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
+</code></pre>
+
+Then install all the necessary services:
+
+<pre class="language-bash command-line" data-user="marco" data-host="centos"><code class="language-bash">sudo yum clean all
+sudo yum make cache
+sudo yum -y install netatalk avahi  dbus nss-mdns </code></pre>
+
+####Configuration
+Configure netatalk service editing the */etc/netatalk/afpd.conf* file and adding the following line at the end of the file:
+
+<pre class="language-bash"><code class="language-bash">- -transall -uamlist uams_randnum.so,uams_dhx.so,uams_dhx2.so -nosavepassword -advertise_ssh</code></pre>
+
+Create folder to use for TimeMachine backups:
+
+<pre class="language-bash command-line" data-user="marco" data-host="centos"><code class="language-bash">mkdir -p /mnt/data/TimeMachine
+chown youruser:youruser /mnt/data/TimeMachine</code></pre>
+
+Where *youruser* is a linux local user that can connect to the system (with a password) and the one you want to allow to use TimeMachine backup.
+
+Then edit the netatalk AppleVolumes file (*/etc/netatalk/AppleVolumes.default*) and add the folder you want to use for your backups:
+
+<pre class="language-bash"><code class="language-bash">/mnt/data/TimeMachine allow:<b>youruser</b> options:usedots,upriv,tm dperm:0775 fperm:0660 cnidscheme:dbd</code></pre>
+
+You just need to change *youruser* with the previously selected user.
+
+Next configure the nsswitch service into the file */etc/nsswitch.conf* and add the following line at the end:
+
+<pre class="language-bash"><code class="language-bash">hosts:      files mdns4_minimal dns mdns mdns4</code></pre>
+
+In Avahi, configure the afpd service to be brodcasted on the network via the avahi daemon. Create the file */etc/avahi/services/afpd.service* with the following content:
+
+<pre class="language-xml"><code class="language-xml">&lt;?xml version=”1.0″ standalone=’no’?&gt;
+&lt;!DOCTYPE service-group SYSTEM “avahi-service.dtd”&gt;
+&lt;service-group&gt;
+&lt;name replace-wildcards=”yes”>%h&lt;/name&gt;
+&lt;service&gt;
+&lt;type>_afpovertcp._tcp&lt;/type&gt;
+&lt;port>548&lt;/port&gt;
+&lt;/service&gt;
+&lt;service&gt;
+&lt;type>_device-info._tcp&lt;/type&gt;
+&lt;port>0&lt;/port&gt;
+&lt;txt-record>model=TimeCapsule&lt;/txt-record&gt;
+&lt;/service&gt;
+&lt;/service-group&gt;</code></pre>
+
+Disable the SSH service from avahi:
+
+<pre class="language-bash command-line" data-user="marco" data-host="centos"><code class="language-bash">mv /etc/avahi/services/ssh.service /etc/avahi/services/ssh.service.disabled
+</code></pre>
+
+If you have iptables enabled on your system, you need to open the ports used by TimeMachine. Add these lines to your */etc/sysconfig/iptables* file:
+
+<pre class="language-bash"><code class="language-bash">-A INPUT -p tcp -m state --state NEW -m tcp --dport 548 -j ACCEPT
+-A INPUT -p tcp -m state --state NEW -m tcp --dport 5353 -j ACCEPT
+-A INPUT -p tcp -m state --state NEW -m tcp --dport 5354 -j ACCEPT
+-A INPUT -p udp -m udp --dport 548 -j ACCEPT
+-A INPUT -p udp -m udp --dport 5353 -j ACCEPT
+-A INPUT -p udp -m udp --dport 5354 -j ACCEPT</code></pre>
+
+Reload the iptables configuration, or restart the service:
+
+<pre class="language-bash command-line" data-user="root" data-host="centos"><code class="language-bash">/sbin/service iptables restart</code></pre>
+
+Ensable and start all service:
+
+<pre class="language-bash command-line" data-user="root" data-host="centos"><code class="language-bash">/sbin/chkconfig netatalk on
+/sbin/chkconfig messagebus on
+/sbin/chkconfig avahi-daemon on
+
+/sbin/service avahi-daemon restart
+/sbin/service messagebus restart
+/sbin/service netatalk restart</code></pre>
+
+Going back to your Mac the disk should be visible in your TimeMachine. 
+If not try to check services (*/sbin/service xxx status*) and restart them.
+
+![TimeMachine](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413061083/yrbeqnnb3oe5bufjv9l3.png)
+
+Enjoy your new OpenSource (and low cost!!) TimeCapsule
