@@ -1,1 +1,52 @@
-IyMgT3B0aW1pemUgR2hvc3QgZm9yIFNFTyAtIEtleXdvcmRzCgpUaGUgdXNhZ2Ugb2YgbWV0YSAqa2V5d29yZHMqIGlzIHRvZGF5IG1heWJlIG5vdCB0b28gdXNlZnVsOiBHb29nbGUgc2F5cyB0aGF0IHJvYm90cyBkb2VzIG5vdCB0YWtlIGNhcmUgdG8gdGhpcyBtZXRhIGFueW1vcmUuCkJ1dCwgaW4gdGhlIFNFTyBydWxlcywgYW5kIGluIHRoZSBTRU8gV29yZHByZXNzIHBsdWdpbiB0b28sIHRoaXMgbWV0YSBpbmZvcm1hdGlvbiBpcyBhbHdheXMgc2V0LgoKSSBkZWNpZGVkIHRvIGFkZCBpdCBvbiBteSBibG9nLiBUaGlzIHVwZGF0ZSByZXF1aXJlcyBhIEdob3N0IGNvcmUgY2hhbmdlLgoKRWRpdCB0aGUgKipjb3JlL3NlcnZlci9oZWxwZXJzL2luZGV4LmpzKiogZmlsZSBhbmQgYWRkIHRoZSBmb2xsb3dpbmcgZnVuY3Rpb25zIChpdCBkb2VzIG5vdCBleGlzdCksIGFmdGVyIHRoZSAqbWV0YV9kZXNjcmlwdGlvbiogb25lOgoKPHByZSBjbGFzcz0ibGFuZ3VhZ2UtamF2YXNjcmlwdCI+PGNvZGUgY2xhc3M9Imxhbmd1YWdlLWphdmFzY3JpcHQiPmNvcmVIZWxwZXJzLm1ldGFfa2V5d29yZHMgPSBmdW5jdGlvbiAob3B0aW9ucykgewogICAgLypqc2xpbnQgdW5wYXJhbTp0cnVlKi8KICAgIHZhciBrZXl3b3JkcywKICAgICAgICBibG9nOwoKICAgIGlmIChfLmlzU3RyaW5nKHRoaXMucmVsYXRpdmVVcmwpKSB7CiAgICAgICAgaWYgKCF0aGlzLnJlbGF0aXZlVXJsIHx8IHRoaXMucmVsYXRpdmVVcmwgPT09ICcvJyB8fCB0aGlzLnJlbGF0aXZlVXJsID09PSAnJyB8fCB0aGlzLnJlbGF0aXZlVXJsLm1hdGNoKC9cL3BhZ2UvKSkgewogICAgICAgICAgICBibG9nID0gY29uZmlnLnRoZW1lKCk7CiAgICAgICAgICAgIGtleXdvcmRzID0gJyc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAga2V5d29yZHM9IiI7CiAgICAgICAgICAgIGlmICh0aGlzLnBvc3QgJiYgdGhpcy5wb3N0LnRhZ3MpIHsKICAgICAgICAgICAgICAgIHRoaXMucG9zdC50YWdzLmZvckVhY2goZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoIWtleXdvcmRzPT0iIikgewogICAgICAgICAgICAgICAgICAgICAgICBrZXl3b3Jkcys9IiwiOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBrZXl3b3Jkcys9dmFsdWUubmFtZTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQogICAgcmV0dXJuIGZpbHRlcnMuZG9GaWx0ZXIoJ21ldGFfa2V5d29yZHMnLCBrZXl3b3JkcykudGhlbihmdW5jdGlvbiAoa2V5d29yZHMpIHsKICAgICAgICBrZXl3b3JkcyA9IGtleXdvcmRzIHx8ICIiOwogICAgICAgIHJldHVybiBuZXcgaGJzLmhhbmRsZWJhcnMuU2FmZVN0cmluZyhrZXl3b3Jkcy50cmltKCkpOwogICAgfSk7Cn07PC9jb2RlPjwvcHJlPgoKVGhpcyBmdW5jdGlvbiwgd2hlbiB5b3UgYXJlIG9uIGEgcG9zdCBwYWdlLCB3aWxsIGNoZWNrIGZvciBwb3N0IHRhZ3MgYW5kIGNyZWF0ZSB0aGUgbWV0YSBrZXl3b3JkcyB3aXRoIHRoZW0uCgpJbiB0aGUgc2FtZSBmaWxlLCBhdCB0aGUgZW5kIGludG8gdGhlICoqcmVnaXN0ZXJIZWxwZXJzKiogZnVuY3Rpb24sIGFkZCB0aGUgZm9sbG93aW5nIGxpbmUgd2hlcmUgeW91IHdhbnQgKGZvciBleGFtcGxlIGFmdGVyIHRoZSAqbWV0YV90aXRsZSogbGluZSk6Cgo8cHJlIGNsYXNzPSJsYW5ndWFnZS1qYXZhc2NyaXB0Ij48Y29kZSBjbGFzcz0ibGFuZ3VhZ2UtamF2YXNjcmlwdCI+cmVnaXN0ZXJBc3luY1RoZW1lSGVscGVyKCdtZXRhX2tleXdvcmRzJywgY29yZUhlbHBlcnMubWV0YV9rZXl3b3Jkcyk7PC9jb2RlPjwvcHJlPgoKU2F2ZSB0aGUgZmlsZS4KCllvdSBqdXN0IG5lZWQgdG8gdXNlIG5vdyB5b3VyIGtleXdvcmRzIG1ldGEgaW50byB5b3VyIHRoZW1lLgpUTyBkbyB0aGlzLCBvcGVuIHRoZSAqKmRlZmF1bHQuaGJzKiogZmlsZSwgYW5kLCBhZnRlciB0aGUgKm1ldGFfZGVzY3JpcHRpb24qIGxpbmUsIGFkZDoKCjxwcmUgY2xhc3M9Imxhbmd1YWdlLWh0bWwiPjxjb2RlIGNsYXNzPSJsYW5ndWFnZS1odG1sIj4mbHQ7bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0ie3ttZXRhX2tleXdvcmRzfX0iIC8mZ3Q7PC9jb2RlPjwvcHJlPgoKU2F2ZSwgcmVzdGFydCB0aGUgTm9kZUpTIHNlcnZlciBhbmQgZW5qb3kgeW91ciBuZXcgU0VPIGZ1bmN0aW9uYWxpdHkuCgohW1NFTyBLZXl3b3Jkc10oaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjE0MTMwNjExMTAvdnA5eGFyZnVkMGF6cHNtZnhyZWwucG5nKQ==
+# Optimize Ghost for SEO - Keywords
+
+The usage of meta *keywords* is today maybe not too useful: Google says that robots does not take care to this meta anymore.
+But, in the SEO rules, and in the SEO Wordpress plugin too, this meta information is always set.
+
+I decided to add it on my blog. This update requires a Ghost core change.
+
+Edit the **core/server/helpers/index.js** file and add the following functions (it does not exist), after the *meta_description* one:
+
+<pre class="language-javascript"><code class="language-javascript">coreHelpers.meta_keywords = function (options) {
+    /*jslint unparam:true*/
+    var keywords,
+        blog;
+
+    if (_.isString(this.relativeUrl)) {
+        if (!this.relativeUrl || this.relativeUrl === '/' || this.relativeUrl === '' || this.relativeUrl.match(/\/page/)) {
+            blog = config.theme();
+            keywords = '';
+        } else {
+            keywords="";
+            if (this.post && this.post.tags) {
+                this.post.tags.forEach(function(value) {
+                    if (!keywords=="") {
+                        keywords+=",";
+                    }
+                    keywords+=value.name;
+                });
+            }
+        }
+    }
+    return filters.doFilter('meta_keywords', keywords).then(function (keywords) {
+        keywords = keywords || "";
+        return new hbs.handlebars.SafeString(keywords.trim());
+    });
+};</code></pre>
+
+This function, when you are on a post page, will check for post tags and create the meta keywords with them.
+
+In the same file, at the end into the **registerHelpers** function, add the following line where you want (for example after the *meta_title* line):
+
+<pre class="language-javascript"><code class="language-javascript">registerAsyncThemeHelper('meta_keywords', coreHelpers.meta_keywords);</code></pre>
+
+Save the file.
+
+You just need to use now your keywords meta into your theme.
+TO do this, open the **default.hbs** file, and, after the *meta_description* line, add:
+
+<pre class="language-html"><code class="language-html">&lt;meta name="keywords" content="{{meta_keywords}}" /&gt;</code></pre>
+
+Save, restart the NodeJS server and enjoy your new SEO functionality.
+
+![SEO Keywords](https://res.cloudinary.com/blog-mornati-net/image/upload/v1413061110/vp9xarfud0azpsmfxrel.png)
