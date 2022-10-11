@@ -1,1 +1,16 @@
-IyMgU2Ftc3VuZyBDbG91ZEFnZW50IGRpc2sgdXNhZ2UKCklmIHlvdSBoYXZlIGEgU2Ftc3VuZyBwaG9uZSBhbmQgeW91IGRvbid0IHVuZGVyc3RhbmQgd2hlcmUgeW91IGFyZSBsb29zaW5nIG1vc3Qgb2YgeW91ciBzcGFjZSwgeW91IGNhbiB0YWtlIGEgbG9vayB0byB0aGUgQ2xvdWRBZ2VudCBBcHBsaWNhdGlvbi4KClRoZSBDbG91ZEFnZW50IGFwcCBpcyB0aGUgb25lIGJlaGluZCB0aGUgQ2xvdWQgbWVudSBpbnNpZGUgdGhlIHNldHRpbmdzIG9uZQo8cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+wqA8YSBocmVmPSJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTM5MTY0MDk3OC9TY3JlZW5zaG90X05vcm1hckFwcEltYWdlX3h3ZHNvai5wbmciPjxpbWcgY2xhc3M9ImFsaWduY2VudGVyIHNpemUtdGh1bWJuYWlsIHdwLWltYWdlLTk1MSIgYWx0PSJTY3JlZW5zaG90X05vcm1hckFwcEltYWdlIiBzcmM9Imh0dHBzOi8vcmVzLmNsb3VkaW5hcnkuY29tL2Jsb2ctbW9ybmF0aS1uZXQvaW1hZ2UvdXBsb2FkL2NfY3JvcCxoXzIzMix3XzIzMix4XzgzLHlfMC9oXzE1MCx3XzE1MC92MTM5MTY0MDk3OC9TY3JlZW5zaG90X05vcm1hckFwcEltYWdlX3h3ZHNvai5wbmciIHdpZHRoPSIxNTAiIGhlaWdodD0iMTUwIiAvPjwvYT48L3A+CklmIHlvdSBsaW5rIHlvdXIgRHJvcEJveCBhY2NvdW50IHRvIHlvdXIgcGhvbmUgYW5kIHlvdSB1c2UgaXQgdG8gYXV0b21hdGljYWxseSB1cGxvYWQgdGFrZW4gcGhvdG9zIGFuZCB2aWRlb3MsIHRoZSBjbG91ZCBzZXR0aW5ncyBhcmUsIGJ5IGRlZmF1bHQsIGNvbmZpZ3VyZWQgdG8gbWFrZSBhIGxvY2FsIGJhY2t1cCBvZiBhbGwgY2FtZXJhIHVwbG9hZCBpbWFnZXMvdmlkZW9zLiBUaGF0IG1lYW5zLCBhZnRlciBhIHdoaWxlIHlvdXIgY2FjaGUgd2lsbCB0YWtlIGxvdCBvZiBzcGFjZSBvbiB5b3VyIHBob25lIChpbiB0aGUgY2xvdWRhZ2VudC9jYWNoZS9yb290LyBmb2xkZXIpLgoKWW91IGNhbiBjaGVjayBhbmQgZGlzYWJsZSB0aGlzIHNldHRpbmdzIGdvaW5nIGludG/CoDxzdHJvbmc+U2V0dGluZ3MgLSZndDsgQ2xvdWQ8L3N0cm9uZz4gbWVudSBhbmQgdGhlbiBzZWxlY3RpbmfCoDxzdHJvbmc+UGljdHVyZXM8L3N0cm9uZz4gYW5kwqA8c3Ryb25nPlZpZGVvc8KgPC9zdHJvbmc+IG1lbnVzIHRvIGNoZWNrIGlmIHRoZSBjYWNoZSBpcyBhY3RpdmF0ZWQgYW5kIHRvIGRpc2FibGUgaXQuCldoZW4geW91IGRpc2FibGUgaXQsIGFsbCBsb2NhbCAoY2FjaGVkKSBmaWxlcyBhcmUgYXV0b21hdGljYWxseSBkZWxldGVkIChidXQgRHJvcGJveCB1cGxvYWRlZCBwaG90b3MgYW5kIGxvY2FsIHRha2VuIHBob3RvcyBhcmUgbm90IGltcGFjdGVkISEpCgombmJzcDsKCiZuYnNwOwoKW2dhbGxlcnkgaWRzPSI5NDksOTQzLDk0NCw5NDUsOTQ2LDk0Nyw5NDgiXQ==
+# Samsung CloudAgent disk usage
+
+If you have a Samsung phone and you don't understand where you are loosing most of your space, you can take a look to the CloudAgent Application.
+
+The CloudAgent app is the one behind the Cloud menu inside the settings one
+<p style="text-align: center;"> <a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391640978/Screenshot_NormarAppImage_xwdsoj.png"><img class="aligncenter size-thumbnail wp-image-951" alt="Screenshot_NormarAppImage" src="https://res.cloudinary.com/blog-mornati-net/image/upload/c_crop,h_232,w_232,x_83,y_0/h_150,w_150/v1391640978/Screenshot_NormarAppImage_xwdsoj.png" width="150" height="150" /></a></p>
+If you link your DropBox account to your phone and you use it to automatically upload taken photos and videos, the cloud settings are, by default, configured to make a local backup of all camera upload images/videos. That means, after a while your cache will take lot of space on your phone (in the cloudagent/cache/root/ folder).
+
+You can check and disable this settings going into <strong>Settings -&gt; Cloud</strong> menu and then selecting <strong>Pictures</strong> and <strong>Videos </strong> menus to check if the cache is activated and to disable it.
+When you disable it, all local (cached) files are automatically deleted (but Dropbox uploaded photos and local taken photos are not impacted!!)
+
+&nbsp;
+
+&nbsp;
+
+[gallery ids="949,943,944,945,946,947,948"]
