@@ -1,1 +1,19 @@
-IyMgQ29ubmVjdG9yczogQXBwbGUgdnMgU3Vtc3VuZwoKT3IsIGluIG90aGVyIHdvcmRzLCAid2hlbiBzb21lb25lIHJlYWxseSBsb3ZlIEFwcGxlIGFuZCBiZWNhbWUgYmxpbmQiIQpSZWFkaW5nIHRoaXMgPGEgaHJlZj0iaHR0cDovL3d3dy5jdWx0b2ZtYWMuY29tLzE5MDc3OS9hcHBsZS12cy1zYW1zdW5nLWEtZGVjYWRlLW9mLXByb3ByaWV0YXJ5LWNvbm5lY3RvcnMtaHVtb3IvIiB0YXJnZXQ9Il9ibGFuayI+YXJ0aWNsZTwvYT7CoEkgbm90aWNlZCB0aGF0IHNvbWV0aW1lcyBwZW9wbGUgdGFsayB3aXRob3V0IGNvbm5lY3RpbmcgdGhlIGJyYWluLiBBcHBsZSBwcm9kdWNlIG9ubHkgMiBwcm9wcmlldGFyeSBwaG9uZSBjb25uZWN0b3JzIGluIHRoZSBsYXRlc3QgMTAgeWVhcnMsIGFuZCBTYW1zdW5nIGh1bmRyZWRzLgoKWWVzLCB0aGF0J3MgdHJ1ZSwgYnV0OiBob3cgbWFueSBwaG9uZXMgcHJvZHVjZWQgU2Ftc3VuZyBpbiAxMCB5ZWFycywgYW5kIGhvdyBtYW55IEFwcGxlPwoKWW91IGNhbiBjaGVjayBlYXNpbHkgbG9va2luZyB0aGVzZSBwYWdlczoKClNhbXN1bjogPGEgaHJlZj0iaHR0cDovL3d3dy5nc21hcmVuYS5jb20vc2Ftc3VuZy1waG9uZXMtOS5waHAiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vd3d3LmdzbWFyZW5hLmNvbS9zYW1zdW5nLXBob25lcy05LnBocDwvYT4KQXBwbGU6IERvIHlvdSByZWFsbHkgbmVlZCBhIHBhZ2UgdG8gY291bnQgdGhlIEFwcGxlIGlQaG9uZXM/CgpTbzoKU2Ftc3VuZyAxOCBhZGFwdGVycyBhbmQgODA5IHBob25lczrCoDxzdHJvbmc+MiwyMiU8L3N0cm9uZz4KQXBwbGUgMiBhZGFwdGVycyA3IHBob25lczogPHN0cm9uZz4yOCw1JTwvc3Ryb25nPgoKWWVzLCBBcHBsZSBjYW4gY2hhbmdlIGFkYXB0ZXIgYnV0IGl0J3Mgbm90IG5lY2Vzc2FyeSB0byB0YWxrIGFib3V0IGl0IGFzIHRoZSBldmVudCBvZiB0aGUgeWVhciBhbmQgYXR0YWNrIGFueW9uZSBzYXlpbmcgdGhhdCBBcHBsZSBjaGFuZ2VzIHRvIGEgcHJvcHJpZXRhcnkgY29ubmVjdG9yIGFuZCBub3QgdG8gYSBzdGFuZGFyZC4gVGhhdCdzIHRydWUhISBPdGhlciBjb21wYW5pZXMgYXJlIGNvbnZlcmdpbmcgdG8gdGhlIHNhbWUgY29ubmVjdG9yICh0aGUgbWljcm8gdXNiKSBBcHBsZSBwcmVmZXJzIHRoZSBwcm9wcmlldGFyeSBvbmUuIFlvdSBrbm93IEFwcGxlICh5ZXMgeW91IDxhIGhyZWY9Imh0dHA6Ly93d3cubWVsYWJsb2cuaXQvcG9zdC8zMjY5MS9sYWRhdHRhdG9yZS1saWdodG5pbmctbWljcm91c2ItZGlzcG9uaWJpbGUtc29sby1pbi11ZSIgdGFyZ2V0PSJfYmxhbmsiPmtub3c8L2E+ISEpIGluIEV1cm9wZSB5b3Ugc2hvdWxkIHVzZSB0aGUgc3RhbmRhcmQhCgombmJzcDs=
+# Connectors: Apple vs Sumsung
+
+Or, in other words, "when someone really love Apple and became blind"!
+Reading this <a href="http://www.cultofmac.com/190779/apple-vs-samsung-a-decade-of-proprietary-connectors-humor/" target="_blank">article</a> I noticed that sometimes people talk without connecting the brain. Apple produce only 2 proprietary phone connectors in the latest 10 years, and Samsung hundreds.
+
+Yes, that's true, but: how many phones produced Samsung in 10 years, and how many Apple?
+
+You can check easily looking these pages:
+
+Samsun: <a href="http://www.gsmarena.com/samsung-phones-9.php" target="_blank">http://www.gsmarena.com/samsung-phones-9.php</a>
+Apple: Do you really need a page to count the Apple iPhones?
+
+So:
+Samsung 18 adapters and 809 phones: <strong>2,22%</strong>
+Apple 2 adapters 7 phones: <strong>28,5%</strong>
+
+Yes, Apple can change adapter but it's not necessary to talk about it as the event of the year and attack anyone saying that Apple changes to a proprietary connector and not to a standard. That's true!! Other companies are converging to the same connector (the micro usb) Apple prefers the proprietary one. You know Apple (yes you <a href="http://www.melablog.it/post/32691/ladattatore-lightning-microusb-disponibile-solo-in-ue" target="_blank">know</a>!!) in Europe you should use the standard!
+
+&nbsp;
