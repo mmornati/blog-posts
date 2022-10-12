@@ -38,7 +38,10 @@ Fibaro is producing very good ZWave devices. I used one of them in the last 4 ye
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665515472659/axfvGjJsf.png?height=150 align="left")
 
-### Configuring the Notification
+**NOTE/WARNING**
+Just a thing to take in count when you chose your power plug, never mind the protocol you will use, is the max power the plug can provide (in Watt). If you link a high-consumer device which is requiring more than the max available from the plug, the plug itself will shutdown the device considering it has a problem. I had this for several weeks using the Fibaro ZWave plug on the washing machine, before understanding that it was not the good plug for what I wanted 😅
+
+## Configuring the Notification
 Once your washing machine's power consumption is monitored with a power plug you have everything you need to configure Home Assistant. 
 
 First of all, we need to create a `binary_sensor` we will use to detect if the device is working or not. All the plug we have just seen have a ON/OFF information, but this is saying you if the plug is allowing the device to work (giving the power) or not. Is not saying if it is really working.
