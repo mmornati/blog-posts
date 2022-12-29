@@ -1,4 +1,4 @@
-## PushBullet notifications for Kerberos.io
+# PushBullet notifications for Kerberos.io
 
 <span class="s"></span>
 
