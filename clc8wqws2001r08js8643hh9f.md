@@ -62,4 +62,19 @@ In this example, the automation is triggered by the `start` and `end` calendar e
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672307304630/fb589f8e-4852-4153-b381-d4357da3df13.png align="center")
 
-Create your calendar event, and then let the home automate 😎 As I have a separate calendar to control the automation, the holidays putting in this one can be different from the real holidays days. In the example with the water heater, I would like to start back all the automation the day before I come back home.
+Create your calendar event, and then let the home automate 😎  
+Once synchronized with Home Assistant, the `calendar.homeautomation` entity will give you the information about the first detected event:
+
+```yaml
+message: Holidays
+all_day: true
+start_time: '2023-02-11 00:00:00'
+end_time: '2023-02-18 00:00:00'
+location: ''
+description: ''
+offset_reached: false
+friendly_name: Homeautomation
+```
+
+  
+As I have a separate calendar to control the automation, the holidays putting in this one can be different from the real holidays days. In the example with the water heater, I would like to start back all the automation the day before I come back home.
