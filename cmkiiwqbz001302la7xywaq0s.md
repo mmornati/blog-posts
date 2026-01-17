@@ -265,17 +265,112 @@ RAG shines when:
 
 ---
 
+## MCP Gateway for Tool Consolidation
+
+Beyond RAG for code search, there's another token efficiency win: **tool consolidation**.
+
+### The Problem: Tool Definitions Are Expensive
+
+Every MCP tool you expose to an AI consumes tokens in the system prompt. Each tool definition includes:
+
+* Name and description (~20-50 tokens)
+    
+* Parameter schemas with types and descriptions (~50-150 tokens)
+    
+
+With multiple MCP servers, this adds up quickly:
+
+| Servers | Tools | Tokens in System Prompt |
+| --- | --- | --- |
+| GitHub only | 10 | 1,508 |
+| \+ Home Assistant | 18 | 2,278 |
+| \+ Filesystem | 26 | 2,892 |
+| \+ Database + Slack | 36 | **3,678** |
+
+And there's a hard limit: **VS Code and OpenAI cap tools at 128 per request**.
+
+### The Solution: Gateway Consolidation
+
+Instead of exposing all 36 tools directly, nexus-dev's gateway approach exposes just **3 meta-tools**:
+
+1. `search_tools` - Find tools by natural language description
+    
+2. `get_tool_schema` - Get full parameter details for a tool
+    
+3. `invoke_tool` - Execute any backend tool
+    
+
+### Benchmark Results
+
+| Metric | Direct Exposure | Gateway | Reduction |
+| --- | --- | --- | --- |
+| Tools in prompt | 36 | 3 | 33 fewer |
+| Tokens per request | 3,678 | 486 | **86.8%** |
+
+### The Trade-off
+
+The gateway isn't free: it requires an extra call to discover tools:
+
+```plaintext
+Traditional: [Request with 36 tools] → Response
+Gateway:     [Request with 3 tools] → search_tools → invoke_tool → Response
+```
+
+**When is the gateway worth it?**
+
+* ✅ More than ~10 tools across servers (break-even point)
+    
+* ✅ Tools you don't use every request
+    
+* ✅ Approaching the 128 tool limit
+    
+* ❌ Only 2-3 frequently-used tools (direct exposure is simpler)
+    
+
+### Run the Benchmark
+
+```bash
+python scripts/benchmark_gateway_tools.py --servers github,homeassistant,filesystem
+```
+
+## Impact Analysis
+
+### Per-Request Savings
+
+* **2,406 tokens saved** per request
+    
+* At $2.50/1M tokens (GPT-4o input): **$0.006015** per request
+    
+
+### Session Savings (100 requests/session)
+
+* Tokens saved: 240,600
+    
+* Cost saved: $0.6015
+    
+
+### Monthly Savings (1000 sessions × 100 requests)
+
+* Tokens saved: 240,600,000
+    
+* Cost saved: $601.50
+    
+
+---
+
 ## Key Takeaways
 
 1. **Token costs add up fast**: Reading files directly can consume 20x more tokens than needed
     
-2. **RAG reduces costs by 60–90%**: By returning only relevant chunks
+2. **RAG reduces context costs by 80%+**: By returning only relevant chunks
     
-3. **It's not just about cost**: RAG also improves relevance and reduces noise
+3. **Tool definitions are hidden costs**: 36 exposed tools = 3,678 tokens every request
     
-4. **Tools exist**: LiteLLM for measurement, Nexus-Dev for implementation
+4. **Gateway consolidation saves 86%**: 36 tools → 3 meta-tools = massive savings
     
-5. **Measure first**: Run benchmarks on your actual codebase before optimizing
+5. **Measure before optimizing**: Use the benchmark scripts on your actual setup
+    
+6. **There are trade-offs**: Gateway adds discovery calls, but saves on baseline
     
 
 ---
