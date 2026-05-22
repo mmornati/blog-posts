@@ -1,4 +1,12 @@
-# Home Assistant: control automation with Google Calendar
+---
+title: "Home Assistant: control automation with Google Calendar"
+datePublished: 2022-12-29T09:52:46.706Z
+cuid: clc8wqws2001r08js8643hh9f
+slug: home-assistant-control-automation-with-google-calendar
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1997f8578d4ef7883c5f0f5c7d9047ce.jpeg
+tags: automation, google-calendar, home-assistant
+
+---
 
 Automations in [Home Assistant](https://www.home-assistant.io/) are very powerful allowing us to control anything in our home and, in this way, help reduce cost and consumption.
 
