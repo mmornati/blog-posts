@@ -2,7 +2,7 @@
 title: "How RAG Can Cut Your AI Coding Costs by 80%"
 seoTitle: "Slash AI Coding Costs: How RAG Saves 80%"
 seoDescription: "Learn how Retrieval-Augmented Generation (RAG) dramatically reduces AI coding costs by efficiently managing token usage in large codebases"
-datePublished: Sat Jan 17 2026 16:30:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-17T16:30:08.207Z
 cuid: cmkiiwqbz001302la7xywaq0s
 slug: how-rag-can-cut-your-ai-coding-costs-by-80
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768667236766/0f778565-298c-49cc-b5ac-7435f5c0e4a3.jpeg
