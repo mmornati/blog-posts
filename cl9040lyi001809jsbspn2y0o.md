@@ -1,4 +1,10 @@
-# Script: How to backup Bluehost databases on your PCs
+---
+title: "Script: How to backup Bluehost databases on your PCs"
+datePublished: 2013-06-30T22:00:00.000Z
+cuid: cl9040lyi001809jsbspn2y0o
+slug: script-how-to-backup-bluehost-databases-on-your-pcs
+
+---
 
 If you are a backup maniac like me, you like to have multiple ways (and on different locations) to backup all your data.
 Even if on bluehost I've some other services making backups of my data, I've also created a script executed by my home computer every night to extract mysql databases to a local NAS.
