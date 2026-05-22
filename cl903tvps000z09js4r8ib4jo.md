@@ -1,4 +1,10 @@
-# Android talking with your Apple TV
+---
+title: "Android talking with your Apple TV"
+datePublished: 2013-01-14T23:00:00.000Z
+cuid: cl903tvps000z09js4r8ib4jo
+slug: android-talking-with-your-apple-tv
+
+---
 
 A thing I used on my iPhone was the streaming of my photo, video and music on my media server (for me wasn't an Apple TV but an XBMC on a RaspberryPi) using Airplay. So when I switched to Android I directly look to do the same. Naturally, knowing Android is an "open" system, it wasn't to difficult to find the way to do it.
 
