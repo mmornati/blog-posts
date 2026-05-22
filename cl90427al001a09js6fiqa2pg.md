@@ -1,4 +1,10 @@
-# Fiki: the file based Wiki
+---
+title: "Fiki: the file based Wiki"
+datePublished: 2013-09-09T22:00:00.000Z
+cuid: cl90427al001a09js6fiqa2pg
+slug: fiki-the-file-based-wiki
+
+---
 
 In the IT work we always need to keep and share information, but right now, any thing we tested for this was abandoned after some week of usage.
 The problem is normally we have to work on the technical stuffs, then write the customer documentation and, normally, during these processes we have to write important information on the internal wiki (how to connect to customer servers, common problems, ...).
