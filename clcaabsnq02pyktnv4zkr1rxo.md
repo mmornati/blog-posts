@@ -1,4 +1,12 @@
-# Home Assistant: simple "presence simulation" script
+---
+title: "Home Assistant: simple "presence simulation" script"
+datePublished: 2022-12-30T09:00:42.305Z
+cuid: clcaabsnq02pyktnv4zkr1rxo
+slug: home-assistant-simple-presence-simulation-script
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d768a64f77398bb0acc984e17f2b5041.jpeg
+tags: automation, script, light, home-assistant
+
+---
 
 Do you remember the "[Home Alone](https://en.wikipedia.org/wiki/Home_Alone)" movie? When Kevin simulate the presence of his family at home using lights, television sounds, persons moving in the living room, ...?  
 You can do the same using your Smart Home devices and Home Assistant.
