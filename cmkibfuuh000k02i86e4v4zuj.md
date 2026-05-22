@@ -1,7 +1,7 @@
 ---
 title: "From Tools to Agents: The Evolution of Nexus-Dev"
 seoDescription: "Discover how Nexus-Dev transforms from tools to AI agents, enhancing your IDE with customizable, collaborative coding assistants powered by MCP"
-datePublished: Sat Jan 17 2026 13:01:03 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-17T13:01:03.593Z
 cuid: cmkibfuuh000k02i86e4v4zuj
 slug: from-tools-to-agents-the-evolution-of-nexus-dev
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768654738434/c688d44c-265c-4fff-8743-d49265320300.jpeg
