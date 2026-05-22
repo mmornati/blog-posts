@@ -1,4 +1,10 @@
-# Update OpenELEC on RaspberryPI
+---
+title: "Update OpenELEC on RaspberryPI"
+datePublished: 2013-02-27T23:00:00.000Z
+cuid: cl903we7i001309js4xivessn
+slug: update-openelec-on-raspberrypi
+
+---
 
 You can use a <a href="http://www.raspberrypi.org/" target="_blank">RaspberryPI</a> computer in many differents way. Personally I decided to use it as mediacenter with an <a href="http://xbmc.org/" target="_blank">XBMC</a> program.
 
