@@ -1,4 +1,12 @@
-# HomeAssistant: detect washing machine cycle completion
+---
+title: "HomeAssistant: detect washing machine cycle completion"
+datePublished: 2022-10-11T19:35:08.908Z
+cuid: cl94lrjos000o09kye8fw0c6m
+slug: homeassistant-detect-washing-machine-cycle-completion
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/WSw-taiyZPk/upload/v1665514442564/zGx4gGwLy.jpeg
+tags: automation, home-assistant, power
+
+---
 
 Washing machines or whatever, there are some devices in our houses that are located far from the living places. So, how to know if it is the time to take of them without checking every 5 minutes? I know, we have a clock and that should be enough, but if you have HomeAssitant you can easily configure an action to notify you when the washing machine cycle is completed.
 
