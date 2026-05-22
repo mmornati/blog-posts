@@ -1,4 +1,10 @@
-# Linux Airplay server using XBMC 11
+---
+title: "Linux Airplay server using XBMC 11"
+datePublished: 2012-04-05T22:00:00.000Z
+cuid: cl902xmxi001l09jsgbbpab8b
+slug: linux-airplay-server-using-xbmc-11
+
+---
 
 I finally had time to test the latest version of <a href="http://xbmc.org/">XBMC</a> media center (version 11) on my Fedora 16.
 My first test was using directly the rpm provided on rawhide repositories (fedora and rpm-fusion-free) but in this way many others components will be updated (like gnome for example) because the package is produced for Fedora 17.
