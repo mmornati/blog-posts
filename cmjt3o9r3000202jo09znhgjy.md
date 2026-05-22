@@ -2,7 +2,7 @@
 title: "Achieving Zero-Downtime Deployments on Coolify: A Journey from Monolith to Decoupled Architecture"
 seoTitle: "Zero-Downtime Deployments with Coolify"
 seoDescription: "Use Coolify for zero-downtime deployments by transforming your monolithic setup into an efficient, decoupled architecture"
-datePublished: Tue Dec 30 2025 21:29:24 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-30T21:29:24.831Z
 cuid: cmjt3o9r3000202jo09znhgjy
 slug: achieving-zero-downtime-deployments-on-coolify-a-journey-from-monolith-to-decoupled-architecture
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Ctwx7RnbbbI/upload/30802dc27e31fa9b4836fbbb4cf15140.jpeg
