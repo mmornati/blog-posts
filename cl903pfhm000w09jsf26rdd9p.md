@@ -1,4 +1,10 @@
-# Chrome on iOS 6: after tests
+---
+title: "Chrome on iOS 6: after tests"
+datePublished: 2012-10-22T22:00:00.000Z
+cuid: cl903pfhm000w09jsf26rdd9p
+slug: chrome-on-ios-6-after-tests
+
+---
 
 After the <a href="http://blog.mornati.net/2012/10/20/google-chrome-for-ios/comment-page-1/#comment-3699">comment</a> I received on my <a href="http://blog.mornati.net/2012/10/20/google-chrome-for-ios/">previous</a> post: Chrome on iOS is not really Chrome. I try to investigate and make some tests on the device.
 <br /><a href="http://blog.mornati.net/wp-content/uploads/2012/10/20121022-214552.jpg"><img src="http://blog.mornati.net/wp-content/uploads/2012/10/20121022-214552.jpg" alt="20121022-214552.jpg" class="alignnone size-full" /></a>
