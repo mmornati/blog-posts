@@ -1,4 +1,10 @@
-# Samsung CloudAgent disk usage
+---
+title: "Samsung CloudAgent disk usage"
+datePublished: 2013-12-10T23:00:00.000Z
+cuid: cl904uoo5002j09jsb2qcbuh1
+slug: samsung-cloudagent-disk-usage
+
+---
 
 If you have a Samsung phone and you don't understand where you are loosing most of your space, you can take a look to the CloudAgent Application.
 
