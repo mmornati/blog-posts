@@ -2,7 +2,7 @@
 title: "Solving the MCP Tool Explosion: A Gateway Approach for AI Coding Agents"
 seoTitle: "AI Coding: Solving MCP Tool Explosion"
 seoDescription: "Reduce AI tool overload and boost coding agent efficiency with Nexus-Dev's gateway architecture, limiting tool count and maintaining performance"
-datePublished: Sun Jan 11 2026 21:42:27 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-11T21:42:27.378Z
 cuid: cmka9f9ki000902juaqhtei88
 slug: solving-the-mcp-tool-explosion-a-gateway-approach-for-ai-coding-agents
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768167304282/57103ccf-59f3-45e2-8780-3372912bf6d5.jpeg
