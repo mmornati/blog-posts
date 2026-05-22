@@ -1,4 +1,10 @@
-# Docker: RPM Builder Container
+---
+title: "Docker: RPM Builder Container"
+datePublished: 2015-02-20T23:00:00.000Z
+cuid: cl90czid0000e09l7d68mdxau
+slug: docker-rpm-builder-container
+
+---
 
 I spent the last months playing around [Docker](https://www.docker.com). Even if I've some doubt about using it in production environment and the way you need to use it on Windows and OSx (with a Linux VirtualBox VM), it is really impressive what you can do and how you can simplify your way to work.
 
