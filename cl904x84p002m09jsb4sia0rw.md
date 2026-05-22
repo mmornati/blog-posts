@@ -1,4 +1,10 @@
-# Galaxy Note 2 Official Android 4.3 ROM
+---
+title: "Galaxy Note 2 Official Android 4.3 ROM"
+datePublished: 2013-12-23T23:00:00.000Z
+cuid: cl904x84p002m09jsb4sia0rw
+slug: galaxy-note-2-official-android-43-rom
+
+---
 
 After some <a href="http://blog.mornati.net/2013/12/23/hurricane-rom-short-review-before-changing-it/">custom ROM tests</a> I come back to the official Samsung ROM; the latest ROM that Samsung recently released for the "old" Note 2 phablet phone.
 To reinstall the official ROM I can't use neither the OTA Upgrade nor the Kies Upgrade. The problem was the phone wasn't recognized by Samsung service as the official one, and in any case the Android version was already the latest one. So I installed the official 4.1.2 to try to use one of the official methods, and for this I installed <a href="https://play.google.com/store/apps/details?id=eu.chainfire.mobileodin.pro&amp;hl=fr">mobile ODIN</a> on my phone.
