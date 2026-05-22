@@ -1,4 +1,12 @@
-# Lima-VM: docker-desktop alternative for MacOSX
+---
+title: "Lima-VM: docker-desktop alternative for MacOSX"
+datePublished: 2021-09-05T21:26:49.091Z
+cuid: ckt7q6ke90l9195s184mseuca
+slug: lima-vm-docker-desktop-alternative-for-macosx
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/HSACbYjZsqQ/upload/v1665261363860/fDbp7MIQ9.jpeg
+tags: docker
+
+---
 
 On August 31st, Docker surprises the world with  [a news](https://www.docker.com/blog/updating-product-subscriptions/)  about the docker-desktop application: it won't be free anymore.
 Even if it is a normal and legit decision, this can be a hard decision for big companies as the final invoice can have consequences on the IT budget.
