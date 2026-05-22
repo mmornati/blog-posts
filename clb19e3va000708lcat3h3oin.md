@@ -1,4 +1,12 @@
-# OpenVPN on Google WiFi via OpenWRT
+---
+title: "OpenVPN on Google WiFi via OpenWRT"
+datePublished: 2022-11-28T20:44:52.631Z
+cuid: clb19e3va000708lcat3h3oin
+slug: openvpn-on-google-wifi-via-openwrt
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/vXPXRp_wIg4/upload/v1669668244598/9NavfGxffk.jpeg
+tags: openvpn, openwrt, google-wifi
+
+---
 
 In 2022 the OpenWrt community released a version compatible with Google WiFi devices: https://openwrt.org/toh/google/wifi
 It is not possible to get out from the default Google firmware and benefit of a quite good device, adding a lot of functionalities!
