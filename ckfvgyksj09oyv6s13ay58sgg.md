@@ -1,4 +1,11 @@
-# Install Z-Wave Plus Z-Stick GEN5 — Aeon Labs in Home Assistant (RPi version)
+---
+title: "Install Z-Wave Plus Z-Stick GEN5 — Aeon Labs in Home Assistant (RPi version)"
+datePublished: 2018-09-10T22:00:00.000Z
+cuid: ckfvgyksj09oyv6s13ay58sgg
+slug: install-z-wave-plus-z-stick-gen5-aeon-labs-in-home-assistant-rpi-version
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/fc407030b5ba2d069bd90dd4786be595.jpeg
+
+---
 
 # Install Z-Wave Plus Z-Stick GEN5 — Aeon Labs in Home Assistant (RPi version)
 
