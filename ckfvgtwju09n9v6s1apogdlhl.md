@@ -1,4 +1,10 @@
-## SSH command line store for OSx and Linux like mRemote
+---
+title: "SSH command line store for OSx and Linux like mRemote"
+datePublished: 2016-10-08T22:00:00.000Z
+cuid: ckfvgtwju09n9v6s1apogdlhl
+slug: ssh-command-line-store-for-osx-and-linux-like-mremote
+
+---
 
 # SSH command line store for OSx and Linux like mRemote
 
