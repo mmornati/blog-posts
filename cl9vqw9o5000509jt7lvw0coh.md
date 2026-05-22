@@ -1,4 +1,12 @@
-# InkPlate 10 Home Assistant Board
+---
+title: "InkPlate 10 Home Assistant Board"
+datePublished: 2022-10-30T19:28:34.037Z
+cuid: cl9vqw9o5000509jt7lvw0coh
+slug: inkplate-10-home-assistant-board
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/hpjSkU2UYSU/upload/v1667158094557/hBxRJDFua.jpeg
+tags: dashboard, smart-home, home-assistant
+
+---
 
 When you move everything to "smart", you may lose some information. What about if your room temperature is measured and sent to a "computer" to show it on a dashboard? How you can see the information without a mobile or a PC?
 It is becoming interesting or required, to have a physical board somewhere.
