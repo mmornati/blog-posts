@@ -1,4 +1,10 @@
-# Wordpress: load tests to check server performances
+---
+title: "Wordpress: load tests to check server performances"
+datePublished: 2013-11-02T23:00:00.000Z
+cuid: cl9048kv1002909jsfaowfxpr
+slug: wordpress-load-tests-to-check-server-performances
+
+---
 
 In the <a href="http://blog.mornati.net/2013/11/02/wordpress-nginx-php-fpm-on-ovh-vps/">previous</a> post I described how you can tune nginx to keep memory on your server.
 But, with any tune configuration, you can't chose a value without retest later your server/app performances: have a "larger" configuration means you are using more resources than the real need; but use a "smaller" configuration means a poor user experience, like low response, error from the server, ...
