@@ -1,4 +1,10 @@
-# Docker: how to manage a multi site webserver
+---
+title: "Docker: how to manage a multi site webserver"
+datePublished: 2016-08-30T22:00:00.000Z
+cuid: cl90d4rx9000i09l7c3k5hlxf
+slug: docker-how-to-manage-a-multi-site-webserver
+
+---
 
 Since its first version I'm a fanatic of [Docker](https://www.docker.com/): I'm a developer, I was an Ops and I don't want to dirty a server with plenty of different packages/service that will require update and maintenance.
 
