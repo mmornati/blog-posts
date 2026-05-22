@@ -1,4 +1,10 @@
-# GateOne, an HTML5 SSH shell on your browser
+---
+title: "GateOne, an HTML5 SSH shell on your browser"
+datePublished: 2013-11-12T23:00:00.000Z
+cuid: cl904tbs9002i09jsaze1gjav
+slug: gateone-an-html5-ssh-shell-on-your-browser
+
+---
 
 Sometimes happens I work on networks which only allow HTTP and HTTPS connection. That means I can't connect to any external server using the SSH protocol, I can't connect on FTP servers, ...
 A simple way to workaround this limitation, is to install a VPN service that you can reach using the standard HTTPS port; for exemple an OpenVPN server on 443 port.
