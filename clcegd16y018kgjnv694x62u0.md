@@ -1,4 +1,12 @@
-# Home Assistant: motion sensor coupled with a switch
+---
+title: "Home Assistant: motion sensor coupled with a switch"
+datePublished: 2023-01-02T07:00:42.411Z
+cuid: clcegd16y018kgjnv694x62u0
+slug: home-assistant-motion-sensor-coupled-with-a-switch
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bce3418c09ce0bb3f76da416bfad04b5.jpeg
+tags: automation, home-assistant, motion-sensor
+
+---
 
 Did you already move your harms to your motion sensor to power on your external light, for example when you are on your deck having dinner? It happened all the time to me and it is really frustrating... so I created automation to stop it! 😎
 
