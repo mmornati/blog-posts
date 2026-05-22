@@ -1,4 +1,11 @@
-# Docker images and files chown
+---
+title: "Docker images and files chown"
+datePublished: 2017-11-05T23:00:00.000Z
+cuid: ckfvgwzvh09obv6s1cfxxbykv
+slug: docker-images-and-files-chown
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d45ed028c01a51b45e7ebdd172cb3e2b.jpeg
+
+---
 
 # Docker images and files chown
 
