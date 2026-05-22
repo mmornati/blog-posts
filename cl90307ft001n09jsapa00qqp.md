@@ -1,4 +1,10 @@
-# Kermit: new videos documentation
+---
+title: "Kermit: new videos documentation"
+datePublished: 2012-05-15T22:00:00.000Z
+cuid: cl90307ft001n09jsapa00qqp
+slug: kermit-new-videos-documentation
+
+---
 
 With <a href="https://twitter.com/#!/LouisCoilliot">@LouisCoilliot</a> we are preparing some new videos that will be used to explain kermit's main functionalities; basically will be a doc extension. Naturally you could find all the videos on the <a href="http://www.kermit.fr">KermIT</a> website (we are actually preparing the new version).
 
