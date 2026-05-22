@@ -1,1 +1,22 @@
-IyMgR2l0SHViIHB1bGwgYW5kIGNlcnRpZmljYXRlIHZlcmlmaWNhdGlvbiBmYWlsZWQuLi4uCgpJIHB1dCB0aGVzZSB0aXBzIGhlcmUgYmVjYXVzZSBldmVyeSB0aW1lIEkgbmVlZCB0byBwdWxsIGEgcHJvamVjdCBmcm9tIEdpdEh1Yiwgd2hlcmUgSSdtIG5vdCBhIGNvbnRyaWJ1dG9yLCBJJ3ZlIGEgY2VydGlmaWNhdGVzIHByb2JsZW0gYW5kIEkgYWx3YXlzIGRpc21lbWJlcmVkIHRoZSBzb2x1dGlvbiA6RAo8cHJlPjxjb2RlPiBbcm9vdEBjZW50b3M1NjQgfl0jIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vb25lbG9naW4vcHl0aG9uLXNhbWwuZ2l0CkNsb25pbmcgaW50byBweXRob24tc2FtbC4uLgplcnJvcjogU1NMIGNlcnRpZmljYXRlIHByb2JsZW0sIHZlcmlmeSB0aGF0IHRoZSBDQSBjZXJ0IGlzIE9LLiBEZXRhaWxzOgplcnJvcjoxNDA5MDA4NjpTU0wgcm91dGluZXM6U1NMM19HRVRfU0VSVkVSX0NFUlRJRklDQVRFOmNlcnRpZmljYXRlIHZlcmlmeSBmYWlsZWQgd2hpbGUgYWNjZXNzaW5nIGh0dHBzOi8vZ2l0aHViLmNvbS9vbmVsb2dpbi9weXRob24tc2FtbC5naXQvaW5mby9yZWZzCgpmYXRhbDogSFRUUCByZXF1ZXN0IGZhaWxlZDwvY29kZT48L3ByZT4KVGhlIHNvbHV0aW9uLCB3aXRob3V0IGluc3RhbGwgb2YgY2VydGlmaWNhdGUgc29tZXdoZXJlIG9uIHRoZSBsb2NhbCBtYWNoaW5lLCBpczoKPHByZT48Y29kZT4gW3Jvb3RAY2VudG9zNTY0IH5dIyBlbnYgR0lUX1NTTF9OT19WRVJJRlk9dHJ1ZSBnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL29uZWxvZ2luL3B5dGhvbi1zYW1sLmdpdApDbG9uaW5nIGludG8gcHl0aG9uLXNhbWwuLi4KcmVtb3RlOiBDb3VudGluZyBvYmplY3RzOiAyNywgZG9uZS4KcmVtb3RlOiBDb21wcmVzc2luZyBvYmplY3RzOiAxMDAlICgyNC8yNCksIGRvbmUuCnJlbW90ZTogVG90YWwgMjcgKGRlbHRhIDMpLCByZXVzZWQgMjUgKGRlbHRhIDEpClVucGFja2luZyBvYmplY3RzOiAxMDAlICgyNy8yNyksIGRvbmUuPC9jb2RlPjwvcHJlPg==
+---
+title: "GitHub pull and certificate verification failed...."
+datePublished: 2011-08-31T22:00:00.000Z
+cuid: cl8zz3qq1000809lc0e1uaa1k
+slug: github-pull-and-certificate-verification-failed
+
+---
+
+I put these tips here because every time I need to pull a project from GitHub, where I'm not a contributor, I've a certificates problem and I always dismembered the solution :D
+<pre><code> [root@centos564 ~]# git clone https://github.com/onelogin/python-saml.git
+Cloning into python-saml...
+error: SSL certificate problem, verify that the CA cert is OK. Details:
+error:14090086:SSL routines:SSL3_GET_SERVER_CERTIFICATE:certificate verify failed while accessing https://github.com/onelogin/python-saml.git/info/refs
+
+fatal: HTTP request failed</code></pre>
+The solution, without install of certificate somewhere on the local machine, is:
+<pre><code> [root@centos564 ~]# env GIT_SSL_NO_VERIFY=true git clone https://github.com/onelogin/python-saml.git
+Cloning into python-saml...
+remote: Counting objects: 27, done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 27 (delta 3), reused 25 (delta 1)
+Unpacking objects: 100% (27/27), done.</code></pre>
