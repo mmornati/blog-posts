@@ -1,4 +1,10 @@
-# ePomodoro: updates. Version 1.0.3
+---
+title: "ePomodoro: updates. Version 1.0.3"
+datePublished: 2012-03-01T23:00:00.000Z
+cuid: cl902tgzs001f09js1m5j15pi
+slug: epomodoro-updates-version-103
+
+---
 
 I've just released the ePomodoro 1.0.3.
 
