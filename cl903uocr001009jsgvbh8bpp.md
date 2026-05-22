@@ -1,4 +1,10 @@
-# Cannot shutdown MacOSX: try changing TimeMachine settings
+---
+title: "Cannot shutdown MacOSX: try changing TimeMachine settings"
+datePublished: 2013-01-14T23:00:00.000Z
+cuid: cl903uocr001009jsgvbh8bpp
+slug: cannot-shutdown-macosx-try-changing-timemachine-settings
+
+---
 
 If you have shutdown problems on your Mac: it never shutdown and is stack at on the grey circular icon. The problem could be your TimeMachine setting.
 
