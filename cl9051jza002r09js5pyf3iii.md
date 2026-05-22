@@ -1,4 +1,10 @@
-# CentOS 6 as Apple TimeMachine Backup
+---
+title: "CentOS 6 as Apple TimeMachine Backup"
+datePublished: 2014-02-08T23:00:00.000Z
+cuid: cl9051jza002r09js5pyf3iii
+slug: centos-6-as-apple-timemachine-backup
+
+---
 
 TimeCapsule is the Apple (closed) backup system. But... even if closed, you can configure a linux server to be your TimeMachine network disk, like TimeCapsule does.
 
