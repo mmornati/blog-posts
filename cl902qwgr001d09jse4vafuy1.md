@@ -1,1 +1,20 @@
-IyMgZVBvbW9kb3JvOiBFY2xpcHNlIFBsdWdpbiBmb3IgUG9tb2Rvcm8gVGVjaG5pcXVlIHdpdGggVGVhbSBDb21tdW5pY2F0aW9uCgpBZnRlciBJIGV4YXBsYWluZWQgdG8gbXkgYWN0dWFsIHdvcmtpbmcgdGVhbSBob3cgdGhleSBjYW4gYmUgbW9yZSBwcm9kdWN0aXZlIHVzaW5nIHRoZSA8YSBocmVmPSJodHRwOi8vd3d3LnBvbW9kb3JvdGVjaG5pcXVlLmNvbS8iPlBvbW9kb3JvIFRlY2huaXF1ZTwvYT4sIHRoZXkgc3BlbnQgc29tZSBtaW51dGVzIGxvb2tpbmcgZm9yIGFuIHV0aWxpdHkgdG8gdXNlIGEgY291bnRkb3duIGNsb2NrLgoKWWVzIGd1eXMsIHdlIGFyZSBHZWVrISBFdmVuIGlmIHdlIGNhbiB1c2UgYW55dGhpbmcgZWxzZSBhcyB0aW1lciwgd2UgYWx3YXlzIGxvb2sgZm9yIHNvbWV0aGluZyBjb29sIHRvIGluc3RhbGwgb24gb3VyIFBDIDpEClNvbWVvbmUgYXNrIG1lIGlmIHRoZXJlIHdhcyBhbnl0aGluZyBmb3IgdGVhbSB3b3JrOiBhIHdheSB0byBzaG93IHRoZSBQb21vZG9ybyB0aW1lciBvZiB0aGUgb3RoZXJzIGluIHlvdXIgdGVhbSB0byBrbm93IHdoZW4geW91IGNvdWxkIHRhbGsgd2l0aCB0aGVtLiBBbmQsIGFmdGVyIG1pbnV0ZXMgb2Ygc2VhcmNoIG9uIHRoZSBuZXQgd2l0aG91dCByZXN1bHRzLCBJIGRlY2lkZWQgdG8gc3BlbmQgYSBjb3VwbGUgb2YgaG91cnMgdG8gY3JlYXRlIGFuIGV4YW1wbGUgb2YgdGhlIHByb3Bvc2VkIFRlYW0gUG9tb2Rvcm8gOkQKClNvLCBoZXJlIHlvdSBhcmU6IDxzdHJvbmc+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL21tb3JuYXRpL2Vwb21vZG9ybyI+ZVBvbW9kb3JvPC9hPjwvc3Ryb25nPiEgSXQncyBhbiBFY2xpcHNlIFBsdWdpbiwgc28geW91IGNhbiBpbnN0YWxsIGl0IGRpcmVjdGx5IGluIHlvdXIgRWNsaXBzZSBlbnZpcm9ubWVudCAoaW4gdGhlIGZ1dHVyZSBJIGNvdWxkIGNyZWF0ZSBhIHN0YW5kIGFsb25lIGFwcGxpY2F0aW9uIGZvciBhbGwgbm9uLWVjbGlwc2UgZGV2ZWxvcGVycyBvciBub24tZGV2ZWxvcGVycyA7KSkKSW4gPGVtPldpbmRvd3MtJmd0O1ByZWZlcmVuY2VzPC9lbT7CoCBNZW51IHlvdSBjYW4gY2hhbmdlIHNvbWUgcGx1Z2luIHNldHRpbmdzIGxpa2U6IDxlbT5UZWFtIE5hbWUgPC9lbT5hbmQgPGVtPlBvbW9kb3JvIFRpbWVyPC9lbT4uIFRlYW0gTmFtZSBhbGxvd3MgZGlmZmVyZW50IHRlYW0gaW4geW91ciBzb2NpZXR5OiB5b3Ugd2lsbCBnZXQganVzdCBtZXNzYWdlcyBmcm9tIHlvdXIgdGVhbSEKCkF0IHRoZSBtb21lbnQsIGV2ZW4gaWYgaXQgd29ya3MgKGJvdGggYXMgYSBjb3VudGRvd24gY2xvY2sgYW5kIHRlYW0gbWVzc2FnZSksIGl0J3MganVzdCBhIHNpbXBsZSByYXcgcGx1Z2luIHRvIGRlbW9zdHJhdGUgaG93IGVhc3kgaXMgdG8gY3JlYXRlIHNvbWV0aGluZyBsaWtlIHRoaXMgdXNpbmcgdGhlIDxzdHJvbmc+Skdyb3Vwczwvc3Ryb25nPsKgbGlicmFyeSBhcyBtZXNzYWdlIGJyb2FkY2FzdGVyLgpJJ2xsIHRha2Ugc29tZSBvZiBteSB0aW1lIHRvIGFkZCBjb29sIGZ1bmN0aW9ucyB0byBpdCBpbiB0aGUgbmV4dCBkYXlzLgoKW2dhbGxlcnkgbGluaz0iZmlsZSIgY29sdW1ucz0iMiJd
+---
+title: "ePomodoro: Eclipse Plugin for Pomodoro Technique with Team Communication"
+datePublished: 2012-02-25T23:00:00.000Z
+cuid: cl902qwgr001d09jse4vafuy1
+slug: epomodoro-eclipse-plugin-for-pomodoro-technique-with-team-communication
+
+---
+
+After I exaplained to my actual working team how they can be more productive using the <a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a>, they spent some minutes looking for an utility to use a countdown clock.
+
+Yes guys, we are Geek! Even if we can use anything else as timer, we always look for something cool to install on our PC :D
+Someone ask me if there was anything for team work: a way to show the Pomodoro timer of the others in your team to know when you could talk with them. And, after minutes of search on the net without results, I decided to spend a couple of hours to create an example of the proposed Team Pomodoro :D
+
+So, here you are: <strong><a href="https://github.com/mmornati/epomodoro">ePomodoro</a></strong>! It's an Eclipse Plugin, so you can install it directly in your Eclipse environment (in the future I could create a stand alone application for all non-eclipse developers or non-developers ;))
+In <em>Windows-&gt;Preferences</em>  Menu you can change some plugin settings like: <em>Team Name </em>and <em>Pomodoro Timer</em>. Team Name allows different team in your society: you will get just messages from your team!
+
+At the moment, even if it works (both as a countdown clock and team message), it's just a simple raw plugin to demostrate how easy is to create something like this using the <strong>JGroups</strong> library as message broadcaster.
+I'll take some of my time to add cool functions to it in the next days.
+
+[gallery link="file" columns="2"]
