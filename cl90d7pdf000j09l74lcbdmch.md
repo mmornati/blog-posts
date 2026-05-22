@@ -1,4 +1,10 @@
-# Ghost: storage image module for Cloudinary
+---
+title: "Ghost: storage image module for Cloudinary"
+datePublished: 2016-08-31T22:00:00.000Z
+cuid: cl90d7pdf000j09l74lcbdmch
+slug: ghost-storage-image-module-for-cloudinary
+
+---
 
 Since the version **0.6.x** of [Ghost](https://ghost.org/) blog platform it is possible to customize, adding a module, the management of post images.
 By default all the images are uploaded into the server **content** folder, this means, for example, that you need (lot of) space on your server and you have to backup the content folder to be sure to be able to restore everything.
