@@ -2,7 +2,7 @@
 title: "Securing Python Code Execution: How We Protected Our Server from Untrusted Code"
 seoTitle: "Protecting Servers from Untrusted Python Code"
 seoDescription: "Learn how to secure Python code execution with Docker containers, restricted namespaces, and layered defense strategies against untrusted code"
-datePublished: Thu Jan 01 2026 09:00:08 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-01T09:00:08.213Z
 cuid: cmjv7sec4000002kzdmkahm2x
 slug: securing-python-code-execution-how-we-protected-our-server-from-untrusted-code
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/M5tzZtFCOfs/upload/4013ef373755de1da7d180f8522d7741.jpeg
