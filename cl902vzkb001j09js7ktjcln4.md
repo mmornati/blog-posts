@@ -1,4 +1,10 @@
-# ePomodoro: user guide
+---
+title: "ePomodoro: user guide"
+datePublished: 2012-03-08T23:00:00.000Z
+cuid: cl902vzkb001j09js7ktjcln4
+slug: epomodoro-user-guide
+
+---
 
 I noticed that some one arrived on this blog using "<em>how to use epomodoro eclipse plugin</em>" as search term. Sometimes I think things all always simple, but, even for simple things it's better to have a little guide.
 
