@@ -1,13 +1,12 @@
 ---
 title: "Reverse-Engineering Hitachi's Cloud API with AI: From Browser DevTools to a Full Home Assistant Integration"
-datePublished: Wed Feb 25 2026 13:36:10 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-25T13:36:10.152Z
 cuid: cmm22v8a0000302jubmhgh5q9
 slug: reverse-engineering-hitachis-cloud-api-with-ai-from-browser-devtools-to-a-full-home-assistant-integration-1
+cover: https://cdn.hashnode.com/uploads/covers/5f7979899c3b6e4101216fe2/ab787bfb-0628-4db6-9a08-48255fb4960d.jpg
 tags: ai, api, python, development, iot, smart-home, reverse-engineering, home-assistant, claude, heat-pump, hitachi, csnet
 
 ---
-
-# Reverse-Engineering Hitachi's Cloud API with AI: From Browser DevTools to a Full Home Assistant Integration
 
 When Hitachi replaced its older Hi-Kumo system with the [ATW-IOT-01 module](https://device.report/manual/12211094), it broke every existing Home Assistant integration for their heat pumps. The new system routes everything through a cloud service called [CSNet Manager](https://www.csnetmanager.com) — and there's no public API, no documentation, no SDK. Just a web app.
 
@@ -76,7 +75,7 @@ Here's a sample of what the `/data/elements` response looks like (redacted):
 
 The field names are somewhat descriptive, but what do the **values** mean? What is `elementType: 1` vs `elementType: 5`? What's `operationStatus: 5`? What does `ecocomfort: 1` map to?
 
-And here's the real challenge: **I only have one device with one specific configuration** — two air circuits, no water heater, no swimming pool, no fan coils. To make this integration useful for everyone, I needed to support configurations I don't have. How do you understand data you've never seen?
+And here's the real challenge: **I only have one device with one specific configuration** — two water circuits, no water heater, no swimming pool, no fan coils. To make this integration useful for everyone, I needed to support configurations I don't have. How do you understand data you've never seen?
 
 * * *
 
@@ -183,31 +182,7 @@ With the architecture defined and the issues created, I entered the **implementa
 
 ### The Architect + Coder Model
 
-```plaintext
-┌──────────────────────────────────────────────────────────┐
-│  Claude Opus (Architect)                                 │
-│  • Analyses JS source + JSON responses                   │
-│  • Designs architecture                                  │
-│  • Creates detailed GitHub issues with acceptance criteria│
-└──────────────────────┬───────────────────────────────────┘
-                        │ Detailed Issues
-                        ▼
-┌──────────────────────────────────────────────────────────┐
-│  Claude Sonnet / Copilot (Developer)                     │
-│  • Implements each issue as a PR                         │
-│  • Writes unit tests                                     │
-│  • Follows the architecture decisions from above           │
-└──────────────────────┬───────────────────────────────────┘
-                        │ Pull Request
-                        ▼
-┌──────────────────────────────────────────────────────────┐
-│  Me (Code Review + Testing)                              │
-│  • Reviews every PR                                      │
-│  • Tests on real hardware                                │
-│  • Validates against CSNet Manager web app                 │
-│  • Merges or requests changes                            │
-└──────────────────────────────────────────────────────────┘
-```
+![](https://cdn.hashnode.com/uploads/covers/5f7979899c3b6e4101216fe2/985d892c-afdb-423b-8011-cea4e56e9daa.png align="center")
 
 **Why two models?** Using a highly capable model (Claude Opus) for architecture and a faster/cheaper model (Claude Sonnet, GitHub Copilot) for implementation keeps costs reasonable while maintaining quality. The architect model produces detailed enough specifications that a less powerful model can implement them accurately.
 
@@ -343,7 +318,7 @@ If you want to apply this approach to another undocumented web service, here's t
     
 *   Ask it to: map every field, identify the data model, create a technical specification
     
-*   Use a capable model (Claude Opus, GPT-4) for this architectural analysis
+*   Use a capable model (Claude Opus, GPT-5.x) for this architectural analysis
     
 
 ### 4\. 📋 Create Structured Issues
