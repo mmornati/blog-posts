@@ -1,1 +1,19 @@
-IyMgaVBhZDEgc2xvdyBkb3duIGFmdGVyIGlPUzUgdXBkYXRlOiBGSVgKCkFmdGVyIEkgdXBkYXRlZCBteSBpUGFkMSAoSSBrbm93IGl0J3Mgbm90IHRoZSBsYXRlc3QgYXBwbGUgZGV2aWNlLCBidXQgSSdtIG5vdCBhbiBhcHBsZSBmYW5hdGljIDopKSB0byBpT1M1LCBhbmQgbGF0ZXIgdG8gaU9TIDUuMC4xLCBJIG5vdGljZWQgdGhhdCB3YXMgcmVhbGx5IHNsb3cgaW4gdGhlIG5vcm1hbCB1c2FnZSBhbmQgYXBwbGljYXRpb25zIGNyYXNoZWQgYWxtb3N0IG9uY2UgZXZlcnkgaG91ci4gQXQgdGhlIGVuZCBJIGhhZCBhbiBpUGFkIGJ1dCBpdCB3YXNuJ3QgYSBwbGVhc3VyZSB0byB1c2UgaXQgbGlrZSB0aGUgcGFzdC4KCkFmdGVyIHNvbWUgdGVzdHMsIEkgc3RhcnQgbG9va2luZyBmb3Igc29tZXRoaW5nIHRvIGZpeCB0aGVzZSBwcm9ibGVtcywga25vd2luZyB0aGF0IEFwcGxlIGRvZXNuJ3QgYWxsb3cgdGhlIGRvd25ncmFkZSB0byBvbGQgdmVyc2lvbnMuIEFuZCB0aGUgc29sdXRpb24gSSBmb3VuZCwgdGhhdCBzZWVtcyB0byB3b3JrIGFmdGVyIHNvbWUgZGF5cyBvZiB0ZXN0cywgaXMgdG8gPHN0cm9uZz5yZXNldDwvc3Ryb25nPiBhbGwgc2V0dGluZ3MsIGdvaW5nIHRvOgoKc2V0dGluZ3MgLT4gZ2VuZXJhbCAtPiByZXNldCAtPiByZXN0b3JlIGFsbCAobWF5YmUgaW4gRW5nbGlzaCB0aGUgbWVudSBuYW1lcyBhcmUgbm90IGV4YWN0bHkgdGhlc2UsIGJ1dCBteSBpUGFkIGlzIGluIEl0YWxpYW4gOlApCgpXaXRoIHRoaXMgcmVzZXQgeW91IGRvbid0IGxvc2UgeW91ciBkYXRhIChhcHBsaWNhdGlvbnMsIHBob3RvcywgbXVzaWNzLCBtYWlscywgLi4uKSBidXQgaXQganVzdCByZXN0b3JlIHRoZSBpUGFkIHNldHRpbmdzIHRvIGZhY3RvcnkgZGVmYXVsdC4gVGhpcyBtZWFucyB5b3UgaGF2ZSB0byByZS1lbnRlciB5b3VyIHdpZmkga2V5LCB5b3UgaGF2ZSB0byBzZWxlY3QgeW91ciBiYWNrZ3JvdW5kcyBidXQgbm90aGluZyBtb3JlLiBBbiBpbXBvcnRhbnQgdGhpbmcgaXMgdG8gcHJldmVudCByZXN0b3JlIG9mIHRoZXNlIHNldHRpbmdzIGZyb20gYSBiYWNrdXAuIEluIGZhY3QsIGFmdGVyIHJlc3RhcnQsIGlQYWQgYXNrIHlvdSB0byBlbnRlciBzb21lIHNldHRpbmdzIGxpa2UgdGhlIGZpcnN0IHRpbWUgeW91IHN0YXJ0IGl0IHVwOiBsYW5ndWFnZSwgbG9jYXRpb24sIGV0Yy4uLiBBbmQgdGhlbiBpdCB3aWxsIGFzayB5b3UgaWYgeW91J2QgbGlrZSB0byByZXN0b3JlIHRoZSBkZXZpY2UgdXNpbmcgaUNsb3VkIG9yIGlUdW5lcy4gV2VsbC4uLiBIZXJlIHlvdSBoYXZlIHRvIHNheSA8c3Ryb25nPk5PPC9zdHJvbmc+IDspCgpSaWdodCBub3csIG15IGlQYWQgd29ya3MgbGlrZSB3aXRoIHRoZSBwcmV2aW91cyBpT1MgdmVyc2lvbjogbm90IHNsb3csIG5vIGFwcHMgY3Jhc2hlcy4uLiBBdCB0aGUgZW5kIEkgaGF2ZSBteSBpUGFkIGJhY2suCgpIb3BlIHRoaXMgY291bGQgaGVscCBzb21lb25lIGVsc2Uu
+---
+title: "iPad1 slow down after iOS5 update: FIX"
+datePublished: 2012-11-30T23:00:00.000Z
+cuid: cl902jh7k001409jscrzue84x
+slug: ipad1-slow-down-after-ios5-update-fix
+
+---
+
+After I updated my iPad1 (I know it's not the latest apple device, but I'm not an apple fanatic :)) to iOS5, and later to iOS 5.0.1, I noticed that was really slow in the normal usage and applications crashed almost once every hour. At the end I had an iPad but it wasn't a pleasure to use it like the past.
+
+After some tests, I start looking for something to fix these problems, knowing that Apple doesn't allow the downgrade to old versions. And the solution I found, that seems to work after some days of tests, is to <strong>reset</strong> all settings, going to:
+
+settings -> general -> reset -> restore all (maybe in English the menu names are not exactly these, but my iPad is in Italian :P)
+
+With this reset you don't lose your data (applications, photos, musics, mails, ...) but it just restore the iPad settings to factory default. This means you have to re-enter your wifi key, you have to select your backgrounds but nothing more. An important thing is to prevent restore of these settings from a backup. In fact, after restart, iPad ask you to enter some settings like the first time you start it up: language, location, etc... And then it will ask you if you'd like to restore the device using iCloud or iTunes. Well... Here you have to say <strong>NO</strong> ;)
+
+Right now, my iPad works like with the previous iOS version: not slow, no apps crashes... At the end I have my iPad back.
+
+Hope this could help someone else.
