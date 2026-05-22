@@ -1,4 +1,10 @@
-# Personalize your bash with GIT/SVN and colors
+---
+title: "Personalize your bash with GIT/SVN and colors"
+datePublished: 2013-11-10T23:00:00.000Z
+cuid: cl904b69z001g09jsbekx2z4t
+slug: personalize-your-bash-with-gitsvn-and-colors
+
+---
 
 If you work everyday on a Linux shell and need to manage projects on GIT or SVN code control systems, could be useful to get informations about them directly on your bash.
 
