@@ -1,4 +1,10 @@
-# AirDroid vs Kies Air: control your Android with your browser
+---
+title: "AirDroid vs Kies Air: control your Android with your browser"
+datePublished: 2013-01-15T23:00:00.000Z
+cuid: cl903vjfz001209jscdak0b82
+slug: airdroid-vs-kies-air-control-your-android-with-your-browser
+
+---
 
 A useful thing you can do with an Android phone, that is actually impossible even to imagine on the iPhone, is to control it from your computer.
 Two tools I tested to do this are: <strong>AIrDroid </strong>and <strong>Kies Air</strong>.
