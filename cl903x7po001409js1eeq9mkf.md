@@ -1,4 +1,10 @@
-# Fedora 18: Can't Unlock the Screen
+---
+title: "Fedora 18: Can't Unlock the Screen"
+datePublished: 2013-03-24T23:00:00.000Z
+cuid: cl903x7po001409js1eeq9mkf
+slug: fedora-18-cant-unlock-the-screen
+
+---
 
 After the latests Fedora updates I'm getting a boring problem with the unlock: I can normally login after the startup but not after a lock screen (CTRL + ALT + L for example).
 
