@@ -1,4 +1,10 @@
-# Galaxy Note 2 - Bluetooth frequently disconnects
+---
+title: "Galaxy Note 2 - Bluetooth frequently disconnects"
+datePublished: 2015-02-05T23:00:00.000Z
+cuid: cl90cyevt000d09l72cvugkoz
+slug: galaxy-note-2-bluetooth-frequently-disconnects
+
+---
 
 
 I spent some time looking around to an annoying bluetooth problem on my Android device: bluetooth devices (smartwatch, handfree in my car, ...) frequently disconnect making them inusables.
