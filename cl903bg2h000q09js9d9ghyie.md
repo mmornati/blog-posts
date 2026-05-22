@@ -1,4 +1,10 @@
-# Velocità medie accesso a internet: Italia vs Resto del mondo
+---
+title: "Velocità medie accesso a internet: Italia vs Resto del mondo"
+datePublished: 2012-09-12T22:00:00.000Z
+cuid: cl903bg2h000q09js9d9ghyie
+slug: velocita-medie-accesso-a-internet-italia-vs-resto-del-mondo
+
+---
 
 In questi giorni, effettuando qualche test sulla mia linea internet, sono capitato su questo sito: <a href="http://www.netindex.com">http://www.netindex.com</a> che mostra alcuni parametri (medi) sulle connessioni al net nei diversi paesi del mondo.
 
