@@ -1,4 +1,10 @@
-# MCollective oVirt Agent
+---
+title: "MCollective oVirt Agent"
+datePublished: 2012-10-08T22:00:00.000Z
+cuid: cl903nkf3000t09jsbw233iia
+slug: mcollective-ovirt-agent
+
+---
 
 After some days of tests we produces a first <strong>working<em> </em></strong>version of <a href="http://www.ovirt.org/">oVirt</a> agent for <a href="http://docs.puppetlabs.com/mcollective/">MCollective</a>.
 
