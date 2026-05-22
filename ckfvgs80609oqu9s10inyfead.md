@@ -1,4 +1,11 @@
-# PushBullet notifications for Kerberos.io
+---
+title: "PushBullet notifications for Kerberos.io"
+datePublished: 2017-09-26T22:00:00.000Z
+cuid: ckfvgs80609oqu9s10inyfead
+slug: pushbullet-notifications-for-kerberos-io
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6116ea8afebc116eac4f1e816183de87.jpeg
+
+---
 
 <span class="s"></span>
 
