@@ -1,4 +1,10 @@
-# Optimize Ghost for SEO - Keywords
+---
+title: "Optimize Ghost for SEO - Keywords"
+datePublished: 2014-02-08T23:00:00.000Z
+cuid: cl90535rv002u09jsfxb1gbuc
+slug: optimize-ghost-for-seo-keywords
+
+---
 
 The usage of meta *keywords* is today maybe not too useful: Google says that robots does not take care to this meta anymore.
 But, in the SEO rules, and in the SEO Wordpress plugin too, this meta information is always set.
