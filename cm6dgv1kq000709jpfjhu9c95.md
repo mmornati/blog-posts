@@ -1,6 +1,6 @@
 ---
 title: "Seamlessly Automate Your Home with Hitachi Devices: A Custom Home Assistant Integration"
-datePublished: Sun Jan 26 2025 10:18:06 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-01-26T10:18:06.650Z
 cuid: cm6dgv1kq000709jpfjhu9c95
 slug: seamlessly-automate-your-home-with-hitachi-devices-a-custom-home-assistant-integration
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737886634980/28a10efa-9b83-46d9-ac1b-095ec26cfc7a.webp
