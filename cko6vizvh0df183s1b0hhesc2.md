@@ -1,4 +1,12 @@
-# Upgrade ConBee2 Firmware in HassOS
+---
+title: "Upgrade ConBee2 Firmware in HassOS"
+datePublished: 2021-05-02T07:50:09.178Z
+cuid: cko6vizvh0df183s1b0hhesc2
+slug: upgrade-conbee2-firmware-in-hassos
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/aQYgUYwnCsM/upload/v1665261397874/MAI2jrvZL.jpeg
+tags: raspberry-pi, smart-home
+
+---
 
 I used deConz in Home Assistant for the last 9 months and I discovered some crazy things in the way deConz is working. The strangest one is surely the gateway firmware update (for me a ConBee2): even if you are on a 1-year-old firmware, in Phoscon you always have the message "your version is updated".
 
