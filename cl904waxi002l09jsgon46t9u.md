@@ -1,4 +1,10 @@
-# Hurricane ROM - short review before changing it (again)
+---
+title: "Hurricane ROM - short review before changing it (again)"
+datePublished: 2013-12-22T23:00:00.000Z
+cuid: cl904waxi002l09jsgon46t9u
+slug: hurricane-rom-short-review-before-changing-it-again
+
+---
 
 After a week <a href="http://blog.mornati.net/2013/12/11/hurricane-rom-for-galaxy-note-2-make-it-like-the-note-3/">testing</a> the Hurricane v6 ROM on my Galaxy Note 2, I decided to make a test to the official Samsung 4.3 rom for my phablet, that meanwhile was sorted out.
 With the custom Hurricane ROM, even if it worked well, I found some annoying bugs that led me to change the Rom once again, for the official one. Here a short list of things I didn't like on the custom Hurricane ROM:
