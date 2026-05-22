@@ -2,7 +2,7 @@
 title: "Stop Repeating Yourself to AI: How I Built a Local RAG System for Coding Assistants"
 seoTitle: "Creating a Local RAG System for Coding AI"
 seoDescription: "Build a local RAG system to give AI coding assistants persistent memory and improve efficiency. Introducing Nexus-Dev, an open-source solution"
-datePublished: Sun Jan 11 2026 21:40:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-11T21:40:36.640Z
 cuid: cmka9cw4f000802js3xv51xlg
 slug: stop-repeating-yourself-to-ai-how-i-built-a-local-rag-system-for-coding-assistants
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768167499638/c859d626-a2ee-4b14-a4c2-38460250dc16.jpeg
