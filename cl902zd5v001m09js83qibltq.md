@@ -1,4 +1,10 @@
-# Add new machine to Heroku project
+---
+title: "Add new machine to Heroku project"
+datePublished: 2012-05-10T22:00:00.000Z
+cuid: cl902zd5v001m09js83qibltq
+slug: add-new-machine-to-heroku-project
+
+---
 
 If, like me, you used to work on many computers, you should reconfigure anything to allow all your machines. Today I was stucked on heroku repository clone (problem with ssh key on my work laptop).
 
