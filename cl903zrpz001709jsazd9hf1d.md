@@ -1,4 +1,10 @@
-# Maven: automatically create a version Class
+---
+title: "Maven: automatically create a version Class"
+datePublished: 2013-06-20T22:00:00.000Z
+cuid: cl903zrpz001709jsazd9hf1d
+slug: maven-automatically-create-a-version-class
+
+---
 
 Using a Maven to build your Java project, you can easily create a static Class containing Version and Release of your project; for example, you can then access to this class to show the version, for example, on your main project page.
 The important thing is that you don't need to maintain this class nor to commit it: any build will automatically regenerate, and then build, the class file.
