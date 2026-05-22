@@ -1,4 +1,10 @@
-# Put your crypted backups on the cloud
+---
+title: "Put your crypted backups on the cloud"
+datePublished: 2013-11-04T23:00:00.000Z
+cuid: cl904acuy002b09jsbh8n1kuo
+slug: put-your-crypted-backups-on-the-cloud
+
+---
 
 Backups are importants to prevent file lose: image if tomorrow the disk with all the photos of your family will die. No more photos of your earlier life will be available... So... <strong>Backups are important</strong>.
 But, it's important to keep your data secret. If you decide to use an online storage, and you need to put private data on it (important documents), it's better if no one can read them!
