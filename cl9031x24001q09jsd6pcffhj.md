@@ -1,4 +1,10 @@
-# Apache and mod_auth_openid on F16/Centos
+---
+title: "Apache and mod_auth_openid on F16/Centos"
+datePublished: 2012-05-22T22:00:00.000Z
+cuid: cl9031x24001q09jsd6pcffhj
+slug: apache-and-modauthopenid-on-f16centos
+
+---
 
 A simple way to protect your web server today, without creating any time a different user name/password, is to use one of the many openid server available on internet.
 
