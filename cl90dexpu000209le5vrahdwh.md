@@ -1,4 +1,10 @@
-# New Official update for the Cloudinary Ghost Storage plugin
+---
+title: "New Official update for the Cloudinary Ghost Storage plugin"
+datePublished: 2017-09-16T22:00:00.000Z
+cuid: cl90dexpu000209le5vrahdwh
+slug: new-official-update-for-the-cloudinary-ghost-storage-plugin
+
+---
 
 I took time to update and fix some little things I had in mind for the Cloudinary Ghost Storage plugin, but I just to tell you everything in the right order.
 
