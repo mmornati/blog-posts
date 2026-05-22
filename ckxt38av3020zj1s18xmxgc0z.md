@@ -1,4 +1,12 @@
-## SRE or why IT practices changed?
+---
+title: "SRE or why IT practices changed?"
+datePublished: 2021-12-30T14:54:04.225Z
+cuid: ckxt38av3020zj1s18xmxgc0z
+slug: sre-or-why-it-practices-changed
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/64YrPKiguAE/upload/v1640867750307/ajt6eAOzCN.jpeg
+tags: software-development, devops, software-engineering
+
+---
 
 I'm an **old geek** and I used to say this to my team all the time; not because I love being old but because I think this is helping me today trying to understand why we are proposing some new methodologies or technologies. History is helping us to prevent past problems, experience in the IT world the same.
 
