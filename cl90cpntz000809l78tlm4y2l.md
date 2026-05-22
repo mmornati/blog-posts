@@ -1,4 +1,10 @@
-# Google Chrome 38: Wrong Display Scaling and blurred
+---
+title: "Google Chrome 38: Wrong Display Scaling and blurred"
+datePublished: 2014-10-09T22:00:00.000Z
+cuid: cl90cpntz000809l78tlm4y2l
+slug: google-chrome-38-wrong-display-scaling-and-blurred
+
+---
 
 Today I discovered my Google Chrome was automatically updated from version 37 to version 38... don't way automatically, I don't think I decided for this.
 Anyway, after this updated all websites I visited was wrong scaled with a strange blurred effected on some part of the text.
