@@ -2,7 +2,7 @@
 title: "L'IA ne nous remplacera pas…"
 seoTitle: "AI Enhancements, Not Replacements"
 seoDescription: "L'IA transforme les développeurs en 2026, les faisant passer d'artisans du code à architectes de solutions innovantes"
-datePublished: Sun Jan 18 2026 09:23:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-18T09:23:36.883Z
 cuid: cmkjj42lv000202l4ejq2erc0
 slug: lia-ne-nous-remplacera-pas
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FHnnjk1Yj7Y/upload/9f38565bcd9c90924fd294b7753cbdde.jpeg
