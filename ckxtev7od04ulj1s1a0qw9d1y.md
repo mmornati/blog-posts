@@ -1,4 +1,12 @@
-## What Docker is for?
+---
+title: "What Docker is for?"
+datePublished: 2021-12-30T20:16:02.358Z
+cuid: ckxtev7od04ulj1s1a0qw9d1y
+slug: what-docker-is-for
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zwsHjakE_iI/upload/v1640895332059/4hwOE4eIo.jpeg
+tags: docker, software-engineering, docker-images
+
+---
 
 Yes, it seems that even in 2021 not all IT people understood the power behind containers. Docker is one of the implementations but for sure the most known and used today on the developer laptops.
 
