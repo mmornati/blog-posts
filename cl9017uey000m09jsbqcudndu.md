@@ -1,1 +1,72 @@
-IyMgSW5zdGFsbCBHaXR3ZWIgb24geW91ciBob3N0Cgo8YSBocmVmPSJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9ibG9nLW1vcm5hdGktbmV0L2ltYWdlL3VwbG9hZC92MTM5MTY0MTQ3My92aWV3X2dpdC1sb2dvX2g3eHVpYi5wbmciPjxpbWcgY2xhc3M9ImFsaWdubGVmdCBzaXplLWZ1bGwgd3AtaW1hZ2UtMjExIiB0aXRsZT0iZ2l0LWxvZ28iIHNyYz0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vYmxvZy1tb3JuYXRpLW5ldC9pbWFnZS91cGxvYWQvdjEzOTE2NDE0NzMvdmlld19naXQtbG9nb19oN3h1aWIucG5nIiBhbHQ9IkdpdCIgd2lkdGg9IjkyIiBoZWlnaHQ9IjkyIiAvPjwvYT5Ub2RheSB3ZSB3aWxsIHNlZSBob3cgdG8gaW5zdGFsbCBnaXR3ZWIgb24gb3VyIChzaGFyZWQpIGhvc3QgKEknbSBhbHdheXMgdGFsa2luZyBhYm91dCBob3N0IGJlY2F1c2UgYWxsIHRoZSB0ZXN0cyBhcmUgZG9uZSBvbiBteSBzaGFyZWQgaG9zdCBzZXJ2aWNlLCBhbHdheXMgPGEgaHJlZj0iaHR0cDovL3d3dy5ibHVlaG9zdC5jb20iPkJsdWVob3N0PC9hPiA7KSwgbW9zdCBvZiBhbGwgYmVjYXVzZSBpZiB5b3Ugd2FudCB0byBpbnN0YWxsIGEgc2VydmljZSBsaWtlIHRoaXMsIG9uIHlvdXIgcGVyc29uYWwgc2VydmVyIHlvdSBjYW4gc2ltcGx5IGluc3RhbGwgaXQgYnkgUlBNL0RFQiBwYWNrYWdlKS4KClRoZSBiaWcgcHJvYmxlbSBpcyA8ZW0+d2hlcmUgSSBjYW4gZmluZCBnaXR3ZWI/PC9lbT7CoERpcmVjdGx5IHdpdGhpbiB0aGUgZ2l0IHNvdXJjZXMgOykgVGhpcyBtZWFucyBpZiB5b3UgaGF2ZSA8YSBocmVmPSJodHRwOi8vYmxvZy5tb3JuYXRpLm5ldC8yMDExLzA4LzI5L2hvc3QtcGVyc29uYWxlLyI+aW5zdGFsbGVkIGdpdCBmcm9tIHNvdXJjZXM8L2E+IHlvdSBoYXZlIGFscmVhZHkgYnVpbGQgZ2l0d2ViIHRvbyBhbmQgeW91IGp1c3QgbmVlZCB0byBpbnN0YWxsIGl0Lgo8cHJlPjxjb2RlPiBtb3JuYXRpbkBtb3JuYXRpLm5ldCBbfi9naXQtMjAxMS0wOS0wNy9naXR3ZWJdIyBsbAp0b3RhbCAzMDAKZHJ3eHIteHIteCAgMyBtb3JuYXRpbiBtb3JuYXRpbiAgIDQwOTYgU2VwIDE2IDEyOjUxIC4vCmRyd3hyLXhyLXggMTkgbW9ybmF0aW4gbW9ybmF0aW4gIDEyMjg4IFNlcCAxNCAxNDozMSAuLi8KLXJ3LXItLXItLSAgMSBtb3JuYXRpbiBtb3JuYXRpbiAgMTgxMzAgQXVnIDMwIDEzOjM1IElOU1RBTEwKLXJ3LXItLXItLSAgMSBtb3JuYXRpbiBtb3JuYXRpbiAgIDU1MDggQXVnIDMwIDEzOjM1IE1ha2VmaWxlCi1ydy1yLS1yLS0gIDEgbW9ybmF0aW4gbW9ybmF0aW4gIDE4ODQ5IEF1ZyAzMCAxMzozNSBSRUFETUUKLXJ3eHIteHIteCAgMSBtb3JuYXRpbiBtb3JuYXRpbiAyMzEzNDcgQXVnIDMwIDEzOjM1IGdpdHdlYi5wZXJsKgpkcnd4ci14ci14ICAzIG1vcm5hdGluIG1vcm5hdGluICAgNDA5NiBTZXAgMTQgMTQ6MzEgc3RhdGljLzwvY29kZT48L3ByZT4KSGVyZSB5b3UgY2FuIHNlZSBhIG5vdC1idWlsdCBnaXQgd2ViIHByb2plY3QsIGxvY2F0ZWQgaW4gImxhdGVzdCIgZ2l0IHNvdXJjZXMgKGdpdC0yMDExLTA5LTA3KSBnaXR3ZWIgZm9sZGVyLiBTbywgaWYgeW91IGp1c3Qgd2FudCB0byBpbnN0YWxsIGdpdHdlYiB3aXRob3V0IGdpdCAoZm9yIGV4YW1wbGUgdG8gZ2V0IGxhdGVzdCB2ZXJzaW9uIG9mIGdpdHdlYiB3aXRob3V0IGNoYW5naW5nIHlvdXIgZ2l0KSB5b3UgY2FuIGVudGVyIHRoaXMgZGlyZWN0b3J5IGFuZCBydW4gYSBzaW1wbGUgPGVtPm1ha2U8L2VtPi4KPHByZT48Y29kZT4gbW9ybmF0aW5AbW9ybmF0aS5uZXQgW34vZ2l0LTIwMTEtMDktMDcvZ2l0d2ViXSMgbWFrZQogICAgU1VCRElSIC4uLwptYWtlWzFdOiBgR0lULVZFUlNJT04tRklMRScgaXMgdXAgdG8gZGF0ZS4KICAgIEdFTiBnaXR3ZWIuY2dpPC9jb2RlPjwvcHJlPgpOb3csIGlsIGFsbCB3b3JrZWQgd2VsbCwgbG9va2luZyBpbiBnaXR3ZWIgZm9sZGVyLCB5b3UgY2FuIGZpbmQgYSA8ZW0+Y2dpPC9lbT7CoGZpbGUuCjxwcmU+PGNvZGU+IG1vcm5hdGluQG1vcm5hdGkubmV0IFt+L2dpdC0yMDExLTA5LTA3L2dpdHdlYl0jIGxsCnRvdGFsIDUzNgpkcnd4ci14ci14ICAzIG1vcm5hdGluIG1vcm5hdGluICAgNDA5NiBTZXAgMTYgMTI6NTkgLi8KZHJ3eHIteHIteCAxOSBtb3JuYXRpbiBtb3JuYXRpbiAgMTIyODggU2VwIDE0IDE0OjMxIC4uLwotcnctci0tci0tICAxIG1vcm5hdGluIG1vcm5hdGluICAgIDgxNSBTZXAgMTYgMTI6NTkgR0lUV0VCLUJVSUxELU9QVElPTlMKLXJ3LXItLXItLSAgMSBtb3JuYXRpbiBtb3JuYXRpbiAgMTgxMzAgQXVnIDMwIDEzOjM1IElOU1RBTEwKLXJ3LXItLXItLSAgMSBtb3JuYXRpbiBtb3JuYXRpbiAgIDU1MDggQXVnIDMwIDEzOjM1IE1ha2VmaWxlCi1ydy1yLS1yLS0gIDEgbW9ybmF0aW4gbW9ybmF0aW4gIDE4ODQ5IEF1ZyAzMCAxMzozNSBSRUFETUUKLXJ3eHIteHIteCAgMSBtb3JuYXRpbiBtb3JuYXRpbiAyMzExNDMgU2VwIDE2IDEyOjU5IGdpdHdlYi5jZ2kqCi1yd3hyLXhyLXggIDEgbW9ybmF0aW4gbW9ybmF0aW4gMjMxMzQ3IEF1ZyAzMCAxMzozNSBnaXR3ZWIucGVybCoKZHJ3eHIteHIteCAgMyBtb3JuYXRpbiBtb3JuYXRpbiAgIDQwOTYgU2VwIDE0IDE0OjMxIHN0YXRpYy88L2NvZGU+PC9wcmU+CldoYXQgeW91IG5lZWQgdG8gZG8gbm93IGlzIGp1c3QgdG8gY29weSB0aGUgPGVtPmNnaTwvZW0+wqBzY3JpcHQgaW4geW91ciBhcGFjaGUgYW5kIGFsbCA8ZW0+c3RhdGljPC9lbT7CoGZpbGVzIChpbiB0aGUgc3RhdGljIGZvbGRlciBpbnNpZGUgdGhlIGdpdHdlYiBvbmUpLgo8cHJlPjxjb2RlPiBjcCAqLmNnaSAvaG9tZS91c2VyL3B1YmxpY19odG1sL2dpdApjcCBzdGF0aWMvKiAvaG9tZS91c2VyL3B1YmxpY19odG1sL2dpdDwvY29kZT48L3ByZT4KTm93IHlvdSBoYXZlIHRvIGNvbmZpZ3VyZSB5b3VyIGdpdHdlYiBzZXJ2aWNlIGNyZWF0aW5nIHRoZSBmaWxlIDxzdHJvbmc+Z2l0d2ViX2NvbmZpZy5wZXJsPC9zdHJvbmc+wqBpbiB0aGUgc2FtZSBwbGFjZSBvZiBjZ2kgZmlsZSAoaW4gdGhpcyBleGFtcGxlIC9ob21lL3VzZXIvcHVibGljX2h0bWwvZ2l0KS4gSW4gdGhpcyBmaWxlIHlvdSBjYW4gY3V0JmFtcDtwYXN0ZSB0aGlzIGNvZGUKPHByZT48Y29kZT4gIyB3aGVyZSBpcyB0aGUgZ2l0IGJpbmFyeT8KJEdJVCA9ICIvdXNyL2Jpbi9naXQiOwoKIyB3aGVyZSBhcmUgb3VyIGdpdCBwcm9qZWN0IHJlcG9zaXRvcmllcz8KJHByb2plY3Ryb290ID0gIi9ob21lL3VzZXIvcmVwb3NpdG9yaWVzIjsKCiMgd2hhdCBkbyB3ZSBjYWxsIG91ciBwcm9qZWN0cyBpbiB0aGUgZ2l0d2ViIFVJPwokaG9tZV9saW5rX3N0ciA9ICJNeSBnaXR3ZWIgc2VydmljZSI7CgojICB3aGVyZSBhcmUgdGhlIGZpbGVzIHdlIG5lZWQgZm9yIGdpdHdlYiB0byBkaXNwbGF5PwpAc3R5bGVzaGVldHMgPSAoImdpdHdlYi5jc3MiKTsKJGxvZ28gPSAiZ2l0LWxvZ28ucG5nIjsKJGZhdmljb24gPSAiZ2l0LWZhdmljb24ucG5nIjsKCiMgd2hhdCBkbyB3ZSBjYWxsIHRoaXMgc2l0ZT8KJHNpdGVfbmFtZSA9ICJNeSBHaXR3ZWIiOzwvY29kZT48L3ByZT4KV2hlcmUgeW91IGhhdmUgdG8gc3BlY2lmeTogdGhlIGxvY2F0aW9uIG9mIGdpdCBiaW4sIHRoZSBwbGFjZSBvZiB5b3VyIGdpdCByZXBvc2l0b3J5ICh0aGUgcm9vdCBkaXJlY3Rvcnkgd2hlcmUgYWxsIGdpdCBwcm9qZWN0cyBhcmUgbG9jYXRlZCwgZ2l0IHdlYiB3aWxsIGNoZWNrIGZvciBnaXQgcmVwb3NpdG9yeSBzdGFydGluZyBmcm9tIHRoaXMgcGF0aCksIGFuZCBvcHRpb25hbGx5IHNvbWUgc3R5bGUgc3R1ZmZzIGFuZCBkZXNjcmlwdGlvbnMpLgoKVGhlIG9ubHkgdGhpbmcgcmVtYWluaW5nIGlzIHRoZSBjb25maWd1cmF0aW9uIG9mIHlvdXIgPGVtPi5odGFjY2VzcyBmaWxlIDwvZW0+KG9yIGEgaHR0cGQvY29uZi5kLyouY29uZiBmaWxlIGlmIHlvdSBoYXZlIHJvb3QgYWNjZXNzIHRvIHlvdXIgc2VydmVyKS4KWW91IGNhbiBjb25maWd1cmUgbGlrZSB0aGlzIG9uZSBhZGRpbmcgYSBiYXNpYyBhdXRoZW50aWNhdGlvbiB0byBjcmVhdGUgYSBwcml2YXRlIGdpdHdlYiBzZXJ2aWNlCjxwcmU+PGNvZGU+IEF1dGhUeXBlIEJhc2ljCkF1dGhOYW1lICJnaXQgcmVwb3NpdG9yeSIKQXV0aFVzZXJGaWxlICIvaG9tZS91c2VyL3Bhc3N3ZCIKcmVxdWlyZSB2YWxpZC11c2VyCk9wdGlvbnMgK0V4ZWNDR0kKUmV3cml0ZUVuZ2luZSBPbgpSZXdyaXRlUnVsZSBeJCBnaXR3ZWIuY2dpClJld3JpdGVSdWxlIF4oWz9dLiopJCBnaXR3ZWIuY2dpJDE8L2NvZGU+PC9wcmU+ClRoZSBpbXBvcnRhbnQgdGhpbmdzIHRvIGVuYWJsZSBnaXR3ZWIgaXMgc3RhcnRpbmcgZnJvbSA8ZW0+T3B0aW9uczwvZW0+wqBsaW5lLgoKTm93IHlvdSBjYW4gdXNlIGdpdHdlYiBhbmQgc3RhcnQgYnJvd3NlIHlvdXIgcHJvamVjdHMuIEVuam95IQ==
+---
+title: "Install Gitweb on your host"
+datePublished: 2011-09-15T22:00:00.000Z
+cuid: cl9017uey000m09jsbqcudndu
+slug: install-gitweb-on-your-host
+
+---
+
+<a href="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641473/view_git-logo_h7xuib.png"><img class="alignleft size-full wp-image-211" title="git-logo" src="https://res.cloudinary.com/blog-mornati-net/image/upload/v1391641473/view_git-logo_h7xuib.png" alt="Git" width="92" height="92" /></a>Today we will see how to install gitweb on our (shared) host (I'm always talking about host because all the tests are done on my shared host service, always <a href="http://www.bluehost.com">Bluehost</a> ;), most of all because if you want to install a service like this, on your personal server you can simply install it by RPM/DEB package).
+
+The big problem is <em>where I can find gitweb?</em> Directly within the git sources ;) This means if you have <a href="http://blog.mornati.net/2011/08/29/host-personale/">installed git from sources</a> you have already build gitweb too and you just need to install it.
+<pre><code> mornatin@mornati.net [~/git-2011-09-07/gitweb]# ll
+total 300
+drwxr-xr-x  3 mornatin mornatin   4096 Sep 16 12:51 ./
+drwxr-xr-x 19 mornatin mornatin  12288 Sep 14 14:31 ../
+-rw-r--r--  1 mornatin mornatin  18130 Aug 30 13:35 INSTALL
+-rw-r--r--  1 mornatin mornatin   5508 Aug 30 13:35 Makefile
+-rw-r--r--  1 mornatin mornatin  18849 Aug 30 13:35 README
+-rwxr-xr-x  1 mornatin mornatin 231347 Aug 30 13:35 gitweb.perl*
+drwxr-xr-x  3 mornatin mornatin   4096 Sep 14 14:31 static/</code></pre>
+Here you can see a not-built git web project, located in "latest" git sources (git-2011-09-07) gitweb folder. So, if you just want to install gitweb without git (for example to get latest version of gitweb without changing your git) you can enter this directory and run a simple <em>make</em>.
+<pre><code> mornatin@mornati.net [~/git-2011-09-07/gitweb]# make
+    SUBDIR ../
+make[1]: `GIT-VERSION-FILE' is up to date.
+    GEN gitweb.cgi</code></pre>
+Now, il all worked well, looking in gitweb folder, you can find a <em>cgi</em> file.
+<pre><code> mornatin@mornati.net [~/git-2011-09-07/gitweb]# ll
+total 536
+drwxr-xr-x  3 mornatin mornatin   4096 Sep 16 12:59 ./
+drwxr-xr-x 19 mornatin mornatin  12288 Sep 14 14:31 ../
+-rw-r--r--  1 mornatin mornatin    815 Sep 16 12:59 GITWEB-BUILD-OPTIONS
+-rw-r--r--  1 mornatin mornatin  18130 Aug 30 13:35 INSTALL
+-rw-r--r--  1 mornatin mornatin   5508 Aug 30 13:35 Makefile
+-rw-r--r--  1 mornatin mornatin  18849 Aug 30 13:35 README
+-rwxr-xr-x  1 mornatin mornatin 231143 Sep 16 12:59 gitweb.cgi*
+-rwxr-xr-x  1 mornatin mornatin 231347 Aug 30 13:35 gitweb.perl*
+drwxr-xr-x  3 mornatin mornatin   4096 Sep 14 14:31 static/</code></pre>
+What you need to do now is just to copy the <em>cgi</em> script in your apache and all <em>static</em> files (in the static folder inside the gitweb one).
+<pre><code> cp *.cgi /home/user/public_html/git
+cp static/* /home/user/public_html/git</code></pre>
+Now you have to configure your gitweb service creating the file <strong>gitweb_config.perl</strong> in the same place of cgi file (in this example /home/user/public_html/git). In this file you can cut&amp;paste this code
+<pre><code> # where is the git binary?
+$GIT = "/usr/bin/git";
+
+# where are our git project repositories?
+$projectroot = "/home/user/repositories";
+
+# what do we call our projects in the gitweb UI?
+$home_link_str = "My gitweb service";
+
+#  where are the files we need for gitweb to display?
+@stylesheets = ("gitweb.css");
+$logo = "git-logo.png";
+$favicon = "git-favicon.png";
+
+# what do we call this site?
+$site_name = "My Gitweb";</code></pre>
+Where you have to specify: the location of git bin, the place of your git repository (the root directory where all git projects are located, git web will check for git repository starting from this path), and optionally some style stuffs and descriptions).
+
+The only thing remaining is the configuration of your <em>.htaccess file </em>(or a httpd/conf.d/*.conf file if you have root access to your server).
+You can configure like this one adding a basic authentication to create a private gitweb service
+<pre><code> AuthType Basic
+AuthName "git repository"
+AuthUserFile "/home/user/passwd"
+require valid-user
+Options +ExecCGI
+RewriteEngine On
+RewriteRule ^$ gitweb.cgi
+RewriteRule ^([?].*)$ gitweb.cgi$1</code></pre>
+The important things to enable gitweb is starting from <em>Options</em> line.
+
+Now you can use gitweb and start browse your projects. Enjoy!
