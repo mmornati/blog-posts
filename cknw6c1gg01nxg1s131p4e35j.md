@@ -1,4 +1,12 @@
-# Home Assistant with RPi4 - Improvements
+---
+title: "Home Assistant with RPi4 - Improvements"
+datePublished: 2021-04-24T20:07:12.622Z
+cuid: cknw6c1gg01nxg1s131p4e35j
+slug: home-assistant-with-rpi4-improvements
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/9wnAhRYdDzc/upload/v1665261431599/_RVB6c29f.jpeg
+tags: raspberry-pi, smart-home
+
+---
 
 I started with Home Assistant over RPi more or less 3 years ago. The reason was simple: I needed to add protocols for what I was using at home and in the Smart Home Box universe you should choose between a few protocols or an incredible price (and maybe anyway not all the protocols you want to use).
 At the beginning, my Hass was controlling only a couple of ZWave devices and now, after we move into a new house 8 months ago, everything is under the HomeAssistant control. This means no more external custom doomed boxes.
