@@ -1,4 +1,13 @@
-## Professional Debugger
+---
+title: "Professional Debugger"
+datePublished: 2021-10-02T16:56:28.445Z
+cuid: ckua1ewd703af8os17v2p4evg
+slug: professional-debugger
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1633193656197/8RrG0si_Wm.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1633193778397/hOTDCqeJK.jpeg
+tags: developer, debugging, coding, software-engineering
+
+---
 
 What is this? Where did this passion come from and when I started? Sometimes I'm thinking about everything I did in my career and what each step contributed to what and where I'm today.
 
