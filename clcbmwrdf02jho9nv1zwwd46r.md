@@ -1,4 +1,12 @@
-# Home Assistant: use ZigBee buttons to control other protocol devices
+---
+title: "Home Assistant: use ZigBee buttons to control other protocol devices"
+datePublished: 2022-12-31T07:40:41.972Z
+cuid: clcbmwrdf02jho9nv1zwwd46r
+slug: home-assistant-use-zigbee-buttons-to-control-other-protocol-devices
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/39a68ffd3330d2c1a0e88ba328e61e1f.jpeg
+tags: automation, home-assistant, zigbee, zigbee2mqtt, mosquitto
+
+---
 
 In this blog post, I will show how you can use a ZigBee in a completely different and unusual way.  
 You can control devices using a different protocol (ex covers using ZWave) but also, and I find it much more important, to use the different buttons on the same controller to drive different lights/devices or do a different action based on the number of click within a short period.
