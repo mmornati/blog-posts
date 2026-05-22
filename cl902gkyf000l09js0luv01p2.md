@@ -1,1 +1,18 @@
-IyMgVmlydHVhbEJveCBMaW51eDogREtNUyBtb2R1bGUgYnVpbGQgcHJvYmxlbXMKCkFmdGVyIGEgd2hpbGUgSSBkaWRuJ3QgdXNlIFZpcnR1YWxCb3gsIHRoZSB2aXJ0dWFsaXphdGlvbiBzeXN0ZW0gSSB1c2UganVzdCB0byBob3N0IG15IFdpbmRvd3MgdmlydHVhbCBtYWNoaW5lcyAoYWxsIG90aGVycyBtYWNoaW5lcyBhcmUgb24gS1ZNKSwgSSBkaXNjb3ZlcmVkIHRoYXQgSSBjYW5ub3QgYnVpbGQgdGhlIERLTVMga2VybmVsIG1vZHVsZSBhbmQgc28gbm8gd2F5IHRvIHN0YXJ0IG15IFdpbmRvd3MgdmlydHVhbCBtYWNoaW5lLiBOb3QgYSBiaWcgcHJvYmxlbSwgSSBrbm93IDopIEJ1dCBzb21ldGltZXMgSSBuZWVkIHRvIHRlc3Qgd2ViIGFwcGxpY2F0aW9uIG9yIGJ1aWxkIHByb2NlZHVyZSBvbiBXaW5kb3dzIGVudmlyb25tZW50LgoKQWZ0ZXIgc29tZSB0ZXN0cyBJIGRpc2NvdmVyZWQgaW4gdGhlIGJ1aWxkIGxvZyBmaWxlIHRoZSByZWFsIHByb2JsZW0gYWJvdXQgdGhlIFZpcnR1YWxCb3ggYnVpbGQgcHJvY2VkdXJlOgo8cHJlPjxjb2RlPiBmYXRhbCBlcnJvcjogYXNtL2FtZF9pb21tdS5oOiBObyBzdWNoIGZpbGUgb3IgZGlyZWN0b3J5CmNvbXBpbGF0aW9uIHRlcm1pbmF0ZWQuPC9jb2RlPjwvcHJlPgpzbywgaXQgY2Fubm90IGZpbmQgdGhlIGtlcm5lbCBhc20vYW1kIG1vZHVsZS4gQW5kIHRoZSBwcm9ibGVtIGlzIGV4YWN0bHkgdGhhdCBpbiB0aGUgbGF0ZXN0cyB2ZXJzaW9uIG9mIHRoZSBrZXJuZWwgdGhpcyBtb2R1bGUgaXMgcmVtb3ZlZCAob3IgcmVuYW1lZCwgbm90IHN1cmUgZXhhY3RseSksIGJ1dCBWaXJ0dWFsQm94IHdhbnQgdG8gdXNlIGl0LgoKU28gYSBxdWljay1hbmQtZGlydCBzb2x1dGlvbiBJIGZvdW5kIGlzIHRvIGNvcHkgdGhpcyBtb2R1bGUgZnJvbSB0aGUgcHJldmlvdXMgdmVyc2lvbiBvZiBrZXJuZWwuIEZvciBtZSBpdCB3YXM6CjxwcmU+PGNvZGU+IFtyb290QG1tb3JuYXRpIDIuNi40MS4xLTEuZmMxNS54ODZfNjRdIyBjcCAvdXNyL3NyYy9rZXJuZWxzLzIuNi40MC40LTUuZmMxNS54ODZfNjQvYXJjaC94ODYvaW5jbHVkZS9hc20vYW1kX2lvbW11LmggL3Vzci9zcmMva2VybmVscy8yLjYuNDEuMS0xLmZjMTUueDg2XzY0L2FyY2gveDg2L2luY2x1ZGUvYXNtLzwvY29kZT48L3ByZT4KQWZ0ZXIgdGhpcyBJIGJ1aWxkIHRoZSBWaXJ0dWFsQm94IG1vZHVsZSB3aXRob3V0IHByb2JsZW0gKDxzdHJvbmc+L2V0Yy9pbml0LmQvdmJveGRydiBzZXR1cDwvc3Ryb25nPikgYW5kIHN0YXJ0ZWQgdXAgbXkgdmlydHVhbCBtYWNoaW5lLg==
+---
+title: "VirtualBox Linux: DKMS module build problems"
+datePublished: 2011-11-28T23:00:00.000Z
+cuid: cl902gkyf000l09js0luv01p2
+slug: virtualbox-linux-dkms-module-build-problems
+
+---
+
+After a while I didn't use VirtualBox, the virtualization system I use just to host my Windows virtual machines (all others machines are on KVM), I discovered that I cannot build the DKMS kernel module and so no way to start my Windows virtual machine. Not a big problem, I know :) But sometimes I need to test web application or build procedure on Windows environment.
+
+After some tests I discovered in the build log file the real problem about the VirtualBox build procedure:
+<pre><code> fatal error: asm/amd_iommu.h: No such file or directory
+compilation terminated.</code></pre>
+so, it cannot find the kernel asm/amd module. And the problem is exactly that in the latests version of the kernel this module is removed (or renamed, not sure exactly), but VirtualBox want to use it.
+
+So a quick-and-dirt solution I found is to copy this module from the previous version of kernel. For me it was:
+<pre><code> [root@mmornati 2.6.41.1-1.fc15.x86_64]# cp /usr/src/kernels/2.6.40.4-5.fc15.x86_64/arch/x86/include/asm/amd_iommu.h /usr/src/kernels/2.6.41.1-1.fc15.x86_64/arch/x86/include/asm/</code></pre>
+After this I build the VirtualBox module without problem (<strong>/etc/init.d/vboxdrv setup</strong>) and started up my virtual machine.
