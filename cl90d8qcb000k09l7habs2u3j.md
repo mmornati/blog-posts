@@ -1,4 +1,10 @@
-# DockerHub: automate your docker images build and push
+---
+title: "DockerHub: automate your docker images build and push"
+datePublished: 2016-09-03T22:00:00.000Z
+cuid: cl90d8qcb000k09l7habs2u3j
+slug: dockerhub-automate-your-docker-images-build-and-push
+
+---
 
 The [DockerHub](https://hub.docker.com/) website it is created by Docker to allow developers to automate the Docker images build and push the image into the Docker repository.
 In this way you don't need to use your CPU time to build the image and not even your bandwidth to upload the image into the Docker repository to allow others to pull it.
