@@ -1,4 +1,11 @@
-# Build RPMs for a Git (Github) project with Jenkins
+---
+title: "Build RPMs for a Git (Github) project with Jenkins"
+datePublished: 2021-09-13T22:00:00.000Z
+cuid: cl90160ly000i09jsd2pv7shc
+slug: build-rpms-for-a-git-github-project-with-jenkins
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/wX2L8L-fGeA/upload/v1665261336973/wGLtqMkVM.jpeg
+
+---
 
 <a href="http://blog.mornati.net/2011/09/14/build-rpms-using-jenkinshudson/">Here</a> we show a way to build RPMs with Jenkins using a Makefile. Now we will show a Jenkins based build (without create Makefle).
 
