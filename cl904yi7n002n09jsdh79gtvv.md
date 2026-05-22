@@ -1,4 +1,10 @@
-# OVH VPS SSH Broken Pipe (Timeout): How to keep alive
+---
+title: "OVH VPS SSH Broken Pipe (Timeout): How to keep alive"
+datePublished: 2014-01-11T23:00:00.000Z
+cuid: cl904yi7n002n09jsdh79gtvv
+slug: ovh-vps-ssh-broken-pipe-timeout-how-to-keep-alive
+
+---
 
 I recently noticed that on my OVH VPS Server, SSH sessions remain blocked (appended with <em>Write failed: Broken pipe</em> message after a while) when I leave them unused for a while (about 30 seconds). This means you will need to reconnect once again, and all ssh/bash processes from the previous connection will be alive (waste of memory!).
 
