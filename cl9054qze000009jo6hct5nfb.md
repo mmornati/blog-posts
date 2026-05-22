@@ -1,4 +1,10 @@
-# Migration Wordpress to Ghost: two weeks later
+---
+title: "Migration Wordpress to Ghost: two weeks later"
+datePublished: 2014-02-18T23:00:00.000Z
+cuid: cl9054qze000009jo6hct5nfb
+slug: migration-wordpress-to-ghost-two-weeks-later
+
+---
 
 Twe weeks ago I migrated my blog from Wordpress to Ghost platform. Even if actually I'm loosing some useful resource/util I loved in Wordpress, Ghost it's really awesome and easy to use.
 
