@@ -1,1 +1,29 @@
-IyMgSW5zdGFsbCBQeXRob24gMi43IG9uIEJsdWVIb3N0CgpBZnRlciBJIDxhIGhyZWY9Imh0dHA6Ly9ibG9nLm1vcm5hdGkubmV0LzIwMTEvMDgvMzEvYmx1ZWhvc3QtY29tLWFuZC1weXRob24tMi02LyI+ZGlzY292ZXJlZCB0aGUgcHJlc2VuY2Ugb2YgUHl0aG9uIDIuNjwvYT4gb24gQmx1ZUhvc3QsIHRoZXkgZGVjaWRlZCB0byByZW1vdmUgdGhpcyBpbnN0YWxsYXRpb24gYnkgZGVmYXVsdC4gRm9ydHVuYXRlbHkgaXQncyByZWFsbHkgc2ltcGxlIHRvIGJ1aWxkIFB5dGhvbiBmcm9tIHNvdXJjZXMgYW5kIGluc3RhbGwgaXQgKGFuZCBuYXR1cmFsbHksIHRoZSBnb29kIHRoaW5nIGlzIHRoYXQgYWxsIHJlcXVpcmVkIHBhY2thZ2VzIHRvIGJ1aWxkIFB5dGhvbiBhcmUgaW5zdGFsbGVkIG9uIEJsdWVIb3N0IHNlcnZlcnMpLgpTbyBoZXJlIHRoZSBzdGVwcyB0byBmb2xsb3cgdG8gYnVpbGQgYW5kIGluc3RhbGwgdGhlIHB5dGhvbiB2ZXJzaW9uIHlvdSBwcmVmZXIgKHRlc3RlZCB3aXRoIFB5dGhvbiAyLjYgYW5kIDIuNy54KS4KPHByZT48Y29kZT4gd2dldCBodHRwOi8vd3d3LnB5dGhvbi5vcmcvZnRwL3B5dGhvbi8yLjcuMi9QeXRob24tMi43LjIudGd6CnRhciB4enZmIFB5dGhvbi0yLjcuMi50Z3o8L2NvZGU+PC9wcmU+CmFuZCwganVzdCBhIG5vdGUsIHRoZSBwYWNrYWdlIGlzIHdlbGwgZG9uZSBhbmQgaXQgd2lsbCBjcmVhdGUgYSBQeXRob24gc3ViZm9sZGVyIDopCgpBZnRlciB0aGlzIHdlIGNhbiBhbHJlYWR5IGNvbmZpZ3VyZSBhbmQgaW5zdGFsbCBpdC4KPHByZT48Y29kZT4gY2QgUHl0aG9uLTIuNy4yCi4vY29uZmlndXJlIC1wcmVmaXg9L2hvbWUyL21vcm5hdGluL3B5dGhvbjI3MiAtLWVuYWJsZS11bmljb2RlPXVjczQKbWFrZQptYWtlIGluc3RhbGw8L2NvZGU+PC9wcmU+CkNoYW5nZSB0aGUgUHl0aG9uIHZlcnNpb24gaW4gdGhpcyBleGFtcGxlIGFuZCB0aGUgaW5zdGFsbGF0aW9uIGRpcmVjdG9yeSB3aXRoIHdoYXQgeW91IHByZWZlci4gTmF0dXJhbGx5LCBjb25zaWRlcmluZyB5b3UgYXJlIG9uIHNoYXJlZCBob3N0IChpZiB5b3UgaGF2ZSBhIGRlZGljYXRlZCBzZXJ2ZXIgeW91IGNhbiBpbnN0YWxsIHB5dGhvbiB1c2luZyB5b3VyIGRpc3RyaWJ1dGlvbiBwYWNrYWdlIHN5c3RlbSksIHlvdSBoYXZlIGFjY2VzcyBvbmx5IHRvIHlvdXIgaG9tZSBmb2xkZXIsIHNvIHRoZSB0YXJnZXQgZGlyZWN0b3J5IG11c3QgYmUgaW5zaWRlIHlvdXIgaG9tZS4KSWYgYWxsIHdvcmtlZCB3ZWxsLCBhdCB0aGUgZW5kIG9mIHRoaXMgcHJvY2VkdXJlIHlvdXIgcHl0aG9uIGlzIGNvcnJlY3RseSBpbnN0YWxsIGluIHlvdXIgc3lzdGVtIGFuZCB5b3UgY2FuIHN0YXJ0IHVzaW5nIGl0LiBUbyB0ZXN0IHlvdSBjYW4ganVzdCBzaW1wbHkgdHJ5IHRvIHN0YXJ0IHRoZSBiaW5hcnkgZmlsZQo8cHJlPjxjb2RlPiAvaG9tZTIvbW9ybmF0aW4vcHl0aG9uMjcyL2Jpbi9weXRob248L2NvZGU+PC9wcmU+CkEgdGhpbmcgSSBjYW4gc3VnZ2VzdCwgaWYgeW91IGRvbid0IHdhbnQgdG8gb3ZlcnJpZGUgdGhlIEJsdWVIb3N0IGRlZmF1bHQgcHl0aG9uIGFuZC9vciBpZiB5b3Ugd2FudCB0byBpbnN0YWxsIGRpZmZlcmVudCBweXRob24gdmVyc2lvbiwgaXMgdG8gcmVuYW1lIHRoZSA8c3Ryb25nPnB5dGhvbjwvc3Ryb25nPsKgYmluYXJ5IHdpdGggc29tZXRoaW5nIGRpZmZlcmVudC4gRm9yIGV4YW1wbGU6CjxwcmU+PGNvZGU+IG12IC9ob21lMi9tb3JuYXRpbi9weXRob24yNzIvYmluL3B5dGhvbiAvaG9tZTIvbW9ybmF0aW4vcHl0aG9uMjcyL2Jpbi9weXRob24yNzwvY29kZT48L3ByZT4KQWZ0ZXIgdGhpcyBzdGVwIHlvdSBjYW4gYWRkIHRoZSBweXRob24gPHN0cm9uZz5iaW48L3N0cm9uZz4gZm9sZGVyIHRvIHlvdXIgPHN0cm9uZz5QQVRIPC9zdHJvbmc+IGFuZCB1c2UgaXQgZXZlcnl3aGVyZToKPHByZT48Y29kZT4gZXhwb3J0IFBBVEg9L2hvbWUyL21vcm5hdGluL3B5dGhvbjI3Mi9iaW46JFBBVEg8L2NvZGU+PC9wcmU+CkFsbCBjb25maWd1cmVkIGFuZCB5b3UgY2FuIHN0YXJ0IHdvcmtpbmcgd2l0aCB5b3VyIG5ldyBweXRob24gdmVyc2lvbi4gQW4gaW1wb3J0YW50IHRoaW5nIHRvIHJlbWVtYmVyIGlzIHRoYXQsIGlmIHlvdSBoYXZlbid0IHB5dGhvbiAyLjcgKG9yIG90aGVyKSBjb25maWd1cmVkIGFzIGRlZmF1bHQgcHl0aG9uLCB3aGVuIHlvdSB3YW50IHRvIGluc3RhbGwgYSBuZXcgbW9kdWxlIGluIGl0LCB5b3Ugc2hvdWxkIGludm9rZSB0aGUgY29ycmVjdGx5IGJpbmFyeSBmaWxlLiBGb2xsb3dpbmcgdGhpcyBpbnN0YWxsYXRpb24gZXhhbXBsZToKPHByZT48Y29kZT4gcHl0aG9uMjcgc2V0dXAucHkgaW5zdGFsbDwvY29kZT48L3ByZT4KJm5ic3A7
+---
+title: "Install Python 2.7 on BlueHost"
+datePublished: 2011-11-29T23:00:00.000Z
+cuid: cl902ikkj001209jsebj2acut
+slug: install-python-27-on-bluehost
+
+---
+
+After I <a href="http://blog.mornati.net/2011/08/31/bluehost-com-and-python-2-6/">discovered the presence of Python 2.6</a> on BlueHost, they decided to remove this installation by default. Fortunately it's really simple to build Python from sources and install it (and naturally, the good thing is that all required packages to build Python are installed on BlueHost servers).
+So here the steps to follow to build and install the python version you prefer (tested with Python 2.6 and 2.7.x).
+<pre><code> wget http://www.python.org/ftp/python/2.7.2/Python-2.7.2.tgz
+tar xzvf Python-2.7.2.tgz</code></pre>
+and, just a note, the package is well done and it will create a Python subfolder :)
+
+After this we can already configure and install it.
+<pre><code> cd Python-2.7.2
+./configure -prefix=/home2/mornatin/python272 --enable-unicode=ucs4
+make
+make install</code></pre>
+Change the Python version in this example and the installation directory with what you prefer. Naturally, considering you are on shared host (if you have a dedicated server you can install python using your distribution package system), you have access only to your home folder, so the target directory must be inside your home.
+If all worked well, at the end of this procedure your python is correctly install in your system and you can start using it. To test you can just simply try to start the binary file
+<pre><code> /home2/mornatin/python272/bin/python</code></pre>
+A thing I can suggest, if you don't want to override the BlueHost default python and/or if you want to install different python version, is to rename the <strong>python</strong> binary with something different. For example:
+<pre><code> mv /home2/mornatin/python272/bin/python /home2/mornatin/python272/bin/python27</code></pre>
+After this step you can add the python <strong>bin</strong> folder to your <strong>PATH</strong> and use it everywhere:
+<pre><code> export PATH=/home2/mornatin/python272/bin:$PATH</code></pre>
+All configured and you can start working with your new python version. An important thing to remember is that, if you haven't python 2.7 (or other) configured as default python, when you want to install a new module in it, you should invoke the correctly binary file. Following this installation example:
+<pre><code> python27 setup.py install</code></pre>
+&nbsp;
