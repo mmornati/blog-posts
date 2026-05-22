@@ -1,4 +1,12 @@
-## Smart VMC (Mechanical Ventilation System)
+---
+title: "Smart VMC (Mechanical Ventilation System)"
+datePublished: 2022-08-23T11:56:33.562Z
+cuid: cl764t2ag01p943nve29d7dlp
+slug: smart-vmc-mechanical-ventilation-system
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/NLBJ2I0lNr4/upload/v1661255643250/mXoSLttQv.jpeg
+tags: smart-home, vmc, fibaro, shelly
+
+---
 
 Making your home smart allows several benefits, but the most important is that you can automate everything you want based on special events: close the cover if the sun is hotting the house; turn off all the lights when you are leaving, ...
 If well parametrized it is making all your home, much more environment friendly.
