@@ -1,4 +1,10 @@
-# Nexus 7: reinstall stock rom and re-lock boot loader
+---
+title: "Nexus 7: reinstall stock rom and re-lock boot loader"
+datePublished: 2013-10-25T22:00:00.000Z
+cuid: cl9045hjo001f09js1beka8az
+slug: nexus-7-reinstall-stock-rom-and-re-lock-boot-loader
+
+---
 
 After the problem I had on my Nexus 7 and the <a href="http://blog.mornati.net/2013/10/26/nexus-7-restore-to-factory-default/">wipe data test</a>, my tables was always locked on the boot image.
 So, the second thing (and I think the last one too) I could test, was a complete reinstallation of the rom.
