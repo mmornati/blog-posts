@@ -1,4 +1,10 @@
-# docker-ghostblog-cloudinary The new one for this blog, and for you
+---
+title: "docker-ghostblog-cloudinary The new one for this blog, and for you"
+datePublished: 2017-09-16T22:00:00.000Z
+cuid: cl90dgspg000209mjdqladd7l
+slug: docker-ghostblog-cloudinary-the-new-one-for-this-blog-and-for-you
+
+---
 
 If you want an all-in-one Docker for your Blog, you can use my new [docker-ghostblog-cloudinary](https://github.com/mmornati/docker-ghostblog-cloudinary) (the one used to run this blog).
 
