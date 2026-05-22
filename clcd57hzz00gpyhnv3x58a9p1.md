@@ -1,4 +1,12 @@
-# HomeAssistant: Close cover to control the home temperature
+---
+title: "HomeAssistant: Close cover to control the home temperature"
+datePublished: 2023-01-01T09:00:42.310Z
+cuid: clcd57hzz00gpyhnv3x58a9p1
+slug: homeassistant-close-cover-to-control-the-home-temperature
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bd91fe3ee062ee49f7fe80459786a7e7.jpeg
+tags: automation, weather, home-assistant, cover
+
+---
 
 Today I will show you a simple script to help increase your home's energetic performance by regulating the internal temperature base on the external values.  
 It is the first simpler version based on a single temperature point but I have a newer one ready to be tested but I need to wait for hotter days 😅
