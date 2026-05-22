@@ -1,4 +1,12 @@
-## Smart Water Heater with Home Assistant and Shelly device
+---
+title: "Smart Water Heater with Home Assistant and Shelly device"
+datePublished: 2022-08-24T10:00:00.627Z
+cuid: cl77g30z300ddmjnv7lp7dxty
+slug: smart-water-heater-with-home-assistant-and-shelly-device
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/LoGnr-w1D8E/upload/v1661287093808/G5Cd-2BM1.jpeg
+tags: automation, smart-home, home-assistant, shelly
+
+---
 
 Going ahead making my home smarter and, hopefully, reduce the electricity invoice by being more environmentally friendly... if adding electric devices can be considered in this way 😩 
 
