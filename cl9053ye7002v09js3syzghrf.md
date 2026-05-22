@@ -1,4 +1,10 @@
-# Optimize Ghost for SEO - SiteMap generator
+---
+title: "Optimize Ghost for SEO - SiteMap generator"
+datePublished: 2014-02-10T23:00:00.000Z
+cuid: cl9053ye7002v09js3syzghrf
+slug: optimize-ghost-for-seo-sitemap-generator
+
+---
 
 An important thing to be well referencend on search engines (is there anything different than Google? :D) is the **sitemap.xml**. In this file you should list all the pages of your website with some parameters to instruct the reader (the search engine robot for example) about the last update of a page, the update frequency and page priority.
 
