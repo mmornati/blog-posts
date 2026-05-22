@@ -1,4 +1,11 @@
-# Qubino ZMNHJD1 and Home Assistant installation
+---
+title: "Qubino ZMNHJD1 and Home Assistant installation"
+datePublished: 2018-11-03T23:00:00.000Z
+cuid: ckfvh0tji09pbv6s10egnh81h
+slug: qubino-zmnhjd1-and-home-assistant-installation
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/2EJCSULRwC8/upload/v1665261461664/AutftO3XD.jpeg
+
+---
 
 # Qubino ZMNHJD1 and Home Assistant installation
 
