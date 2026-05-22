@@ -1,1 +1,26 @@
-IyMgQmx1ZWhvc3QuY29tIGFuZCBQeXRob24gMi42Li4uCgpJIGZvdW5kIHB5dGhvbiAyLjYgaW5zdGFsbGVkIG9uIDxhIGhyZWY9Imh0dHA6Ly93d3cuYmx1ZWhvc3QuY29tIj5CbHVlSG9zdDwvYT7CoGJ1dCBpcyBub3QgZW5hYmxlZCBieSBkZWZhdWx0LiBUaGF0IG1lYW5zIGlmIHlvdSBzaW1wbHkgcnVuIGEgPGVtPnB5dGhvbjwvZW0+wqBjb21tYW5kIHlvdSB3aWxsIGhhdmUgdmVyc2lvbiAyLjQKPHByZT48Y29kZT4gdXNlckBtb3JuYXRpLm5ldCBbfl0jIHB5dGhvbgpQeXRob24gMi40LjMgKCMxLCBNYXkgIDUgMjAxMSwgMTY6Mzk6MTApCltHQ0MgNC4xLjIgMjAwODA3MDQgKFJlZCBIYXQgNC4xLjItNTApXSBvbiBsaW51eDIKVHlwZSAiaGVscCIsICJjb3B5cmlnaHQiLCAiY3JlZGl0cyIgb3IgImxpY2Vuc2UiIGZvciBtb3JlIGluZm9ybWF0aW9uLgomZ3Q7Jmd0OyZndDs8L2NvZGU+PC9wcmU+CkJ1dC4uLiBpbnNpZGUgdGhlIHVzZXIgaG9tZSBmb2xkZXIgdGhlcmUgaXMgYWxzbyB0aGUgdmVyc2lvbiAyLjYgKG9rLCBub3QgMi43IG5laXRoZXIgMy4wLCBidXQgYXQgbGVhc3QgYSBzdGVwIGFoZWFkIDopKQo8cHJlPjxjb2RlPiB1c2VyQG1vcm5hdGkubmV0IFt+XSMgd2hlcmVpcyBweXRob24KcHl0aG9uOiAvYmluL3B5dGhvbiAvYmluL3B5dGhvbi5vcmlnIC9iaW4vcHl0aG9uMi42LWNvbmZpZyAvYmluL3B5dGhvbjIuNCAvYmluL3B5dGhvbjIuNiAvdXNyL2Jpbi9weXRob24gL3Vzci9iaW4vcHl0aG9uLm9yaWcgL3Vzci9iaW4vcHl0aG9uMi42LWNvbmZpZyAvdXNyL2Jpbi9weXRob24yLjQgL3Vzci9iaW4vcHl0aG9uMi42IC9zYmluL3B5dGhvbiAvc2Jpbi9weXRob24ub3JpZyAvc2Jpbi9weXRob24yLjYtY29uZmlnIC9zYmluL3B5dGhvbjIuNCAvc2Jpbi9weXRob24yLjYgL3Vzci9zYmluL3B5dGhvbiAvdXNyL3NiaW4vcHl0aG9uLm9yaWcgL3Vzci9zYmluL3B5dGhvbjIuNi1jb25maWcgL3Vzci9zYmluL3B5dGhvbjIuNCAvdXNyL3NiaW4vcHl0aG9uMi42IC9saWIvcHl0aG9uMi40IC9saWIvcHl0aG9uMi4zIC9saWIvcHl0aG9uMi42IC91c3IvbGliL3B5dGhvbjIuNCAvdXNyL2xpYi9weXRob24yLjMgL3Vzci9saWIvcHl0aG9uMi42IC91c3IvaW5jbHVkZS9weXRob24yLjQgL3Vzci9pbmNsdWRlL3B5dGhvbjIuNiAvdXNyL3NoYXJlL21hbi9tYW4xL3B5dGhvbi4xLmd6PC9jb2RlPjwvcHJlPgpTbyA8ZW0+L2Jpbi9weXRob24yLjY8L2VtPsKgaXMgeW91IHJ1biBjb21tYW5kLgo8cHJlPjxjb2RlPiB1c2VyQG1vcm5hdGkubmV0IFt+XSMgcHl0aG9uMi42ClB5dGhvbiAyLjYgKHIyNjo2NjcxNCwgQXByICAxIDIwMDksIDIwOjQ0OjAwKQpbR0NDIDQuMS4yIDIwMDgwNzA0IChSZWQgSGF0IDQuMS4yLTQ0KV0gb24gbGludXgyClR5cGUgImhlbHAiLCAiY29weXJpZ2h0IiwgImNyZWRpdHMiIG9yICJsaWNlbnNlIiBmb3IgbW9yZSBpbmZvcm1hdGlvbi4KJmd0OyZndDsmZ3Q7PC9jb2RlPjwvcHJlPgpOb3cgdG8gdXNlIGJ5IGRlZmF1bHQgdGhlIHZlcnNpb24gMi42IHdpdGhvdXQgdXNpbmcgdGhlIDxlbT4iPC9lbT5iYWQiIDxlbT5weXRob24yLjYgPC9lbT5jb21tYW5kLCBqdXN0IGVkaXQgeW91ciAuYmFzaHJjIGZpbGUuIEFkZCB0aGlzIGxpbmUgYXQgdGhlIGVuZCBvZiB5b3VyIGZpbGU6CjxwcmU+PGNvZGU+IGFsaWFzIHB5dGhvbj3igJ1weXRob24yLjbigLM8L2NvZGU+PC9wcmU+CkFuZC4uLi4gZW5qb3kh
+---
+title: "Bluehost.com and Python 2.6..."
+datePublished: 2011-08-30T22:00:00.000Z
+cuid: cl8zz2gjq000409lcf5zhceh9
+slug: bluehostcom-and-python-26
+
+---
+
+I found python 2.6 installed on <a href="http://www.bluehost.com">BlueHost</a> but is not enabled by default. That means if you simply run a <em>python</em> command you will have version 2.4
+<pre><code> user@mornati.net [~]# python
+Python 2.4.3 (#1, May  5 2011, 16:39:10)
+[GCC 4.1.2 20080704 (Red Hat 4.1.2-50)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+&gt;&gt;&gt;</code></pre>
+But... inside the user home folder there is also the version 2.6 (ok, not 2.7 neither 3.0, but at least a step ahead :))
+<pre><code> user@mornati.net [~]# whereis python
+python: /bin/python /bin/python.orig /bin/python2.6-config /bin/python2.4 /bin/python2.6 /usr/bin/python /usr/bin/python.orig /usr/bin/python2.6-config /usr/bin/python2.4 /usr/bin/python2.6 /sbin/python /sbin/python.orig /sbin/python2.6-config /sbin/python2.4 /sbin/python2.6 /usr/sbin/python /usr/sbin/python.orig /usr/sbin/python2.6-config /usr/sbin/python2.4 /usr/sbin/python2.6 /lib/python2.4 /lib/python2.3 /lib/python2.6 /usr/lib/python2.4 /usr/lib/python2.3 /usr/lib/python2.6 /usr/include/python2.4 /usr/include/python2.6 /usr/share/man/man1/python.1.gz</code></pre>
+So <em>/bin/python2.6</em> is you run command.
+<pre><code> user@mornati.net [~]# python2.6
+Python 2.6 (r26:66714, Apr  1 2009, 20:44:00)
+[GCC 4.1.2 20080704 (Red Hat 4.1.2-44)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+&gt;&gt;&gt;</code></pre>
+Now to use by default the version 2.6 without using the <em>"</em>bad" <em>python2.6 </em>command, just edit your .bashrc file. Add this line at the end of your file:
+<pre><code> alias python=”python2.6″</code></pre>
+And.... enjoy!
