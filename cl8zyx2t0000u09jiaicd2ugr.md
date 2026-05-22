@@ -1,1 +1,71 @@
-IyMgQWdnaW9ybmFtZW50byBGaXJtd2FyZSBEZWxsIGRhIExpbnV4CgpEYSBidW9uIG1hbmlhY28gZGVnbGkgYWdnaW9ybmFtZW50aSwgbmVsIHBhc3NhZ2dpbyBkYWxsYSBGMTEgYWxsYSBGMTIgaG8gdm9sdXRvIHByb3ZhcmUgYW5jaGUgYSBkYXJlIHVuYSByaXRvY2NhdGluYSBhbCBCSU9TIGRlbCBQQywgdmlzdG8gY2hlIHVzYXZvIGxhIHZlcnNpb25lIEEwOCBlZCBlcmEgc3RhdGEgcmlsYXNjaWF0YSBkYSB1biBwbycgbGEgQTEwLgoKQW5kYW5kbyBzdWwgc2l0byBkaSBEZWxsIHBlciBsJ2FnZ2lvcm5hbWVudG8sIHZpZW5lIG92dmlhbWVudGUgcHJvcG9zdG8gdW4gc2ltcGF0aWNvIEVYRSBjaGUgZG92cmViYmUgZmFyZSB0dXR0byBkYSBzb2xvOyBwZWNjYXRvIGNoZSBzdSBsaW51eCBpbCBzaW1wYXRpY28gZmlsZSBFWEUgbm9uIHNlcnZhIGFzc29sdXRhbWVudGUgYSBuaWVudGUuIFF1aW5kaSwgY29tZSBnacOgIGZhdHRvIGluIHBhc3NhdG8sIG1pIHByZXBhcm8gYSBjcmVhcmUgdW4gZGlzY28gZGkgYXZ2aW8gY2hlIG1pIHBlcm1ldHRhIGRpIGFnZ2lyYXJlICJsJ29zdGFjb2xvIiBsaW51eCBlIGRhcmUgbnVvdmEgdml0YSBhbCBtaW8gQklPUy4KRm9ydHVuYSB2dW9sZSwgY2hlIGR1cmFudGUgbGEgcmljZXJjYSBkZWkgdG9vbCBjaGUgbWkgcGVybWV0dGVzc2VybyBkaSBjcmVhcmUgdGFsZSBkaXNjbyBkaSBhdnZpbywgbWkgaW1iYXR0byBpbiB0dXR0J2FsdHJvIGNoZSBtaSBzZW1wbGlmaWNhIGxhIHZpdGE6IGlsIHBhY2NoZXR0byA8c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6IGJvbGQ7Ij5maXJtd2FyZS1hZGRvbi1kZWxsPC9zcGFuPiAocXVlc3RvIMOoIGlsIG5vbWUgbmVpIHJlcG9zaXRvcnkgZmVkb3JhLCBtYSBpbW1hZ2lubyBjaGUgY2kgc2lhIHF1YWxjb3NhIGRpIHNpbWlsZSBhbmNoZSBwZXIgbGUgYWx0cmUgZGlzdHJpYnV6aW9uaSkuCjxwcmU+PGNvZGU+IHl1bSBpbnN0YWxsIGZpcm13YXJlLWFkZG9uLWRlbGw8L2NvZGU+PC9wcmU+CjxwcmU+PGNvZGU+ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ClBhY2thZ2UgQXJjaCBWZXJzaW9uIFJlcG9zaXRvcnkgU2l6ZQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpJbnN0YWxsaW5nOgpmaXJtd2FyZS1hZGRvbi1kZWxsIGk2ODYgMi4xLjItNS4zLmZjMTIgZmVkb3JhIDUwIGsKSW5zdGFsbGluZyBmb3IgZGVwZW5kZW5jaWVzOgpmaXJtd2FyZS10b29scyBub2FyY2ggMi4xLjUtMi4xLmZjMTIgZmVkb3JhIDE0MSBrCmxpYnNtYmlvcyBpNjg2IDIuMi4xNi0zLjEuZmMxMiBmZWRvcmEgMjA1IGsKcHl0aG9uLXNtYmlvcyBpNjg2IDIuMi4xNi0zLjEuZmMxMiBmZWRvcmEgNTggawpyZWRoYXQtcnBtLWNvbmZpZyBub2FyY2ggOS4wLjMtMTguZmMxMiBmZWRvcmEgNTMgawpzbWJpb3MtdXRpbHMgaTY4NiAyLjIuMTYtMy4xLmZjMTIgZmVkb3JhIDEzIGsKc21iaW9zLXV0aWxzLWJpbiBpNjg2IDIuMi4xNi0zLjEuZmMxMiBmZWRvcmEgMzggawpzbWJpb3MtdXRpbHMtcHl0aG9uIGk2ODYgMi4yLjE2LTMuMS5mYzEyIGZlZG9yYSA1MiBrPC9jb2RlPjwvcHJlPgpRdWVzdGEgw6ggbGEgbGlzdGEgZGkgdHV0dG8gcXVlbGxvIGNoZSB2aSB2ZXJyw6AgaW5zdGFsbGF0by5GaW5pdGEgbCdpbnN0YWxsYXppb25lIHBhcnRvIGluIHF1YXJ0YSBwZXIgcHJvdmFyZSBhZCBlc2VndWlyZSBsJ2FnZ2lvcm5hbWVudG8gY2hlIG1pIGVybyBwcmVmaXNzby4KPHByZT48Y29kZT4gW3Jvb3RAbW1vcm5hdGkgfl0jIHVwZGF0ZV9maXJtd2FyZQoKUnVubmluZyBzeXN0ZW0gaW52ZW50b3J5Li4uCgpTZWFyY2hpbmcgc3RvcmFnZSBkaXJlY3RvcnkgZm9yIGF2YWlsYWJsZSBCSU9TIHVwZGF0ZXMuLi4KQ2hlY2tpbmcgU3lzdGVtIEJJT1MgZm9yIExhdGl0dWRlIEQ2MjAgLSBhMDgKRGlkIG5vdCBmaW5kIGEgbmV3ZXIgcGFja2FnZSB0byBpbnN0YWxsIHRoYXQgbWVldHMgYWxsIGluc3RhbGxhdGlvbiBjaGVja3MuCgpUaGlzIHN5c3RlbSBkb2VzIG5vdCBhcHBlYXIgdG8gaGF2ZSBhbnkgdXBkYXRlcyBhdmFpbGFibGUuCk5vIGFjdGlvbiBuZWNlc3NhcnkuPC9jb2RlPjwvcHJlPgpMYSBjb3NhIG1pIGxhc2NpYSBvdnZpYW1lbnRlIHBlcnBsZXNzbyEgU28sIGRhbGxlIGluZm9ybWF6aW9uaSBwcmVzZSBkYWwgc2l0byBEZWxsLCBjaGUgZXNpc3RlIGlsIGZpcm13YXJlIEExMCwgbWEgcXVlc3RvIHRvb2wgbWkgZGljZSBjaGUgbm9uIGMnw6ggbmllbnRlIHBlciBpbCBtaW8gUEMhIFNhcsOgIGNoZSBub24gZnVuemlvbmEgbmllbnRlPwpNaSBsZWdnbyBpbCBtYW4gZGVsIHRvb2wgZSBzY29wcm8gY2hlIGluIHJlYWx0w6Agw6ggbmVjZXNzYXJpbyBhZ2dhbmNpYXJlIGRlaSByZXBvc2l0b3J5IGFsIHByb2dyYW1tYSBwZXIgZmFyZSBpbiBtb2RvIGNoZSBwb3NzYSBzY2FyaWNhcnNpIGkgZmlybXdhcmUgY29ycmV0dGkuCjxwcmU+PGNvZGU+IHdnZXQgLXEgLU8gLSBodHRwOi8vbGludXguZGVsbC5jb20vcmVwby9jb21tdW5pdHkvYm9vdHN0cmFwLmNnaSB8IGJhc2h5dW0gLXkgaW5zdGFsbCAkKGJvb3RzdHJhcF9maXJtd2FyZSk8L2NvZGU+PC9wcmU+ClF1ZXN0aSBzb25vIGkgY29tYW5kaSBkYSBsYW5jaWFyZSBwZXIgImluc3RhbGxhcmUiIGkgcmVwb3NpdG9yeSBkZWxsLgo8cHJlPjxjb2RlPiBbcm9vdEBtbW9ybmF0aSB+XSMgd2dldCAtcSAtTyAtIGh0dHA6Ly9saW51eC5kZWxsLmNvbS9yZXBvL2NvbW11bml0eS9ib290c3RyYXAuY2dpIHwgYmFzaApEb3dubG9hZGluZyBHUEcga2V5OiBodHRwOi8vbGludXguZGVsbC5jb20vcmVwby9jb21tdW5pdHkvUlBNLUdQRy1LRVktZGVsbApJbXBvcnRpbmcga2V5IGludG8gUlBNLgpEb3dubG9hZGluZyBHUEcga2V5OiBodHRwOi8vbGludXguZGVsbC5jb20vcmVwby9jb21tdW5pdHkvUlBNLUdQRy1LRVktbGlic21iaW9zCkltcG9ydGluZyBrZXkgaW50byBSUE0uCkRvd25sb2FkaW5nIEdQRyBrZXk6IGh0dHA6Ly9saW51eC5kZWxsLmNvbS9yZXBvL2NvbW11bml0eS9taXJyb3JzLmNnaT9vc25hbWU9ZjEyJmFtcDtiYXNlYXJjaD1pMzg2JmFtcDtyZWRpcnBhdGg9L3JlcG9kYXRhL3JlcG9tZC54bWwua2V5Ckluc3RhbGxpbmcgZGVsbC1maXJtd2FyZS1yZXBvc2l0b3J5LTEtNC5ub2FyY2gucnBtCkRvbmUhCkRlcGVuZGVuY2llcyBSZXNvbHZlZAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KUGFja2FnZSBBcmNoIFZlcnNpb24gUmVwb3NpdG9yeSBTaXplCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PTwvY29kZT48L3ByZT4KQ2hpc3PDoCBjaGUgdmVyc2lvbmUgc2Fyw6AgaWwgbWlvIFBDPyEgOkQKCkEgcXVlc3RvIHB1bnRvIMOoIHN1ZmZpY2llbnRlIGxhbmNpYXJlIGlsIGNvbWFuZG8gZGkgYWdnaW9ybmFtZW50byBlIHJpYXZ2aWFyZSBpbCBQQyBwZXIgYXZ2aWFyZSBsYSBwcm9jZWR1cmEgZGkgYWdnaW9ybmFtZW50byB2ZXJhIGUgcHJvcHJpYSAoaWwgZmxhc2hpbmcgZGVsIGJpb3Mgc3VsbGEgZWVwcm9tKS4KPHByZT48Y29kZT4gW3Jvb3RAbW1vcm5hdGkgfl0jIHVwZGF0ZV9maXJtd2FyZSAtLXllcwoKUnVubmluZyBzeXN0ZW0gaW52ZW50b3J5Li4uCgpTZWFyY2hpbmcgc3RvcmFnZSBkaXJlY3RvcnkgZm9yIGF2YWlsYWJsZSBCSU9TIHVwZGF0ZXMuLi4KQ2hlY2tpbmcgU3lzdGVtIEJJT1MgZm9yIExhdGl0dWRlIEQ2MjAgLSBhMDgKQXZhaWxhYmxlOiBzeXN0ZW1fYmlvcyh2ZW5fMHgxMDI4X2Rldl8weDAxYzIpIC0gYTEwCkZvdW5kIFVwZGF0ZTogc3lzdGVtX2Jpb3ModmVuXzB4MTAyOF9kZXZfMHgwMWMyKSAtIGExMAoKRm91bmQgZmlybXdhcmUgd2hpY2ggbmVlZHMgdG8gYmUgdXBkYXRlZC4KClJ1bm5pbmcgdXBkYXRlcy4uLgogMTAwJSBJbnN0YWxsaW5nIHN5c3RlbV9iaW9zKHZlbl8weDEwMjhfZGV2XzB4MDFjMikgLSBhMTAKRG9uZTogVXBkYXRlIGNvbXBsZXRlLiBZb3UgbXVzdCBwZXJmb3JtIGEgd2FybSByZWJvb3QgZm9yIHRoZSB1cGRhdGUgdG8gdGFrZSBlZmZlY3QuPC9jb2RlPjwvcHJlPgpBc3NpY3VybyBjaGUgZnVuemlvbmEgdHV0dG8gcXVhbnRvIGFsbGEgcGVyZmV6aW9uZSwgaW5mYXR0aSBvcmEgbWkgcml0cm92byBjb24gdW4gYmVsIGJpb3MgQTEwIHN1bCBtaW8gRGVsbCBENjIwIQ==
+---
+title: "Aggiornamento Firmware Dell da Linux"
+datePublished: 2009-12-07T23:00:00.000Z
+cuid: cl8zyx2t0000u09jiaicd2ugr
+slug: aggiornamento-firmware-dell-da-linux
+
+---
+
+Da buon maniaco degli aggiornamenti, nel passaggio dalla F11 alla F12 ho voluto provare anche a dare una ritoccatina al BIOS del PC, visto che usavo la versione A08 ed era stata rilasciata da un po' la A10.
+
+Andando sul sito di Dell per l'aggiornamento, viene ovviamente proposto un simpatico EXE che dovrebbe fare tutto da solo; peccato che su linux il simpatico file EXE non serva assolutamente a niente. Quindi, come già fatto in passato, mi preparo a creare un disco di avvio che mi permetta di aggirare "l'ostacolo" linux e dare nuova vita al mio BIOS.
+Fortuna vuole, che durante la ricerca dei tool che mi permettessero di creare tale disco di avvio, mi imbatto in tutt'altro che mi semplifica la vita: il pacchetto <span style="font-weight: bold;">firmware-addon-dell</span> (questo è il nome nei repository fedora, ma immagino che ci sia qualcosa di simile anche per le altre distribuzioni).
+<pre><code> yum install firmware-addon-dell</code></pre>
+<pre><code> =====================================================
+Package Arch Version Repository Size
+=====================================================
+Installing:
+firmware-addon-dell i686 2.1.2-5.3.fc12 fedora 50 k
+Installing for dependencies:
+firmware-tools noarch 2.1.5-2.1.fc12 fedora 141 k
+libsmbios i686 2.2.16-3.1.fc12 fedora 205 k
+python-smbios i686 2.2.16-3.1.fc12 fedora 58 k
+redhat-rpm-config noarch 9.0.3-18.fc12 fedora 53 k
+smbios-utils i686 2.2.16-3.1.fc12 fedora 13 k
+smbios-utils-bin i686 2.2.16-3.1.fc12 fedora 38 k
+smbios-utils-python i686 2.2.16-3.1.fc12 fedora 52 k</code></pre>
+Questa è la lista di tutto quello che vi verrà installato.Finita l'installazione parto in quarta per provare ad eseguire l'aggiornamento che mi ero prefisso.
+<pre><code> [root@mmornati ~]# update_firmware
+
+Running system inventory...
+
+Searching storage directory for available BIOS updates...
+Checking System BIOS for Latitude D620 - a08
+Did not find a newer package to install that meets all installation checks.
+
+This system does not appear to have any updates available.
+No action necessary.</code></pre>
+La cosa mi lascia ovviamente perplesso! So, dalle informazioni prese dal sito Dell, che esiste il firmware A10, ma questo tool mi dice che non c'è niente per il mio PC! Sarà che non funziona niente?
+Mi leggo il man del tool e scopro che in realtà è necessario agganciare dei repository al programma per fare in modo che possa scaricarsi i firmware corretti.
+<pre><code> wget -q -O - http://linux.dell.com/repo/community/bootstrap.cgi | bashyum -y install $(bootstrap_firmware)</code></pre>
+Questi sono i comandi da lanciare per "installare" i repository dell.
+<pre><code> [root@mmornati ~]# wget -q -O - http://linux.dell.com/repo/community/bootstrap.cgi | bash
+Downloading GPG key: http://linux.dell.com/repo/community/RPM-GPG-KEY-dell
+Importing key into RPM.
+Downloading GPG key: http://linux.dell.com/repo/community/RPM-GPG-KEY-libsmbios
+Importing key into RPM.
+Downloading GPG key: http://linux.dell.com/repo/community/mirrors.cgi?osname=f12&amp;basearch=i386&amp;redirpath=/repodata/repomd.xml.key
+Installing dell-firmware-repository-1-4.noarch.rpm
+Done!
+Dependencies Resolved
+======================================================
+Package Arch Version Repository Size
+======================================================</code></pre>
+Chissà che versione sarà il mio PC?! :D
+
+A questo punto è sufficiente lanciare il comando di aggiornamento e riavviare il PC per avviare la procedura di aggiornamento vera e propria (il flashing del bios sulla eeprom).
+<pre><code> [root@mmornati ~]# update_firmware --yes
+
+Running system inventory...
+
+Searching storage directory for available BIOS updates...
+Checking System BIOS for Latitude D620 - a08
+Available: system_bios(ven_0x1028_dev_0x01c2) - a10
+Found Update: system_bios(ven_0x1028_dev_0x01c2) - a10
+
+Found firmware which needs to be updated.
+
+Running updates...
+ 100% Installing system_bios(ven_0x1028_dev_0x01c2) - a10
+Done: Update complete. You must perform a warm reboot for the update to take effect.</code></pre>
+Assicuro che funziona tutto quanto alla perfezione, infatti ora mi ritrovo con un bel bios A10 sul mio Dell D620!
