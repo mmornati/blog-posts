@@ -1,1 +1,31 @@
-IyMgR3JhaWxzIC0gRHluYW1pYyBQbHVnaW5zIC0gSXNvbGF0ZWQgQ2xhc3Nsb2FkZXIKClRvIHByZXZlbnQgYSBwb3NzaWJsZSBqYXJzIGNvbmZsaWN0IGR1cmluZyBkeW5hbWljIHBsdWdpbiBleGVjdXRpb24gKHdoYXQgSSB3YXMgdGFsa2luZyBhYm91dCBpbiBteSBwcmV2aW91cyBwb3N0KSwgSSBmb3VuZCBhIHNpbXBsZSBzb2x1dGlvbiB0aGF0IEknbSBwYXN0aW5nIGZvciB5b3UgaGVyZToKPHByZT48Y29kZT4gY2xhc3MgRGVmYXVsdFBsdWdpbkpvYiB7CiBzdGF0aWMgdHJpZ2dlcnMgPSB7IH0KIHN0YXRpYyBjYWNoZWRDbGFzc0xvYWRlciA9IFs6XQogZGVmIGV4ZWN1dGUoY29udGV4dCkgewogICBkZWYgbGlicmFyeUZvbGRlciA9IGNvbnRleHQubWVyZ2VkSm9iRGF0YU1hcC5nZXQoImxpYnJhcnlGb2xkZXIiKQogICBpZiAoIWNhY2hlZENsYXNzTG9hZGVyW2NvbnRleHQubWVyZ2VkSm9iRGF0YU1hcC5nZXQoImpvYk5hbWUiKV0pIHsKICAgbG9nLmRlYnVnICJDb25zdHJ1Y3RpbmcgY2xhc3MgbG9hZGVyIGZvciAke2NvbnRleHQubWVyZ2VkSm9iRGF0YU1hcC5nZXQoImpvYk5hbWUiKX0iCiAgIGRlZiB1cmxzID0gW10gbGlicmFyeUZvbGRlcj8uZWFjaEZpbGUgeyBsaWJyYXJ5IC0mZ3Q7CiAgICAgbG9nLmRlYnVnICJBZGRpbmcgZmlsZSAke2xpYnJhcnl9IgogICAgIHVybHMuYWRkKGxpYnJhcnkudG9VUkwoKSkKICAgfcKgCiAgY2FjaGVkQ2xhc3NMb2FkZXJbY29udGV4dC5tZXJnZWRKb2JEYXRhTWFwLmdldCgiam9iTmFtZSIpXSA9IG5ldyBVUkxDbGFzc0xvYWRlcih1cmxzIGFzIFVSTFtdLCB0aGlzLmNsYXNzLmNsYXNzTG9hZGVyKSB9CiAgZGVmIGZpbGUgPSBjb250ZXh0Lm1lcmdlZEpvYkRhdGFNYXAuZ2V0KCJzY3JpcHRGaWxlIikgQmluZGluZyBiaW5kaW5nID0gbmV3IEJpbmRpbmcoY29udGV4dC5tZXJnZWRKb2JEYXRhTWFwKTsKICBHcm9vdnlTaGVsbCBzaGVsbCA9IG5ldyBHcm9vdnlTaGVsbChjYWNoZWRDbGFzc0xvYWRlcltjb250ZXh0Lm1lcmdlZEpvYkRhdGFNYXAuZ2V0KCJqb2JOYW1lIildLCBiaW5kaW5nKTsKICBkZWYgc2NyaXB0UmVzdWx0ID0gc2hlbGwuZXZhbHVhdGUoZmlsZS50ZXh0KTsKIH0KfTwvY29kZT48L3ByZT4KQSBuZXcgVVJMQ2xhc3NMb2FkZXIgd2lsbCBiZSBjcmVhdGVkIGZvciBlYWNoIHNjcmlwdCB0aGF0IG5lZWQgdG8gYmUgcnVuIGZyb20gbXkgam9iLCBhbmQgaXQgd2lsbCBjb250YWluIGEgY29weSBvZiBwYXJlbnQgY2xhc3MgbG9hZGVyIGFuZCBuZXcgamFycyBuZWVkZWQgZm9yIHRoZSBzY3JpcHQgZXhlY3V0aW9uLgoKV2hhdCB5b3UgY2FuIGZpbmQgaGVyZSBpcyB0aGUgY3VycmVudCBzb2x1dGlvbiBJJ20gdXNpbmcgaW4gbXkgYXBwbGljYXRpb246IGFsbCBjbGFzc2xvYWRlcnMgYXJlIGNhY2hlZCBpbiBhIHN0YXRpYyBtYXAgKHRoYW5rcyBhZ2FpbiB0byBTZXJnZXkgZm9yIHN1Z2dlc3Rpb24gOykpIGFuZCBwYXNzZWQgdG8gR3Jvb3Z5U2hlbGwgZm9yIHNjcmlwdCBleGVjdGlvbi4gVXNpbmcgY2FjaGUgZm9yIGNsYXNzbG9hZGVyIGdyYW50ZWQgdGhhdCBJJ3ZlIG9ubHkgb25lIGNsYXNzbG9hZGVyIGdlbmVyYXRpb24gZm9yIGVhY2ggc2NyaXB0IChhbmQgbm90IG9uZSBmb3IgZWFjaCBqb2IgZXhlY3V0aW9uKS4gWW91IGxvb3NlIG1lbW9yeSB0byBnZXQgcGVyZmVybWFuY2UhIDspCgpXYWl0aW5nIGZvciBjb21tZW50cyBhYm91dCB0aGlzIHdheSB0byBydW4gYSBqYXZhIHdlYiBhcHBsaWNhdGlvbiEgOik=
+---
+title: "Grails - Dynamic Plugins - Isolated Classloader"
+datePublished: 2008-07-29T22:00:00.000Z
+cuid: cl8zwb0ib000809ml2oygcf4z
+slug: grails-dynamic-plugins-isolated-classloader
+
+---
+
+To prevent a possible jars conflict during dynamic plugin execution (what I was talking about in my previous post), I found a simple solution that I'm pasting for you here:
+<pre><code> class DefaultPluginJob {
+ static triggers = { }
+ static cachedClassLoader = [:]
+ def execute(context) {
+   def libraryFolder = context.mergedJobDataMap.get("libraryFolder")
+   if (!cachedClassLoader[context.mergedJobDataMap.get("jobName")]) {
+   log.debug "Constructing class loader for ${context.mergedJobDataMap.get("jobName")}"
+   def urls = [] libraryFolder?.eachFile { library -&gt;
+     log.debug "Adding file ${library}"
+     urls.add(library.toURL())
+   } 
+  cachedClassLoader[context.mergedJobDataMap.get("jobName")] = new URLClassLoader(urls as URL[], this.class.classLoader) }
+  def file = context.mergedJobDataMap.get("scriptFile") Binding binding = new Binding(context.mergedJobDataMap);
+  GroovyShell shell = new GroovyShell(cachedClassLoader[context.mergedJobDataMap.get("jobName")], binding);
+  def scriptResult = shell.evaluate(file.text);
+ }
+}</code></pre>
+A new URLClassLoader will be created for each script that need to be run from my job, and it will contain a copy of parent class loader and new jars needed for the script execution.
+
+What you can find here is the current solution I'm using in my application: all classloaders are cached in a static map (thanks again to Sergey for suggestion ;)) and passed to GroovyShell for script exection. Using cache for classloader granted that I've only one classloader generation for each script (and not one for each job execution). You loose memory to get perfermance! ;)
+
+Waiting for comments about this way to run a java web application! :)
