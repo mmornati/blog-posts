@@ -1,4 +1,10 @@
-# Sync others google calendar to your iOS device
+---
+title: "Sync others google calendar to your iOS device"
+datePublished: 2012-05-09T22:00:00.000Z
+cuid: cl902yiw7000n09js6gsb0zjb
+slug: sync-others-google-calendar-to-your-ios-device
+
+---
 
 By default, when you configure a Google account on your iOS device, there is just your default calendar synchronized with iPhone/iPad. But if you have, like me, configured and imported some other calendars that are displayed on your gcal, you surely would have them on your portable device too.
 
