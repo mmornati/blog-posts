@@ -2,7 +2,7 @@
 title: "Building Cyber Code Academy: A "Pure Vibe Coding" Experiment"
 seoTitle: "Pure Vibe Coding" Experiment Explained"
 seoDescription: "Discover Cyber Code Academy: a gamified platform for learning Python, driven by AI and developed with "pure vibe coding" for interactive fun"
-datePublished: Sun Dec 28 2025 15:14:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-28T15:14:36.216Z
 cuid: cmjpvek3c000402jl8r2r4y3h
 slug: building-cyber-code-academy-a-pure-vibe-coding-experiment
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/1gZQ5chmcH0/upload/8b5f2a7462f5e20f29063b676570a1b3.jpeg
