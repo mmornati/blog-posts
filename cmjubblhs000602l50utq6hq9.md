@@ -2,7 +2,7 @@
 title: "Behind the Scenes: The Admin Section of Cyber Code Academy"
 seoTitle: "Exploring Cyber Code Academy's Admin Secrets"
 seoDescription: "Explore the powerful admin tools of Cyber Code Academy for challenge creation, monitoring, semantic validation, and AI-driven platform management"
-datePublished: Wed Dec 31 2025 17:51:16 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-12-31T17:51:16.624Z
 cuid: cmjubblhs000602l50utq6hq9
 slug: behind-the-scenes-the-admin-section-of-cyber-code-academy
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2EJCSULRwC8/upload/2002fa693f55058a33ab384476b954f4.jpeg
