@@ -1,4 +1,10 @@
-# KermIT: New filters and Dashboard
+---
+title: "KermIT: New filters and Dashboard"
+datePublished: 2012-07-25T22:00:00.000Z
+cuid: cl903ahqe000p09jsdjqbbzq3
+slug: kermit-new-filters-and-dashboard
+
+---
 
 <a href="http://www.kermit.fr">KemIT</a> development going ahead adding new functions everyday. Today two new videos showing Tree Filters and Persistent DashBoard.
 
