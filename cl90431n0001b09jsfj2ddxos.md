@@ -1,4 +1,10 @@
-# Improve your Android battery life
+---
+title: "Improve your Android battery life"
+datePublished: 2013-09-12T22:00:00.000Z
+cuid: cl90431n0001b09jsfj2ddxos
+slug: improve-your-android-battery-life
+
+---
 
 I like to use my smartphone with all functions always activated, but this is naturally a thing which contributes negatively to battery life. I tried to switch off, for example, the Bluetooth when I'm not using it, but then I get back to my car and only when I'm receiving a phone call I discover I'm not linked with the car because I dismembered to reactivate the Bluetooth function... So, no... I cannot use a device in this way. Recently I discover a little (but powerful) application which helps me doing this <strong>automatically</strong>: <a href="https://play.google.com/store/apps/details?id=com.jwsoft.nfcactionlauncher&amp;hl=en"><strong>NFC Task Launcher</strong></a>. Yes, the name means you should use it with NFC tags, but developers also add other interesting features even without NFC: wifi connect/disconnect, bluetooth connect/disconnect, gps position, ... To show you how my smartphone usage has changed, I just describe some tasks I added to this application.
 <ol>
