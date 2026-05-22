@@ -1,4 +1,10 @@
-# Hurricane ROM for Galaxy Note 2: Make it like the Note 3
+---
+title: "Hurricane ROM for Galaxy Note 2: Make it like the Note 3"
+datePublished: 2013-12-10T23:00:00.000Z
+cuid: cl904vifg002k09jsgxacgc1d
+slug: hurricane-rom-for-galaxy-note-2-make-it-like-the-note-3
+
+---
 
 After months waiting for a Samsung Update for my Note 2, which is actually still not available, I decided to make some tests on other ROMs with Android 4.3 and/or 4.4, to give a new life to my smartphone.
 
