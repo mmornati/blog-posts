@@ -1,4 +1,12 @@
-## The (hard) job of IT engineers for dummies
+---
+title: "The (hard) job of IT engineers for dummies"
+datePublished: 2020-11-11T14:37:20.004Z
+cuid: ckhdic45c00jazms1757x3yzc
+slug: the-hard-job-of-it-engineers-for-dummies
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1605105392447/-62p7mPQm.jpeg
+tags: engineering, software-engineering, it
+
+---
 
 I've been working in IT tech since... ever. I started too young, and I started because I like to learn new things. And that what drives my life. During all these years I spent time to understand how things were working; learning, because things are changing every day; teaching to new guys what I learned,... and trust me, it is not so easy as you can think. 
 An IT guy is not (only) the person able to fix the problem on your printer; there are several different jobs and anyone required a specific skill. And personally, I'm not sure I will be able to fix your printer problem 😜
