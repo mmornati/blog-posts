@@ -1,4 +1,10 @@
-# Shairport: turn your linux in an AirPlay speaker
+---
+title: "Shairport: turn your linux in an AirPlay speaker"
+datePublished: 2012-03-21T23:00:00.000Z
+cuid: cl902wth6001k09js2bz61ccy
+slug: shairport-turn-your-linux-in-an-airplay-speaker
+
+---
 
 I just discovered and tested a nice project that allow you to create an AirPlay server to use as a simple speaker for your iOS device (for example send audio from your iPod to your Linux PC): <a href="https://github.com/albertz/shairport">Shairport</a>!!
 
