@@ -1,4 +1,10 @@
-# Mount Hubic cloud disk on your local Linux
+---
+title: "Mount Hubic cloud disk on your local Linux"
+datePublished: 2013-11-03T23:00:00.000Z
+cuid: cl9049ede002a09js9xia5a6j
+slug: mount-hubic-cloud-disk-on-your-local-linux
+
+---
 
 <a href="https://hubic.com/it/">Hubic</a> is the french Dropbox clone, created by OVH, offering 25Gb storage for free. When it sorted out there weren't many clients for the different operating systems but there was an useful (undocumented) fonction: the webdav. Using webdav you could mount your Hubic drive on any system to copy your files.
 Some weeks ago, when the latest OS client (the linux one) come out, OVH decided to remove the webdav access... but unfortunately the client at the moment has some bugs and is not so easy-to-use like "copy e file into a folder".
