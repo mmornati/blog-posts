@@ -1,4 +1,10 @@
-## HTTP2 Some Basic tests to check if it is working on your website
+---
+title: "HTTP2 Some Basic tests to check if it is working on your website"
+datePublished: 2016-10-09T22:00:00.000Z
+cuid: ckfvguvi009p9u9s159609x8p
+slug: http2-some-basic-tests-to-check-if-it-is-working-on-your-website
+
+---
 
 # HTTP2 Some Basic tests to check if it is working on your website
 
