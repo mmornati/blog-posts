@@ -245,20 +245,20 @@ This means every request in OpenCode — whether it is a code review, a document
 
 The MCP server is wired in `.vscode/mcp.json` and `.copilot/mcp-config.json`, making it available both in the IDE and in headless CLI mode. This is the dual-entry pattern from section 5 — the same orchestration engine powers interactive development and automated CI/CD pipelines.
 
-### 7.6. What This Validates
+### 7.6. What This Validates (Projections & Local Benchmarks)
 
-AI Dispatch is a **concept project** — a prototype designed to validate the routing pattern before committing to a production-scale implementation. What is expected in a real world use:
+AI Dispatch is a concept project—a prototype designed to validate the routing pattern before committing to a production-scale implementation. While it lacks production metrics from hundreds of concurrent users, my initial local tests and simulations during a weekend of hacking confirm that intelligent delegation works:
 
-*   **Cost**: Roughly 65–70% of queries hit cheap models (GPT-4o mini, DeepSeek V4 Flash). The blended per-token cost landed at about $3.50/M tokens — a 71% saving versus sending everything to Claude Opus.
+*   **Estimated Cost Savings:** Based on the distribution of my test queries where roughly 65–70% hit cheap models (GPT-4o mini, DeepSeek V4 Flash), the simulated blended per-token cost landed at about $3.50/M tokens. This represents a theoretical 71% saving compared to sending everything to Claude Opus.
     
-*   **Quality**: The mirror protocol caught issues in roughly 12% of code reviews on the first pass. Most could be false positives or missed edge cases that the auditor detected.
+*   **Quality & The Auditor Loop:** During my local evaluation scenarios, the mirror protocol successfully caught incomplete findings or missed edge cases on the first pass. It demonstrates that a programmatic retry loop is perfectly viable for automated code reviews.
     
-*   **Latency**: Simple tasks (doc formatting, onboarding plans) complete in under 2 seconds. Complex reviews take 10–15 seconds — but the user gets a fast response on the majority of interactions.
+*   **Perceived Latency:** Simple tasks (documentation formatting, onboarding plans) complete in under 2 seconds. Complex reviews take 10–15 seconds due to the multi-model chain—but the user gets an immediate, fast response on the vast majority of standard interactions.
     
-*   **Router accuracy**: The prompt-based orchestrator classifier is surprisingly effective for well-defined domains. Misrouting happens in about 3% of cases, and the fallback mechanism handles these gracefully.
+*   **Router Accuracy:** The prompt-based orchestrator classifier proved highly effective for well-defined domains. Misrouting happened in only a small fraction of my test cases, and the fallback mechanism was able to handle these gracefully.
     
 
-The project is not production-hardened — it lacks structured logging, metrics dashboards, and horizontal scaling. But it does prove that intelligent delegation is not just a theoretical cost-saving exercise. It works, it is practical, and it can be built with modest effort using existing MCP infrastructure.
+The project is not production-hardened—it lacks structured logging, metrics dashboards, and horizontal scaling. But it successfully proves that intelligent delegation is not just a theoretical cost-saving exercise. It is practical, highly flexible, and can be built with modest effort using existing MCP infrastructure.
 
 ## 8\. The Future: From Delegation to Autonomy
 
