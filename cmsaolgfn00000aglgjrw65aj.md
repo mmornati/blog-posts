@@ -119,6 +119,66 @@ The project is [gphoto2proton](https://github.com/mmornati/gphoto2proton), open-
 
 The migration is not trivial — ~354GB across 9 archives — but the result is worth it: all photos in Proton Photos with albums intact, dates correct, and no Google account needed.
 
+## Script execution sample
+
+If you follow the documentation, you will be ready to go in few minutes. I put here the bash script output to let you see what it allows for you. I think this saves me days (weeks?) in manual operations.
+
+```bash
+TAKEOUT_DIR=/media/12tb/photos ~/gphoto2proton/gphoto2proton-import.sh
+[19:26:09] gphoto2proton-import: takeout=/media/12tb/photos work=/home/mmornati/gphoto2proton/work logs=/home/mmornati/gphoto2proton/logs state=/home/mmornati/gphoto2proton/state
+[19:26:09] CLI=proton-drive credentials_store=pass
+[19:26:10] authentication OK (store: pass)
+[19:26:10] disk space OK: avail=309352MB, need~=104448MB
+[19:26:10] skipping takeout-20260729T191209Z-001.tgz (already done)
+[19:26:10]
+[19:26:10] ==== takeout-20260729T191210Z-1-001.tgz (1/8) ====
+[19:26:10] extraction exists, resuming ...
+[19:26:10] stripping macOS metadata junk (._*, .DS_Store) ...
+[19:26:10] applying original capture dates from sidecar JSON ...
+[19:28:35] applied capture dates from sidecar JSON to 16562 files
+[19:28:35] building manifest (sha1sum of all media files) ...
+[19:28:39]   sha1sum progress: 500 files hashed
+total 26956
+drwxrwxr-x  6 mmornati mmornati     4096 août   1 09:26 ./
+[19:28:39]   sha1sum progress: 500 files hashed
+[19:28:44]   sha1sum progress: 1000 files hashed
+[19:28:49]   sha1sum progress: 1500 files hashed
+[19:28:54]   sha1sum progress: 2000 files hashed
+[19:28:57]   sha1sum progress: 2500 files hashed
+[19:29:02]   sha1sum progress: 3000 files hashed
+[19:29:08]   sha1sum progress: 3500 files hashed
+[19:29:13]   sha1sum progress: 4000 files hashed
+[19:29:18]   sha1sum progress: 4500 files hashed
+[19:29:32]   sha1sum progress: 5000 files hashed
+[19:29:36]   sha1sum progress: 5500 files hashed
+[19:29:41]   sha1sum progress: 6000 files hashed
+[19:29:46]   sha1sum progress: 6500 files hashed
+[19:29:52]   sha1sum progress: 7000 files hashed
+[19:29:57]   sha1sum progress: 7500 files hashed
+[19:30:02]   sha1sum progress: 8000 files hashed
+[19:30:07]   sha1sum progress: 8500 files hashed
+[19:30:17]   sha1sum progress: 9000 files hashed
+[19:30:22]   sha1sum progress: 9500 files hashed
+[19:30:28]   sha1sum progress: 10000 files hashed
+[19:30:32]   sha1sum progress: 10500 files hashed
+[19:30:39]   sha1sum progress: 11000 files hashed
+[19:30:44]   sha1sum progress: 11500 files hashed
+[19:30:50]   sha1sum progress: 12000 files hashed
+[19:30:57]   sha1sum progress: 12500 files hashed
+[19:31:03]   sha1sum progress: 13000 files hashed
+[19:31:08]   sha1sum progress: 13500 files hashed
+[19:31:13]   sha1sum progress: 14000 files hashed
+[19:31:18]   sha1sum progress: 14500 files hashed
+[19:31:23]   sha1sum progress: 15000 files hashed
+[19:31:29]   sha1sum progress: 15500 files hashed
+[19:31:34]   sha1sum progress: 16000 files hashed
+[19:31:40]   sha1sum progress: 16500 files hashed
+[19:31:45]   sha1sum progress: 17000 files hashed
+[19:31:47]   sha1sum complete: 17236 files
+[19:31:47] expected media: 17236 files (17197 unique)
+[19:31:47] uploading (conflict strategy: skip) ...
+```
+
 ## Lessons Learned
 
 1.  **Proton's API surface is fragmented**: Drive and Photos are different systems with different APIs. Don't assume uploading to one gets you the other.
